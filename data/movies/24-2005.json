@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_24_2005",
+  "title": "Юрий Гагарин. Последние 24 часа",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16722767"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 39
+}
