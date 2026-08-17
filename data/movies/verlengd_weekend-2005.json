@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_verlengd_weekend_2005",
+  "title": "Verlengd weekend",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2102224",
+    "imdb": "tt0443352",
+    "tmdb": 66066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 93
+}

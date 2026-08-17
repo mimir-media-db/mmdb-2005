@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_velvet_murderers_2005",
+  "title": "The Velvet Murderers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q593782",
+    "imdb": "tt0406194",
+    "tmdb": 40986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 137
+}

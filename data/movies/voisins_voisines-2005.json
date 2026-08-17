@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voisins_voisines_2005",
+  "title": "Voisins, voisines",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3562384",
+    "imdb": "tt0417100",
+    "tmdb": 470129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

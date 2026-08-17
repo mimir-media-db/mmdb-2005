@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vies_et_morts_dandy_warhol_2005",
+  "title": "Vies et morts d'Andy Warhol",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4011504",
+    "imdb": "tt0759748",
+    "tmdb": 1068968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 81
+}

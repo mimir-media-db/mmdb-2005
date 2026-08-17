@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_veruschka_a_life_for_the_camera_2005",
+  "title": "Veruschka: A Life for the Camera",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4010302",
+    "imdb": "tt0876565",
+    "tmdb": 128268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 71
+}
