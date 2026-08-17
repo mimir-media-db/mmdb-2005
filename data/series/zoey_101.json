@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zoey_101",
+  "title": "Zoey 101",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q218281",
+    "imdb": "tt0415463",
+    "tmdb": 1778
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 65
+}
