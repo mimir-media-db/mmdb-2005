@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wachau_land_am_strome_2005",
+  "title": "Wachau – Land am Strome",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1745404",
+    "imdb": "tt1950448",
+    "tmdb": 64295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 50
+}

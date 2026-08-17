@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walmart_the_high_cost_of_low_price_2005",
+  "title": "Wal-Mart: The High Cost of Low Price",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3282877",
+    "imdb": "tt0473107",
+    "tmdb": 29595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

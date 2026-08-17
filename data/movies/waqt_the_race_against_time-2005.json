@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waqt_the_race_against_time_2005",
+  "title": "Waqt: The Race Against Time",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2548930",
+    "imdb": "tt0390614",
+    "tmdb": 31364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 153
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_side_up_2005",
+  "title": "Wrong Side Up",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2478495",
+    "imdb": "tt0408120",
+    "tmdb": 26826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}
