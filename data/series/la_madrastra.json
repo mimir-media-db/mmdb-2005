@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_madrastra",
+  "title": "La Madrastra",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q469935",
+    "imdb": "tt0430839",
+    "tmdb": 13093
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 120
+}

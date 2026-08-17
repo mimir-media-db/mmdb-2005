@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lance_krall_show",
+  "title": "The Lance Krall Show",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7745329",
+    "imdb": "tt0443385",
+    "tmdb": 9322
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}
