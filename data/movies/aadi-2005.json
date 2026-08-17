@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_aadi_2005",
+  "title": "Aadi",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13158255"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-04"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_audition_2005",
+  "title": "Audition",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3202589",
+    "imdb": "tt0460401",
+    "tmdb": 49735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-01",
+  "runtime_minutes": 111
+}

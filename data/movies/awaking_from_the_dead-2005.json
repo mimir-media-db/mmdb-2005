@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_awaking_from_the_dead_2005",
+  "title": "Awaking from the Dead",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12749522",
+    "imdb": "tt0389823",
+    "tmdb": 112418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 134
+}

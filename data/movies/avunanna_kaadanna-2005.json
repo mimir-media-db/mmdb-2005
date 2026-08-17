@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_avunanna_kaadanna_2005",
+  "title": "Avunanna Kaadanna",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12990859",
+    "imdb": "tt0959284",
+    "tmdb": 684241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

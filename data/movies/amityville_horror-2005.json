@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amityville_horror_2005",
+  "title": "The Amityville Horror",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q471054",
+    "imdb": "tt0384806",
+    "tmdb": 10065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-07",
+  "runtime_minutes": 89
+}

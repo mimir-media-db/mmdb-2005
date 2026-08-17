@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agnipath_2005",
+  "title": "Agnipath",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16058232",
+    "imdb": "tt5184714",
+    "tmdb": 966826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

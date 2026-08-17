@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_spicy_2005",
+  "title": "Ali Spicy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12228102",
+    "imdb": "tt1807918",
+    "tmdb": 454321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asta_nilssons_company_2005",
+  "title": "Asta Nilsson's Company",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10420531",
+    "imdb": "tt0455079",
+    "tmdb": 394631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-05",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_andiamo_2005",
+  "title": "Andiamo!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3615373",
+    "imdb": "tt0461742"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-31"
+}

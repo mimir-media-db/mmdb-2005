@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alfie_2005",
+  "title": "Alfie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1356395",
+    "imdb": "tt0375173",
+    "tmdb": 8849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-10",
+  "runtime_minutes": 103
+}
