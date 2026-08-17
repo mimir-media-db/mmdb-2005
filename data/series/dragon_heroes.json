@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dragon_heroes",
+  "title": "The Dragon Heroes",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7730843",
+    "tmdb": 130650
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

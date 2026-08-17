@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_drama_connections",
+  "title": "Drama Connections",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5305700",
+    "imdb": "tt0478752",
+    "tmdb": 13209
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

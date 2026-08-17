@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_decisiones",
+  "title": "Decisiones",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5249251",
+    "imdb": "tt0493232",
+    "tmdb": 3272
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 323
+}

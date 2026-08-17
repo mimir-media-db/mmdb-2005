@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dolph_wulff",
+  "title": "Dolph & Wulff",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q12308802",
+    "imdb": "tt0489419",
+    "tmdb": 31517
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

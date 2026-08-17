@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_danmarks_nste_topmodel",
+  "title": "Danmarks Næste Topmodel",
+  "start_year": 2005,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q3705475"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 23
+}
