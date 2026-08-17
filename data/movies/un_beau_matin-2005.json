@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_beau_matin_2005",
+  "title": "Un beau matin",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548375",
+    "imdb": "tt0773155"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 12
+}

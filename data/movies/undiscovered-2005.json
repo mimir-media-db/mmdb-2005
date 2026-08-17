@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_undiscovered_2005",
+  "title": "Undiscovered",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q533321",
+    "imdb": "tt0434424",
+    "tmdb": 17926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

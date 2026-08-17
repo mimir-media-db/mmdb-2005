@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_une_fenetre_ouverte_2005",
+  "title": "Une Fenêtre ouverte",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549507",
+    "imdb": "tt1195861",
+    "tmdb": 682523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
