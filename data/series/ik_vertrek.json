@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ik_vertrek",
+  "title": "Ik vertrek",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2231098",
+    "imdb": "tt9589896",
+    "tmdb": 26428
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}
