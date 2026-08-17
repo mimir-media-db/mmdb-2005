@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jacks_big_music_show",
+  "title": "Jack's Big Music Show",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5854095",
+    "imdb": "tt0471488",
+    "tmdb": 1185
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
