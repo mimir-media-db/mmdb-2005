@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_truth_about_killer_dinosaurs",
+  "title": "The Truth About Killer Dinosaurs",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3495678",
+    "imdb": "tt0491202",
+    "tmdb": 77142
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

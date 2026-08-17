@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_to_kokkino_domatio",
+  "title": "To kokkino domatio",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12885395",
+    "imdb": "tt0820002",
+    "tmdb": 35798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 81
+}

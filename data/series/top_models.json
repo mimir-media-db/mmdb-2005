@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_top_models",
+  "title": "Top Models",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q21546352",
+    "imdb": "tt0454373"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 140
+}

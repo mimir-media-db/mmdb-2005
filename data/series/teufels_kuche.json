@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_teufels_kuche",
+  "title": "Teufels Küche",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2406985",
+    "imdb": "tt0781305"
+  },
+  "last_updated": "2026-08-17"
+}
