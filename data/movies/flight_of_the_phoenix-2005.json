@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flight_of_the_phoenix_2005",
+  "title": "Flight of the Phoenix",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q627614",
+    "imdb": "tt0377062",
+    "tmdb": 11866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-07",
+  "runtime_minutes": 108
+}

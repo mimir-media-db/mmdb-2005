@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_patient_2005",
+  "title": "The Final Patient",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20076691",
+    "imdb": "tt0455474",
+    "tmdb": 48514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

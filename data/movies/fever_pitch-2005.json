@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fever_pitch_2005",
+  "title": "Fever Pitch",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1304902",
+    "imdb": "tt0332047",
+    "tmdb": 11431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-06",
+  "runtime_minutes": 103
+}

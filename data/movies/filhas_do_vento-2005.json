@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_filhas_do_vento_2005",
+  "title": "Filhas do Vento",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16494599",
+    "imdb": "tt0422238",
+    "tmdb": 71113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

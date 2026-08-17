@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fluerne_pa_vggen_2005",
+  "title": "Fluerne på væggen",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1430594",
+    "imdb": "tt0428546",
+    "tmdb": 57272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-12",
+  "runtime_minutes": 95
+}

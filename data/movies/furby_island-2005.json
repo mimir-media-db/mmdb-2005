@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_furby_island_2005",
+  "title": "Furby Island",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65925073",
+    "imdb": "tt0498908",
+    "tmdb": 331068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 45
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_weeks_in_june_2005",
+  "title": "Four Weeks in June",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10500605",
+    "imdb": "tt0472526",
+    "tmdb": 145256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}
