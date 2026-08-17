@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anukokunda_oka_roju_2005",
+  "title": "Anukokunda Oka Roju",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4777773",
+    "imdb": "tt0473604",
+    "tmdb": 80862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

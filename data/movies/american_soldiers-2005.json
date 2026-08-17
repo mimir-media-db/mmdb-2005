@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_soldiers_2005",
+  "title": "American Soldiers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q466915",
+    "imdb": "tt0425743",
+    "tmdb": 41497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 103
+}

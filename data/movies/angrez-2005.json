@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angrez_2005",
+  "title": "The Angrez",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7713811",
+    "imdb": "tt2612156",
+    "tmdb": 115873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

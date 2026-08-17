@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anjaane_2005",
+  "title": "Anjaane",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4765717",
+    "imdb": "tt0874854",
+    "tmdb": 544275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

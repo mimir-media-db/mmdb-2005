@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aardvarkd_12_weeks_with_geeks_2005",
+  "title": "Aardvark'd: 12 Weeks with Geeks",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661688",
+    "imdb": "tt0813987",
+    "tmdb": 124362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

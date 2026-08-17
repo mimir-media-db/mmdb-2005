@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apocalipsur_2005",
+  "title": "Apocalipsur",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4780061",
+    "imdb": "tt0485583",
+    "tmdb": 91764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 101
+}

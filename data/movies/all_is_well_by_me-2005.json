@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_is_well_by_me_2005",
+  "title": "All Is Well by Me",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6557594",
+    "imdb": "tt0488868"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

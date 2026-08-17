@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ar_meno_un_quejio_2005",
+  "title": "Ar meno un quejío",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5702115",
+    "imdb": "tt0474536",
+    "tmdb": 95995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

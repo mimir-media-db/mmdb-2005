@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aaru_2005",
+  "title": "Aaru",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3534938",
+    "imdb": "tt0455309",
+    "tmdb": 35643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_love_2005",
+  "title": "About Love",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q683950",
+    "imdb": "tt0456821",
+    "tmdb": 95164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 102
+}

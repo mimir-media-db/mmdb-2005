@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_about_my_dog_2005",
+  "title": "All About My Dog",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q624578",
+    "imdb": "tt0475974",
+    "tmdb": 434623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 96
+}
