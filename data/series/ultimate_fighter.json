@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ultimate_fighter",
+  "title": "The Ultimate Fighter",
+  "start_year": 2005,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q2072393",
+    "imdb": "tt0445912",
+    "tmdb": 517
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 30,
+  "total_episodes": 150
+}
