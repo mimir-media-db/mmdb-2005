@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heroine_2005",
+  "title": "Heroine",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3311758",
+    "imdb": "tt0436385",
+    "tmdb": 121961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-06",
+  "runtime_minutes": 100
+}

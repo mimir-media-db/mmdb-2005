@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_history_of_violence_2005",
+  "title": "A History of Violence",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300439",
+    "imdb": "tt0399146",
+    "tmdb": 59
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-16",
+  "runtime_minutes": 96
+}

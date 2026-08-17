@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_how_you_look_to_me_2005",
+  "title": "How You Look to Me",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47500741",
+    "imdb": "tt0420231",
+    "tmdb": 278957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-01"
+}

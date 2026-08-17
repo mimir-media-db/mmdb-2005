@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hood_2_hood_the_blockumentary_2005",
+  "title": "Hood 2 Hood: The Blockumentary",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124840",
+    "imdb": "tt3952526",
+    "tmdb": 88824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-19"
+}

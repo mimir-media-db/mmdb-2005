@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hastig_werden_wir_leiser_2005",
+  "title": "Hastig werden wir leiser",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39753708",
+    "imdb": "tt1327620",
+    "tmdb": 503670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-26"
+}

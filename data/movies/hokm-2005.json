@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hokm_2005",
+  "title": "Hokm",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5878201",
+    "imdb": "tt0439612",
+    "tmdb": 384587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-30",
+  "runtime_minutes": 104
+}

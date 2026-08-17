@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hijos_el_alma_en_dos_2005",
+  "title": "H.I.J.O.S.: El alma en dos",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111672652",
+    "imdb": "tt0319475",
+    "tmdb": 408767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 80
+}

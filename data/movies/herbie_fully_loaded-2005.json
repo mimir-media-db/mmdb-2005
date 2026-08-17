@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herbie_fully_loaded_2005",
+  "title": "Herbie: Fully Loaded",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q641492",
+    "imdb": "tt0400497",
+    "tmdb": 11451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-17",
+  "runtime_minutes": 101
+}

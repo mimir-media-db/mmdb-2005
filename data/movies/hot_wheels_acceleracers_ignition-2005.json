@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_wheels_acceleracers_ignition_2005",
+  "title": "Hot Wheels AcceleRacers: Ignition",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303085",
+    "imdb": "tt2054778",
+    "tmdb": 72720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-08",
+  "runtime_minutes": 60
+}

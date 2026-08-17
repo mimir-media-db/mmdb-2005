@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_rwanda_2005",
+  "title": "Hotel Rwanda",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q223884",
+    "imdb": "tt0395169",
+    "tmdb": 205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-18",
+  "runtime_minutes": 121
+}

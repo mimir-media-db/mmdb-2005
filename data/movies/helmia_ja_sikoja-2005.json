@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_helmia_ja_sikoja_2005",
+  "title": "Helmiä ja sikoja",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11862100",
+    "imdb": "tt0342520",
+    "tmdb": 54764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-27",
+  "runtime_minutes": 113
+}

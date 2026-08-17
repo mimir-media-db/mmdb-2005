@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hrubes_a_mares_jsou_kamaradi_do_deste_2005",
+  "title": "Hrubeš a Mareš jsou kamarádi do deště",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12020767",
+    "imdb": "tt0409032",
+    "tmdb": 227595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 116
+}

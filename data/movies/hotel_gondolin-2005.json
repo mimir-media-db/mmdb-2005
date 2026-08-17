@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_gondolin_2005",
+  "title": "Hotel Gondolín",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116003321",
+    "imdb": "tt0489727",
+    "tmdb": 1298455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-11"
+}

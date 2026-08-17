@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hayflower_and_quiltshoe_2005",
+  "title": "Hayflower and Quiltshoe",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4428244",
+    "imdb": "tt0339134",
+    "tmdb": 54763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-15",
+  "runtime_minutes": 75
+}

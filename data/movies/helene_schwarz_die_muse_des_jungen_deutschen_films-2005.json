@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_helene_schwarz_die_muse_des_jungen_deutschen_films_2005",
+  "title": "Helene Schwarz, die Muse des jungen deutschen Films",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60998247",
+    "imdb": "tt0467138",
+    "tmdb": 556829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}
