@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thomas_friends_calling_all_engines_2005",
+  "title": "Thomas & Friends: Calling All Engines!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1100719",
+    "imdb": "tt4388664",
+    "tmdb": 99629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

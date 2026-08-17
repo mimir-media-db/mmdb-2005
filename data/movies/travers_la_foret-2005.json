@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_travers_la_foret_2005",
+  "title": "À travers la forêt",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q249422",
+    "imdb": "tt0477404",
+    "tmdb": 101904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 65
+}

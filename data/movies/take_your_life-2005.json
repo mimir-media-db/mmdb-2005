@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_take_your_life_2005",
+  "title": "Take Your Life",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4114964",
+    "imdb": "tt0430406",
+    "tmdb": 379411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

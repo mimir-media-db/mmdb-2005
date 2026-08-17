@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transporter_2_2005",
+  "title": "Transporter 2",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q841114",
+    "imdb": "tt0388482",
+    "tmdb": 9335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 87
+}
