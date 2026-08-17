@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iberia_2005",
+  "title": "Iberia",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1655798",
+    "imdb": "tt0443057",
+    "tmdb": 102368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 120
+}

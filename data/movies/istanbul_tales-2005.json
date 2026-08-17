@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_istanbul_tales_2005",
+  "title": "Istanbul Tales",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3472837",
+    "imdb": "tt0421625",
+    "tmdb": 30633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 99
+}

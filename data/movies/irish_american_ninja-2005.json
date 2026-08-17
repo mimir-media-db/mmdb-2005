@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_irish_american_ninja_2005",
+  "title": "Irish American Ninja",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6070477",
+    "imdb": "tt0478811",
+    "tmdb": 257032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

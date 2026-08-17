@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_had_to_be_you_2005",
+  "title": "It Had to Be You!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6091766",
+    "imdb": "tt0453097",
+    "tmdb": 60802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

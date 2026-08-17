@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_irkutz_88_2005",
+  "title": "Irkutz 88",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3154475",
+    "imdb": "tt0442279",
+    "tmdb": 398450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

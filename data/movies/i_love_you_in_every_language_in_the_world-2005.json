@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_you_in_every_language_in_the_world_2005",
+  "title": "I Love You in Every Language in the World",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3991020",
+    "imdb": "tt0493171",
+    "tmdb": 44894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

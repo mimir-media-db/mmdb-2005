@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_queen_2005",
+  "title": "Ice Queen",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5985339",
+    "imdb": "tt0228040",
+    "tmdb": 68505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 92
+}
