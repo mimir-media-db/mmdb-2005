@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sdelka_ili_ne",
+  "title": "Sdelka ili ne",
+  "start_year": 2005,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q16961516",
+    "imdb": "tt1289484"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10
+}

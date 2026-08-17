@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_saturday_night_with_miriam",
+  "title": "Saturday Night with Miriam",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7426735",
+    "imdb": "tt0475201",
+    "tmdb": 12175
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_saat_phere",
+  "title": "Saat Phere",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7395718",
+    "imdb": "tt1445563",
+    "tmdb": 1287
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 854
+}

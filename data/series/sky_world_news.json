@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_sky_world_news",
+  "title": "Sky World News",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7537555"
+  },
+  "last_updated": "2026-08-17"
+}

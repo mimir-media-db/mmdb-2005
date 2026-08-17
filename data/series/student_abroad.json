@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_student_abroad",
+  "title": "Student Abroad",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112187501",
+    "imdb": "tt0992989",
+    "tmdb": 239717
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_surgeon",
+  "title": "The Surgeon",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7767522",
+    "imdb": "tt0485071",
+    "tmdb": 64
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

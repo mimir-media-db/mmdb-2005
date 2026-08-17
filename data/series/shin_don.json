@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_shin_don",
+  "title": "Shin Don",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q625950",
+    "imdb": "tt6289520",
+    "tmdb": 23410
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 63
+}

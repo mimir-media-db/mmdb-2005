@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sea_devils",
+  "title": "Sea Devils",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124325732",
+    "imdb": "tt0965390",
+    "tmdb": 108257
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 384
+}
