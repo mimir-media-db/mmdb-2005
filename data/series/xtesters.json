@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_xtesters",
+  "title": "The X-Testers",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117779919",
+    "imdb": "tt0483537"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}
