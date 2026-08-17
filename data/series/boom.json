@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_boom",
+  "title": "Boom!",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4943369",
+    "imdb": "tt0475902",
+    "tmdb": 34810
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_back_in_the_day",
+  "title": "Back in the Day",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4839298",
+    "imdb": "tt0462080"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}
