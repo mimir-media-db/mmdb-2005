@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1409_afera_na_zamku_bartenstein_2005",
+  "title": "1409. Afera na zamku Bartenstein",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9128902",
+    "imdb": "tt0491713",
+    "tmdb": 320154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 75
+}
