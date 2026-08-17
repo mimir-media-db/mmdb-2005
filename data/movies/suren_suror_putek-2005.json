@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suren_suror_putek_2005",
+  "title": "Suren Suror Putek",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7645632",
+    "imdb": "tt5171096",
+    "tmdb": 740675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

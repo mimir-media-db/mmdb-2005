@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shanti_2005",
+  "title": "Shanti",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7489056",
+    "imdb": "tt32869970"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

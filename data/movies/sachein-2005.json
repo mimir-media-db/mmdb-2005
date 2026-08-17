@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sachein_2005",
+  "title": "Sachein",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473383",
+    "imdb": "tt0453201",
+    "tmdb": 63641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

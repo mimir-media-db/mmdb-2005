@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorry_haters_2005",
+  "title": "Sorry, Haters",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7563712",
+    "imdb": "tt0425600",
+    "tmdb": 4913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shining_boy_little_randy_2005",
+  "title": "Shining Boy & Little Randy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3482215",
+    "imdb": "tt0465499",
+    "tmdb": 287126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sophie_scholl_the_final_days_2005",
+  "title": "Sophie Scholl – The Final Days",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q311626",
+    "imdb": "tt0426578",
+    "tmdb": 2117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sos_2005",
+  "title": "S.O.S. Спасите наши души",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4048664",
+    "imdb": "tt0436736",
+    "tmdb": 618000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

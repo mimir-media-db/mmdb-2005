@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seoul_raiders_2005",
+  "title": "Seoul Raiders",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3478838",
+    "imdb": "tt0455116",
+    "tmdb": 10265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

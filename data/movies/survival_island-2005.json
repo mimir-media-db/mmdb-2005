@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_survival_island_2005",
+  "title": "Survival Island",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q692592",
+    "imdb": "tt0377309",
+    "tmdb": 9753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

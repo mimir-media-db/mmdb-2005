@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_souls_of_naples_2005",
+  "title": "Souls of Naples",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2228783",
+    "imdb": "tt0457535",
+    "tmdb": 801138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

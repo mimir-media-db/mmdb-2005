@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_in_wheres_my_mummy_2005",
+  "title": "Scooby-Doo! in Where's My Mummy?",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2121040",
+    "imdb": "tt0480461",
+    "tmdb": 20558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 75
+}

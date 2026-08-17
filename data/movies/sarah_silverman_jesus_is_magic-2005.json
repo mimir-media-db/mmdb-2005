@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sarah_silverman_jesus_is_magic_2005",
+  "title": "Sarah Silverman: Jesus Is Magic",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7422770",
+    "imdb": "tt0422528",
+    "tmdb": 16156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 72
+}

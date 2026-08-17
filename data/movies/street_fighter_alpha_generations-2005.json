@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_street_fighter_alpha_generations_2005",
+  "title": "Street Fighter Alpha: Generations",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1779112",
+    "imdb": "tt0495900",
+    "tmdb": 16228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 45
+}

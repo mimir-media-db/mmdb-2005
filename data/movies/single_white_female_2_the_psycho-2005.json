@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_single_white_female_2_the_psycho_2005",
+  "title": "Single White Female 2: The Psycho",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3156750",
+    "imdb": "tt0448120",
+    "tmdb": 35683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 91
+}

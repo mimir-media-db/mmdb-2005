@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suzanne_2005",
+  "title": "Suzanne",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3505881",
+    "imdb": "tt0781514",
+    "tmdb": 1189383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 7
+}

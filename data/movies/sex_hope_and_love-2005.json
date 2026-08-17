@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_hope_and_love_2005",
+  "title": "Sex, Hope and Love",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2850324",
+    "imdb": "tt0466397",
+    "tmdb": 155663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 93
+}

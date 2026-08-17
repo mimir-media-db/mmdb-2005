@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samba_on_your_feet_2005",
+  "title": "Samba On Your Feet",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7408962",
+    "imdb": "tt0482590",
+    "tmdb": 1739033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
