@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mothers_heart_the_making_of_a_great_woman_2005",
+  "title": "My Mother's Heart: The Making of a Great Woman",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048635",
+    "imdb": "tt1175061",
+    "tmdb": 976207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

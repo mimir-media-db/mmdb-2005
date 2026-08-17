@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mirror_wars_2005",
+  "title": "Mirror Wars",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2781431",
+    "imdb": "tt0337678",
+    "tmdb": 75078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-01",
+  "runtime_minutes": 110
+}

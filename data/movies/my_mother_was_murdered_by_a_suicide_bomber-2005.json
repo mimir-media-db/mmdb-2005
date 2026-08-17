@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mother_was_murdered_by_a_suicide_bomber_2005",
+  "title": "My Mother Was Murdered by a Suicide Bomber",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10585624",
+    "imdb": "tt1538881"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

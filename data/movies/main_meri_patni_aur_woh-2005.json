@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_main_meri_patni_aur_woh_2005",
+  "title": "Main, Meri Patni Aur Woh",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12447679",
+    "imdb": "tt0485513",
+    "tmdb": 39218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

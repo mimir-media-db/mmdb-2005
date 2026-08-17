@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mangal_pandey_the_rising_2005",
+  "title": "Mangal Pandey: The Rising",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1784272",
+    "imdb": "tt0346457",
+    "tmdb": 20496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-12",
+  "runtime_minutes": 146
+}

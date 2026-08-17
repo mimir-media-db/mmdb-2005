@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meher_nigar_2005",
+  "title": "Meher Nigar",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13059410",
+    "imdb": "tt5372906",
+    "tmdb": 1640602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

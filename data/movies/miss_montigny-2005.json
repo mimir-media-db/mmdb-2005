@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_montigny_2005",
+  "title": "Miss Montigny",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56303310",
+    "imdb": "tt0428827",
+    "tmdb": 359158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-02"
+}

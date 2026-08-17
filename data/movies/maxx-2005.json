@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maxx_2005",
+  "title": "Maxx",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6796196",
+    "imdb": "tt0780076",
+    "tmdb": 44079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-28",
+  "runtime_minutes": 110
+}

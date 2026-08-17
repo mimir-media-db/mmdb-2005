@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mortadelo_filemon_the_big_adventure_2005",
+  "title": "Mortadelo & Filemon: The Big Adventure",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1100832",
+    "imdb": "tt0314121",
+    "tmdb": 8980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-10",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_at_sage_creek_2005",
+  "title": "Miracle at Sage Creek",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511288",
+    "imdb": "tt0444669",
+    "tmdb": 47520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

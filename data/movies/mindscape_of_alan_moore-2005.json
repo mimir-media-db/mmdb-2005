@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mindscape_of_alan_moore_2005",
+  "title": "The Mindscape of Alan Moore",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7751542",
+    "imdb": "tt0410321",
+    "tmdb": 67857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_munsters_fall_2005",
+  "title": "Münsters fall",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10712547",
+    "imdb": "tt0806132",
+    "tmdb": 125961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

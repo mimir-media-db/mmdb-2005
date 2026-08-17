@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahasadhvi_mallamma_2005",
+  "title": "Mahasadhvi Mallamma",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26000030",
+    "imdb": "tt14338670",
+    "tmdb": 488566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-14"
+}

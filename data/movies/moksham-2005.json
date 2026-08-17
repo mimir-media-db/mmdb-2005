@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moksham_2005",
+  "title": "Moksham",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18390914",
+    "imdb": "tt3239992",
+    "tmdb": 700240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-14"
+}

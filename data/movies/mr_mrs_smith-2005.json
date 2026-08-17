@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_mrs_smith_2005",
+  "title": "Mr. & Mrs. Smith",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q191040",
+    "imdb": "tt0356910",
+    "tmdb": 787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-07",
+  "runtime_minutes": 120
+}

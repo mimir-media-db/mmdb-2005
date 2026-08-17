@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mondovino_2005",
+  "title": "Mondovino",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q289459",
+    "imdb": "tt0411674",
+    "tmdb": 48121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-28",
+  "runtime_minutes": 135
+}

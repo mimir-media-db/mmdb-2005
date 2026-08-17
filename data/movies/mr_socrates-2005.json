@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_socrates_2005",
+  "title": "Mr. Socrates",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473061",
+    "imdb": "tt0488762",
+    "tmdb": 32163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-10",
+  "runtime_minutes": 109
+}
