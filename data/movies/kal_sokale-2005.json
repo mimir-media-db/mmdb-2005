@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_kal_sokale_2005",
+  "title": "Kal Sokale",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13057487"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-04"
+}

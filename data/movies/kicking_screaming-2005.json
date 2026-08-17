@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kicking_screaming_2005",
+  "title": "Kicking & Screaming",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q284086",
+    "imdb": "tt0384642",
+    "tmdb": 9981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-01",
+  "runtime_minutes": 95
+}

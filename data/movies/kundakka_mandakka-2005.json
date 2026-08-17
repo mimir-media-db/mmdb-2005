@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kundakka_mandakka_2005",
+  "title": "Kundakka Mandakka",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6444264",
+    "imdb": "tt6758208",
+    "tmdb": 80229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-14"
+}

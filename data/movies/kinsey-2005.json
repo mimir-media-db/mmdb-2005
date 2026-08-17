@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kinsey_2005",
+  "title": "Kinsey",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83656",
+    "imdb": "tt0362269",
+    "tmdb": 11184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-24",
+  "runtime_minutes": 118
+}

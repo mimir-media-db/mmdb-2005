@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karnaphulir_kanna_2005",
+  "title": "Karnaphulir Kanna",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105064150",
+    "imdb": "tt6070438"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 1
+}
