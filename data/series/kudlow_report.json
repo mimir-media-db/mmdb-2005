@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_kudlow_report",
+  "title": "The Kudlow Report",
+  "start_year": 2005,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7744973"
+  },
+  "last_updated": "2026-08-17"
+}

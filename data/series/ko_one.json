@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ko_one",
+  "title": "KO One",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q693325",
+    "imdb": "tt1841171",
+    "tmdb": 1149
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}
