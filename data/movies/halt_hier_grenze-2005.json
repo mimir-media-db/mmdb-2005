@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_halt_hier_grenze_2005",
+  "title": "Halt! Hier Grenze",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1572322",
+    "imdb": "tt0473041"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 59
+}

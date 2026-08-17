@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hoboken_hollow_2005",
+  "title": "Hoboken Hollow",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1621611",
+    "imdb": "tt0455961",
+    "tmdb": 15652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 94
+}

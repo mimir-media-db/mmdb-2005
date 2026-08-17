@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_horror_2005",
+  "title": "Hollywood Horror",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3786336",
+    "imdb": "tt8310986",
+    "tmdb": 991611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

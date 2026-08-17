@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_homos_en_banlieue_2005",
+  "title": "Homos en banlieue",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3139885",
+    "imdb": "tt0486120",
+    "tmdb": 607439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

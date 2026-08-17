@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_much_you_want_to_cry_2005",
+  "title": "How Much You Want to Cry?",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5672071",
+    "imdb": "tt6639882",
+    "tmdb": 821663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 93
+}

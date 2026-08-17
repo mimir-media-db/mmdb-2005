@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_her_minor_thing_2005",
+  "title": "Her Minor Thing",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549028",
+    "imdb": "tt0417751",
+    "tmdb": 39344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunt_for_justice_the_louise_arbour_story_2005",
+  "title": "Hunt for Justice: the Louise Arbour Story",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1678249",
+    "imdb": "tt0449588",
+    "tmdb": 41888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 86
+}
