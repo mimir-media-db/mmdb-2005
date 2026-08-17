@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_like_heaven_2005",
+  "title": "Just like Heaven",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75539",
+    "imdb": "tt0425123",
+    "tmdb": 9007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-16",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_janji_joni_2005",
+  "title": "Janji Joni",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12487339",
+    "imdb": "tt0441641",
+    "tmdb": 39064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-27",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jersey_girl_2005",
+  "title": "Jersey Girl",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127897",
+    "imdb": "tt0300051",
+    "tmdb": 9541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-06",
+  "runtime_minutes": 98
+}

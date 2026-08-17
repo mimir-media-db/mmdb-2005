@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joy_of_life_2005",
+  "title": "The Joy of Life",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7743706",
+    "imdb": "tt0436457",
+    "tmdb": 129110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-27",
+  "runtime_minutes": 63
+}

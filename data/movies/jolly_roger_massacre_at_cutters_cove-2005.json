@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jolly_roger_massacre_at_cutters_cove_2005",
+  "title": "Jolly Roger: Massacre at Cutter's Cove",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6270115",
+    "imdb": "tt0452636",
+    "tmdb": 54963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-31",
+  "runtime_minutes": 80
+}

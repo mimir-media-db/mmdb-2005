@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joint_security_area_2005",
+  "title": "Joint Security Area",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q202681",
+    "imdb": "tt0260991",
+    "tmdb": 2440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-15",
+  "runtime_minutes": 110
+}
