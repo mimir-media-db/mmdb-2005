@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_last_dance_2005",
+  "title": "One Last Dance",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2413633",
+    "imdb": "tt0445609",
+    "tmdb": 36640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 106
+}

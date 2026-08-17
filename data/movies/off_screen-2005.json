@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_off_screen_2005",
+  "title": "Off Screen",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2100799",
+    "imdb": "tt0414200",
+    "tmdb": 147241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 94
+}
