@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yahaan_2005",
+  "title": "Yahaan",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3571306",
+    "imdb": "tt0473567",
+    "tmdb": 216696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

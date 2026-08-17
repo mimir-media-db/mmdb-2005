@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yorhad_un_amico_dallo_spazio_2005",
+  "title": "Yo-Rhad - Un amico dallo spazio",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4022790",
+    "imdb": "tt1225899",
+    "tmdb": 898935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 81
+}
