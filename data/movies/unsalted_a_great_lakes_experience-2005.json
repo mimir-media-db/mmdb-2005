@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unsalted_a_great_lakes_experience_2005",
+  "title": "Unsalted: A Great Lakes Experience",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16959567",
+    "imdb": "tt1235813",
+    "tmdb": 248761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

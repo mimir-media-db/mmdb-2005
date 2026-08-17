@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unknown_2005",
+  "title": "The Unknown",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123517558",
+    "imdb": "tt0364616",
+    "tmdb": 55449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

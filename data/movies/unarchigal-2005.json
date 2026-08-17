@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unarchigal_2005",
+  "title": "Unarchigal",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30599492",
+    "imdb": "tt13731148",
+    "tmdb": 1697246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

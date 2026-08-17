@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_brivido_sulla_pelle_2005",
+  "title": "Un brivido sulla pelle",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20804267",
+    "imdb": "tt1043576",
+    "tmdb": 1451261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

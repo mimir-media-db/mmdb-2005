@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unternehmen_paradies_2005",
+  "title": "Unternehmen Paradies",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23666965",
+    "imdb": "tt1254362",
+    "tmdb": 557082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-24"
+}

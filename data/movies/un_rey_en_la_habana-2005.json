@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_rey_en_la_habana_2005",
+  "title": "Un rey en la Habana",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6155661",
+    "imdb": "tt0426190",
+    "tmdb": 75473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-27",
+  "runtime_minutes": 98
+}

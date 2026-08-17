@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unforgiven_2005",
+  "title": "The Unforgiven",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7771463",
+    "imdb": "tt0499274",
+    "tmdb": 182633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-18",
+  "runtime_minutes": 121
+}
