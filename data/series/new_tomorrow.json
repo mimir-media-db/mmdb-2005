@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_new_tomorrow",
+  "title": "The New Tomorrow",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q471138",
+    "imdb": "tt0478947",
+    "tmdb": 13293
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

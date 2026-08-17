@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nach_baliye",
+  "title": "Nach Baliye",
+  "start_year": 2005,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6957111"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 168
+}
