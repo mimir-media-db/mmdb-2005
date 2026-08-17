@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sevvel_2005",
+  "title": "Sevvel",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18201832",
+    "imdb": "tt13775936"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

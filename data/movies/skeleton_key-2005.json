@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skeleton_key_2005",
+  "title": "The Skeleton Key",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1199793",
+    "imdb": "tt0397101",
+    "tmdb": 9913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-29",
+  "runtime_minutes": 104
+}

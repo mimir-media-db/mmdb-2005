@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sarkar_dada_2005",
+  "title": "Sarkar Dada",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18169390",
+    "imdb": "tt1102325",
+    "tmdb": 350788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

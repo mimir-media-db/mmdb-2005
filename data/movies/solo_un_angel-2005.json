@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solo_un_angel_2005",
+  "title": "Sólo un ángel",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001568",
+    "imdb": "tt0298159",
+    "tmdb": 484521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

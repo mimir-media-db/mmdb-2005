@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_standing_still_2005",
+  "title": "Standing Still",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3496602",
+    "imdb": "tt0360016",
+    "tmdb": 14167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-17"
+}

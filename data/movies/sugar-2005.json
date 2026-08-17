@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sugar_2005",
+  "title": "Sugar",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3290762",
+    "imdb": "tt0374252",
+    "tmdb": 36799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-07",
+  "runtime_minutes": 78
+}

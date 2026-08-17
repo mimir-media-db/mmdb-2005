@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sal_de_prata_2005",
+  "title": "Sal de Prata",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10366915",
+    "imdb": "tt0457123",
+    "tmdb": 254449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

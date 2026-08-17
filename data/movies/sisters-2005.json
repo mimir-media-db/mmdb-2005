@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_2005",
+  "title": "The Sisters",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1346583",
+    "imdb": "tt0407205",
+    "tmdb": 46283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-23",
+  "runtime_minutes": 113
+}

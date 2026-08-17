@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spaghetti_in_8_minutes_2005",
+  "title": "Spaghetti in 8 Minutes",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5876361",
+    "imdb": "tt7893350",
+    "tmdb": 632022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-17",
+  "runtime_minutes": 102
+}

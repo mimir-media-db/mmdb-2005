@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sandmann_historien_om_en_sosialistisk_supermann_2005",
+  "title": "Sandmann – Historien om en sosialistisk supermann",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7416422",
+    "imdb": "tt0933387",
+    "tmdb": 772731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-17",
+  "runtime_minutes": 51
+}

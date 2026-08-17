@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swenkas_2005",
+  "title": "The Swenkas",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729621",
+    "imdb": "tt0457499",
+    "tmdb": 177156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-09",
+  "runtime_minutes": 73
+}

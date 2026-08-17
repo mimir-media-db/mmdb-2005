@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strat_pack_2005",
+  "title": "The Strat Pack",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7766969",
+    "imdb": "tt1399097",
+    "tmdb": 138039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-03",
+  "runtime_minutes": 235
+}

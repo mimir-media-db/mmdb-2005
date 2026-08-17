@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samurai_i_loved_2005",
+  "title": "The Samurai I Loved",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12970834",
+    "imdb": "tt0455748",
+    "tmdb": 56661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-01"
+}

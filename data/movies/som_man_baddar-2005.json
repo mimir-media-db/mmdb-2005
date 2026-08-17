@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_som_man_baddar_2005",
+  "title": "Som man bäddar...",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10673456",
+    "imdb": "tt0399860",
+    "tmdb": 82256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

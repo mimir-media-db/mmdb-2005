@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sababi_2_2005",
+  "title": "Sababi 2",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113458669",
+    "imdb": "tt1445107"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

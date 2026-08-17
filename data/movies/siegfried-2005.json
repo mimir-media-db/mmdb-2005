@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_siegfried_2005",
+  "title": "Siegfried",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2283165",
+    "imdb": "tt0429095",
+    "tmdb": 10659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-14",
+  "runtime_minutes": 85
+}

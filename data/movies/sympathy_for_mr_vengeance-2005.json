@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sympathy_for_mr_vengeance_2005",
+  "title": "Sympathy for Mr. Vengeance",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q483849",
+    "imdb": "tt0310775",
+    "tmdb": 4689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-19",
+  "runtime_minutes": 121
+}

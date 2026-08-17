@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shakal_sandhya_2005",
+  "title": "Shakal Sandhya",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254098",
+    "imdb": "tt4245432",
+    "tmdb": 998779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

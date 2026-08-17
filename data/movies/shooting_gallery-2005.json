@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shooting_gallery_2005",
+  "title": "Shooting Gallery",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7500572",
+    "imdb": "tt0339526",
+    "tmdb": 13916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-27",
+  "runtime_minutes": 102
+}

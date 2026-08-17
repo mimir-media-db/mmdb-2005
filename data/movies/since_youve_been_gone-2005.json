@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_since_youve_been_gone_2005",
+  "title": "Since You've Been Gone",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50280846",
+    "imdb": "tt0758049",
+    "tmdb": 801336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 58
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadows_of_the_deceased_2005",
+  "title": "Shadows of the Deceased",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102389909",
+    "imdb": "tt0406914",
+    "tmdb": 253731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 126
+}

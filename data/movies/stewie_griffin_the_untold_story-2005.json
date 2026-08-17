@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stewie_griffin_the_untold_story_2005",
+  "title": "Stewie Griffin: The Untold Story",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q684288",
+    "imdb": "tt0385690",
+    "tmdb": 65215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-27",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sigwan_2005",
+  "title": "Sigwan",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59618730",
+    "imdb": "tt10582392",
+    "tmdb": 375912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 12
+}

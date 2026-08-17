@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sandlot_2_2005",
+  "title": "The Sandlot 2",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795576",
+    "imdb": "tt0418131",
+    "tmdb": 18500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-03",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sumas_y_restas_2005",
+  "title": "Sumas y restas",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9080490",
+    "imdb": "tt0265825",
+    "tmdb": 258450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}
