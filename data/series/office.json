@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_office",
+  "title": "The Office",
+  "start_year": 2005,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q23831",
+    "imdb": "tt0386676",
+    "tmdb": 2316
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 204
+}

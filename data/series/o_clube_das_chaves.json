@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_o_clube_das_chaves",
+  "title": "O Clube das Chaves",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10338886",
+    "imdb": "tt0495653",
+    "tmdb": 239733
+  },
+  "last_updated": "2026-08-17"
+}

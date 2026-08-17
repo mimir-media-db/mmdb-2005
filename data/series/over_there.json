@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_over_there",
+  "title": "Over There",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1858443",
+    "imdb": "tt0446241",
+    "tmdb": 4564
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}
