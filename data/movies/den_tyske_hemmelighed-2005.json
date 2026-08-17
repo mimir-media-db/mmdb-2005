@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_den_tyske_hemmelighed_2005",
+  "title": "Den tyske hemmelighed",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728433",
+    "imdb": "tt0848485",
+    "tmdb": 1157308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-23",
+  "runtime_minutes": 88
+}

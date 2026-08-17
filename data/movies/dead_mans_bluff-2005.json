@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_mans_bluff_2005",
+  "title": "Dead Man's Bluff",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4180811",
+    "imdb": "tt0420982",
+    "tmdb": 20994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-24",
+  "runtime_minutes": 105
+}

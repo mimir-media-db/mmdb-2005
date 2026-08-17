@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_serious_2005",
+  "title": "Dead Serious",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978359",
+    "imdb": "tt0404908",
+    "tmdb": 452137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

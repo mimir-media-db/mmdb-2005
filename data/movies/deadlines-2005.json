@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadlines_2005",
+  "title": "Deadlines",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16546533",
+    "imdb": "tt0397388",
+    "tmdb": 411477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

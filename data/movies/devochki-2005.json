@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devochki_2005",
+  "title": "Devochki",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97172669",
+    "imdb": "tt0899239",
+    "tmdb": 462152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 48
+}

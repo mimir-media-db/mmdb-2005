@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_mr_lazarescu_2005",
+  "title": "The Death of Mr. Lazarescu",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197442",
+    "imdb": "tt0456149",
+    "tmdb": 31032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-17",
+  "runtime_minutes": 153
+}

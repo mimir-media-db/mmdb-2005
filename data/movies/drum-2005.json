@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drum_2005",
+  "title": "Drum",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q821290",
+    "imdb": "tt0379765",
+    "tmdb": 60665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-01",
+  "runtime_minutes": 94
+}

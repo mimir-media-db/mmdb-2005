@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_traum_vom_hotel_2005",
+  "title": "Der Traum vom Hotel",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728513",
+    "imdb": "tt1065411"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-26",
+  "runtime_minutes": 59
+}

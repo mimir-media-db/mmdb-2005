@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_sortie_2005",
+  "title": "De sortie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427147",
+    "imdb": "tt0791298",
+    "tmdb": 436852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

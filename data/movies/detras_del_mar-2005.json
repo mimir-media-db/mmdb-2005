@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_detras_del_mar_2005",
+  "title": "Detrás del mar",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278442",
+    "imdb": "tt0484310",
+    "tmdb": 744596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

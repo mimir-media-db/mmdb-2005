@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_downfall_2005",
+  "title": "Downfall",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q152857",
+    "imdb": "tt0363163",
+    "tmdb": 613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-08",
+  "runtime_minutes": 155
+}

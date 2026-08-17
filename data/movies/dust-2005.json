@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dust_2005",
+  "title": "Dust",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4385257",
+    "imdb": "tt0466103",
+    "tmdb": 65104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-20",
+  "runtime_minutes": 107
+}

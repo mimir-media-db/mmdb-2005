@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daivanamathil_2005",
+  "title": "Daivanamathil",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5209819",
+    "imdb": "tt0461187",
+    "tmdb": 151876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-02"
+}

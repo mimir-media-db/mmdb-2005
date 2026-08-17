@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dukes_of_hazzard_2005",
+  "title": "The Dukes of Hazzard",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2306995",
+    "imdb": "tt0377818",
+    "tmdb": 6519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-27",
+  "runtime_minutes": 104
+}

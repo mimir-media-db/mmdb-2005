@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_make_me_angry_2005",
+  "title": "Don't Make Me Angry",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20746212",
+    "imdb": "tt0990616"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
