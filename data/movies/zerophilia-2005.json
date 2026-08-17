@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zerophilia_2005",
+  "title": "Zerophilia",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3349452",
+    "imdb": "tt0421090",
+    "tmdb": 30548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}
