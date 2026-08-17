@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rules_of_dating_2005",
+  "title": "Rules of Dating",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7379026",
+    "imdb": "tt0464762",
+    "tmdb": 114661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-10",
+  "runtime_minutes": 121
+}

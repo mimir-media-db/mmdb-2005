@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_room_2005",
+  "title": "Room",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16874769",
+    "imdb": "tt0417096",
+    "tmdb": 69917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

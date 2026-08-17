@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_school_2005",
+  "title": "Rock School",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7354669",
+    "imdb": "tt0436727",
+    "tmdb": 23825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-03"
+}

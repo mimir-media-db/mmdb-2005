@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rung_tua_thii_paet_khawng_khwaam_rak_2005",
+  "title": "Rung tua thii paet khawng khwaam rak",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978436",
+    "imdb": "tt0495622",
+    "tmdb": 79832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

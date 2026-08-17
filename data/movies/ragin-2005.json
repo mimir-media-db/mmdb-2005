@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ragin_2005",
+  "title": "Ragin",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30959043",
+    "imdb": "tt0467481",
+    "tmdb": 324613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-23",
+  "runtime_minutes": 93
+}

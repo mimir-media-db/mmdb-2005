@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rosario_tijeras_2005",
+  "title": "Rosario Tijeras",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q548128",
+    "imdb": "tt0382271",
+    "tmdb": 10810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-12",
+  "runtime_minutes": 116
+}

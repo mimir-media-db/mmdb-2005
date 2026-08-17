@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ren_changxia_2005",
+  "title": "Ren Changxia",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125526882",
+    "imdb": "tt5164870",
+    "tmdb": 957099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rx_2005",
+  "title": "Rx",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56615611",
+    "imdb": "tt0357182",
+    "tmdb": 17216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

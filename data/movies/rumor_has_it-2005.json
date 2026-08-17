@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rumor_has_it_2005",
+  "title": "Rumor Has It",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1330571",
+    "imdb": "tt0398375",
+    "tmdb": 2800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-22",
+  "runtime_minutes": 96
+}

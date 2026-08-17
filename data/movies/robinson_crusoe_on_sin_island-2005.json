@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robinson_crusoe_on_sin_island_2005",
+  "title": "Robinson Crusoe on Sin Island",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2159973",
+    "imdb": "tt1065314",
+    "tmdb": 39648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-19",
+  "runtime_minutes": 105
+}
