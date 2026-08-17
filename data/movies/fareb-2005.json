@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fareb_2005",
+  "title": "Fareb",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5434919",
+    "imdb": "tt0444820",
+    "tmdb": 282030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

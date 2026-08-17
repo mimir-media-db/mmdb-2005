@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fetching_cody_2005",
+  "title": "Fetching Cody",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5445932",
+    "imdb": "tt0475271",
+    "tmdb": 46729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 86
+}

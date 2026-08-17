@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freedom_from_despair_2005",
+  "title": "Freedom from Despair",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5500688",
+    "imdb": "tt0414023",
+    "tmdb": 921766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

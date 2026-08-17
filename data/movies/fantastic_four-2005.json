@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastic_four_2005",
+  "title": "Fantastic Four",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q224130",
+    "imdb": "tt0120667",
+    "tmdb": 9738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 102
+}

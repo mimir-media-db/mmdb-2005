@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fratella_e_sorello_2005",
+  "title": "Fratella e sorello",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3752351",
+    "imdb": "tt0417687",
+    "tmdb": 173684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 98
+}

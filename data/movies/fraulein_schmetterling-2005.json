@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fraulein_schmetterling_2005",
+  "title": "Fräulein Schmetterling",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1471338",
+    "imdb": "tt0488294",
+    "tmdb": 380971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 118
+}
