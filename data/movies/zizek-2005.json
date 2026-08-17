@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zizek_2005",
+  "title": "Zizek!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8072925",
+    "imdb": "tt0478338",
+    "tmdb": 16190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 71
+}

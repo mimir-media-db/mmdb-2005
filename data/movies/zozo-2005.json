@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zozo_2005",
+  "title": "Zozo",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151730",
+    "imdb": "tt0448267",
+    "tmdb": 49220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-02",
+  "runtime_minutes": 100
+}
