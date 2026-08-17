@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_yoshitsune",
+  "title": "Yoshitsune",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q708475",
+    "imdb": "tt0442734",
+    "tmdb": 35394
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 49
+}
