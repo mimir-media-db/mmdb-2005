@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yam_yasothon_2005",
+  "title": "Yam Yasothon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6670888",
+    "imdb": "tt0475014",
+    "tmdb": 127123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-08"
+}

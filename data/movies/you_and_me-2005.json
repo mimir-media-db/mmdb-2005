@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_and_me_2005",
+  "title": "You and Me",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8057664",
+    "imdb": "tt0757376",
+    "tmdb": 170876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 88
+}

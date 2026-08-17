@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_name_is_justine_2005",
+  "title": "Your Name Is Justine",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q145396",
+    "imdb": "tt0479257",
+    "tmdb": 65302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-30",
+  "runtime_minutes": 98
+}
