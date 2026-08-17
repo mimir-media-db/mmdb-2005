@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nagasaki_1945_the_angelus_bells_2005",
+  "title": "Nagasaki 1945 The Angelus Bells",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11234332",
+    "imdb": "tt1989574",
+    "tmdb": 491360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 80
+}

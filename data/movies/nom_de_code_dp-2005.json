@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nom_de_code_dp_2005",
+  "title": "Nom de code: DP",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3342926",
+    "imdb": "tt0432986",
+    "tmdb": 137827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-28",
+  "runtime_minutes": 120
+}

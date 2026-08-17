@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_love_meetings_2005",
+  "title": "New Love Meetings",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119225243",
+    "imdb": "tt0831858",
+    "tmdb": 608245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-12",
+  "runtime_minutes": 93
+}

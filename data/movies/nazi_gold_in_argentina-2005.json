@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nazi_gold_in_argentina_2005",
+  "title": "Nazi Gold in Argentina",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50338629",
+    "imdb": "tt0434226",
+    "tmdb": 465119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 93
+}
