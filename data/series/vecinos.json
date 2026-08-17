@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vecinos",
+  "title": "Vecinos",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2997713",
+    "imdb": "tt0469247",
+    "tmdb": 18011
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 64
+}
