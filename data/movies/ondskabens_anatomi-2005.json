@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ondskabens_anatomi_2005",
+  "title": "Ondskabens anatomi",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729320",
+    "imdb": "tt0396162",
+    "tmdb": 550332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-25",
+  "runtime_minutes": 93
+}

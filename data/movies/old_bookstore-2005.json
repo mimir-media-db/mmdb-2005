@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_old_bookstore_2005",
+  "title": "Old Bookstore",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9158128",
+    "imdb": "tt0468295",
+    "tmdb": 1043556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

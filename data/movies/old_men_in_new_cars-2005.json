@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_old_men_in_new_cars_2005",
+  "title": "Old Men in New Cars",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492340",
+    "imdb": "tt0246692",
+    "tmdb": 10751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-17",
+  "runtime_minutes": 97
+}

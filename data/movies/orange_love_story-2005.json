@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_orange_love_story_2005",
+  "title": "Orange Love Story",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600771",
+    "imdb": "tt1617649",
+    "tmdb": 1196262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

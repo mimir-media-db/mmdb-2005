@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_okkade_2005",
+  "title": "Okkade",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39060624",
+    "imdb": "tt3450218"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-01"
+}

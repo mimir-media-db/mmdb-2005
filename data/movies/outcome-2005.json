@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outcome_2005",
+  "title": "The Outcome",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5824631",
+    "imdb": "tt0422085",
+    "tmdb": 426290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-07",
+  "runtime_minutes": 105
+}

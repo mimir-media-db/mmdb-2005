@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oneday_adventures_2005",
+  "title": "One-Day Adventures",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32859506",
+    "imdb": "tt0455334",
+    "tmdb": 167885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

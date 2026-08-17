@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_dia_em_que_o_brasil_esteve_aqui_2005",
+  "title": "O dia em que o Brasil esteve aqui",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168921",
+    "imdb": "tt0945547",
+    "tmdb": 353801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

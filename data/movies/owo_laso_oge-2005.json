@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_owo_laso_oge_2005",
+  "title": "Owo Laso Oge",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113458847",
+    "imdb": "tt1041812"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_online_murder_2005",
+  "title": "Online Murder",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5905416",
+    "imdb": "tt9292266",
+    "tmdb": 812454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-03",
+  "runtime_minutes": 95
+}
