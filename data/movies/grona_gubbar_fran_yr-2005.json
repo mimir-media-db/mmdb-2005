@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grona_gubbar_fran_yr_2005",
+  "title": "Gröna gubbar från Y.R.",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10509989",
+    "imdb": "tt0091154",
+    "tmdb": 153920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-27",
+  "runtime_minutes": 85
+}

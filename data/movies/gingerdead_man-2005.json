@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gingerdead_man_2005",
+  "title": "The Gingerdead Man",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7736467",
+    "imdb": "tt0364376",
+    "tmdb": 27296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-30",
+  "runtime_minutes": 70
+}

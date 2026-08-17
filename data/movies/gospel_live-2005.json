@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gospel_live_2005",
+  "title": "The Gospel Live",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16156482",
+    "imdb": "tt0881920",
+    "tmdb": 275231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

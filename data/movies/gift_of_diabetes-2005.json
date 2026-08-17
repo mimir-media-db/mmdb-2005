@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gift_of_diabetes_2005",
+  "title": "The Gift of Diabetes",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114767150",
+    "imdb": "tt28313143",
+    "tmdb": 1707401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

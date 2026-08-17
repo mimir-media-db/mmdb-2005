@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_actor_2005",
+  "title": "A Great Actor",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998989",
+    "imdb": "tt2772996",
+    "tmdb": 165208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

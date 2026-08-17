@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_death_beats_a_dull_life_2005",
+  "title": "A Good Death Beats a Dull Life",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28502102",
+    "imdb": "tt0419610",
+    "tmdb": 347308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 120
+}

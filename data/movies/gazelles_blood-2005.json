@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gazelles_blood_2005",
+  "title": "The Gazelle's Blood",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12211890",
+    "imdb": "tt0461927",
+    "tmdb": 370939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 108
+}

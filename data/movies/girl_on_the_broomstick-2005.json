@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_on_the_broomstick_2005",
+  "title": "The Girl on the Broomstick",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1169835",
+    "imdb": "tt0067464",
+    "tmdb": 47712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-15",
+  "runtime_minutes": 76
+}
