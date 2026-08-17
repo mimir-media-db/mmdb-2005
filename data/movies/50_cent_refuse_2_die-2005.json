@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_50_cent_refuse_2_die_2005",
+  "title": "50 Cent: Refuse 2 Die",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101436972",
+    "imdb": "tt0495059",
+    "tmdb": 70493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-08",
+  "runtime_minutes": 82
+}

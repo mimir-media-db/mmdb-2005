@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_trato_2005",
+  "title": "El trato",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56240969",
+    "imdb": "tt0485830",
+    "tmdb": 612883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 98
+}

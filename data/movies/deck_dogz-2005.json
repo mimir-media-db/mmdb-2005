@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deck_dogz_2005",
+  "title": "Deck Dogz",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5249264",
+    "imdb": "tt0389911",
+    "tmdb": 26023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-06"
+}

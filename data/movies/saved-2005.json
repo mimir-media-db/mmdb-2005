@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saved_2005",
+  "title": "Saved!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1474127",
+    "imdb": "tt0332375",
+    "tmdb": 13193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-26",
+  "runtime_minutes": 93
+}

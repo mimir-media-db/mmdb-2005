@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_far_til_fire_gir_aldrig_op_2005",
+  "title": "Far til Fire Gi'r Aldrig Op",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12311073",
+    "imdb": "tt0446125",
+    "tmdb": 19812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-14",
+  "runtime_minutes": 91
+}

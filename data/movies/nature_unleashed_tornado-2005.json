@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nature_unleashed_tornado_2005",
+  "title": "Nature Unleashed: Tornado",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2444226",
+    "imdb": "tt0414306",
+    "tmdb": 113379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-12",
+  "runtime_minutes": 89
+}

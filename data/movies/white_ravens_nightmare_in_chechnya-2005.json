@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_ravens_nightmare_in_chechnya_2005",
+  "title": "White Ravens: Nightmare in Chechnya",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62122475",
+    "imdb": "tt0469223",
+    "tmdb": 368774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-05",
+  "runtime_minutes": 96
+}

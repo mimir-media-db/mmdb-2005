@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gilles_carle_the_untamable_mind_2005",
+  "title": "Gilles Carle: The Untamable Mind",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51476242",
+    "imdb": "tt8727308",
+    "tmdb": 654540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 52
+}

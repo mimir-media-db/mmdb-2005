@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quatermass_experiment_2005",
+  "title": "The Quatermass Experiment",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7758906",
+    "imdb": "tt0450315",
+    "tmdb": 45914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-02",
+  "runtime_minutes": 97
+}

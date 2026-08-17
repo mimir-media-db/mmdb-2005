@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tobi_ga_kururi_to_2005",
+  "title": "Tobi Ga Kururi To",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11675477",
+    "imdb": "tt0475757",
+    "tmdb": 320681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_underexposure_2005",
+  "title": "Underexposure",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7883582",
+    "imdb": "tt0464288",
+    "tmdb": 230670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_a_smile_and_a_tear_a_tribute_to_the_montmartre_2005",
+  "title": "Between a smile and a tear - a tribute to the Montmartre",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728194",
+    "imdb": "tt0861688",
+    "tmdb": 374848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-01",
+  "runtime_minutes": 103
+}

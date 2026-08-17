@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_age_columbus_who_were_the_first_americans_2005",
+  "title": "Ice Age Columbus: Who were the first Americans",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119812409",
+    "imdb": "tt0886500",
+    "tmdb": 320849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadowboxing_2005",
+  "title": "Shadowboxing",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2369836",
+    "imdb": "tt0415678",
+    "tmdb": 56372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-17",
+  "runtime_minutes": 132
+}

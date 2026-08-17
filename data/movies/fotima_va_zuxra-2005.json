@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fotima_va_zuxra_2005",
+  "title": "Fotima va Zuxra",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135412685",
+    "imdb": "tt15144810",
+    "tmdb": 1159997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

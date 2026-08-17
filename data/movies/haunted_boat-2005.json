@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_boat_2005",
+  "title": "Haunted Boat",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11790288",
+    "imdb": "tt0428081",
+    "tmdb": 42705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-19",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dalla_parte_giusta_2005",
+  "title": "Dalla parte giusta",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19621685",
+    "imdb": "tt0984186"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

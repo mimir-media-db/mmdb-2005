@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bbs_the_documentary_2005",
+  "title": "BBS: The Documentary",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4835081",
+    "imdb": "tt0460402"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-01",
+  "runtime_minutes": 296
+}

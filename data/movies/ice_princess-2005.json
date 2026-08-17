@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_princess_2005",
+  "title": "Ice Princess",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q587029",
+    "imdb": "tt0396652",
+    "tmdb": 13374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-18",
+  "runtime_minutes": 94
+}

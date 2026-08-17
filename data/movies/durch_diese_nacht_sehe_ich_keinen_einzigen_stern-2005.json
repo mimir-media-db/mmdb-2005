@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_durch_diese_nacht_sehe_ich_keinen_einzigen_stern_2005",
+  "title": "Durch diese Nacht sehe ich keinen einzigen Stern",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20511333",
+    "imdb": "tt0412843",
+    "tmdb": 429512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-30",
+  "runtime_minutes": 109
+}

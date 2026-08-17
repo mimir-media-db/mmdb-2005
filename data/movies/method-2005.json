@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_method_2005",
+  "title": "The Method",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q617203",
+    "imdb": "tt0427582",
+    "tmdb": 21043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-14",
+  "runtime_minutes": 115
+}

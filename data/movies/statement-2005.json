@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_statement_2005",
+  "title": "The Statement",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1272835",
+    "imdb": "tt0340376",
+    "tmdb": 41488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-23",
+  "runtime_minutes": 120
+}

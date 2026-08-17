@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vera_drake_2005",
+  "title": "Vera Drake",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q916645",
+    "imdb": "tt0383694",
+    "tmdb": 11109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-07",
+  "runtime_minutes": 126
+}

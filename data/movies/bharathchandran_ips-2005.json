@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bharathchandran_ips_2005",
+  "title": "Bharathchandran I.P.S.",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4901192",
+    "imdb": "tt0463429",
+    "tmdb": 240569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-10"
+}

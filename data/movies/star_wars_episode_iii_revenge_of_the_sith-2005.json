@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_wars_episode_iii_revenge_of_the_sith_2005",
+  "title": "Star Wars: Episode III – Revenge of the Sith",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42051",
+    "imdb": "tt0121766",
+    "tmdb": 1895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-15",
+  "runtime_minutes": 140
+}

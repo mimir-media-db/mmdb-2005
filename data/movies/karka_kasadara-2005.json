@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karka_kasadara_2005",
+  "title": "Karka Kasadara",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15260725",
+    "imdb": "tt3763980",
+    "tmdb": 332807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-06"
+}

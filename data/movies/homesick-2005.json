@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_homesick_2005",
+  "title": "Homesick",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11872811",
+    "imdb": "tt0472536",
+    "tmdb": 306323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

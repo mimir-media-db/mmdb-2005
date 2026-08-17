@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_castles_and_dreams_2005",
+  "title": "Castles and Dreams",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q583965",
+    "imdb": "tt0466702",
+    "tmdb": 45201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-30"
+}

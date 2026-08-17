@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sheng_si_niu_yu_ru_2005",
+  "title": "Sheng Si Niu Yu Ru",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125548321",
+    "imdb": "tt5164864"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-01"
+}

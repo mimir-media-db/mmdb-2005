@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_bano_2005",
+  "title": "El baño",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5824031",
+    "imdb": "tt0483236",
+    "tmdb": 512589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-17",
+  "runtime_minutes": 90
+}

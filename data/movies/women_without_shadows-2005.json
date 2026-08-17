@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_women_without_shadows_2005",
+  "title": "Women Without Shadows",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121827727",
+    "imdb": "tt3103732",
+    "tmdb": 253393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 45
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_main_aisa_hi_hoon_2005",
+  "title": "Main Aisa Hi Hoon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6735915",
+    "imdb": "tt0444874",
+    "tmdb": 316812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-06"
+}

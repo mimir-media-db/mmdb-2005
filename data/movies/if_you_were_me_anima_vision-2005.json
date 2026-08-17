@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_if_you_were_me_anima_vision_2005",
+  "title": "If You Were Me: Anima Vision",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738134",
+    "imdb": "tt13545090",
+    "tmdb": 73783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dag_och_natt_2005",
+  "title": "Dag och natt",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1760823",
+    "imdb": "tt0387151",
+    "tmdb": 34902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-04",
+  "runtime_minutes": 95
+}

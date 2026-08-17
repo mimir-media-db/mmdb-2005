@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oldboy_2005",
+  "title": "Oldboy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q475693",
+    "imdb": "tt0364569",
+    "tmdb": 670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-25",
+  "runtime_minutes": 116
+}

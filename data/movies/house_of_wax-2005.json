@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_wax_2005",
+  "title": "House of Wax",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q679679",
+    "imdb": "tt0397065",
+    "tmdb": 10066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-26",
+  "runtime_minutes": 113
+}

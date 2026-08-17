@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_showdown_2005",
+  "title": "The Showdown",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16179887",
+    "imdb": "tt0480685",
+    "tmdb": 72250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-15",
+  "runtime_minutes": 86
+}

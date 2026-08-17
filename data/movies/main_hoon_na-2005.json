@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_main_hoon_na_2005",
+  "title": "Main Hoon Na",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1503700",
+    "imdb": "tt0347473",
+    "tmdb": 14134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-03",
+  "runtime_minutes": 175
+}

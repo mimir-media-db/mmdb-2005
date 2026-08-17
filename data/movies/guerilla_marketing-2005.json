@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guerilla_marketing_2005",
+  "title": "Guerilla Marketing",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30635752",
+    "imdb": "tt0497378",
+    "tmdb": 838626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-13"
+}

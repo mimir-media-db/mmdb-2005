@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_point_2005",
+  "title": "Devil's Point",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21747168",
+    "imdb": "tt0479304",
+    "tmdb": 391302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

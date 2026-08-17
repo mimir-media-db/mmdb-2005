@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bewitched_2005",
+  "title": "Bewitched",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1356410",
+    "imdb": "tt0374536",
+    "tmdb": 9722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-24",
+  "runtime_minutes": 102
+}

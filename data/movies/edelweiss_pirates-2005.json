@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edelweiss_pirates_2005",
+  "title": "Edelweiss Pirates",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q631565",
+    "imdb": "tt0240473",
+    "tmdb": 59283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-12",
+  "runtime_minutes": 100
+}

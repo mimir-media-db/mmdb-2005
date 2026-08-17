@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kamen_rider_hibiki_the_seven_senki_2005",
+  "title": "Kamen Rider Hibiki & The Seven Senki",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1029510",
+    "imdb": "tt1492850",
+    "tmdb": 433702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-03",
+  "runtime_minutes": 90
+}

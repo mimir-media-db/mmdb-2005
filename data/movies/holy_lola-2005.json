@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_lola_2005",
+  "title": "Holy Lola",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2297246",
+    "imdb": "tt0384177",
+    "tmdb": 1998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-18",
+  "runtime_minutes": 128
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_code_68_2005",
+  "title": "Code 68",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30738080",
+    "imdb": "tt0436180",
+    "tmdb": 574485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-20"
+}

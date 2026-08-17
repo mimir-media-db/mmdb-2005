@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crimen_ferpecto_2005",
+  "title": "Crimen Ferpecto",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2566971",
+    "imdb": "tt0395125",
+    "tmdb": 9534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-26",
+  "runtime_minutes": 103
+}

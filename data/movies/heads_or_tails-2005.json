@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heads_or_tails_2005",
+  "title": "Heads or Tails",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251095",
+    "imdb": "tt0427341",
+    "tmdb": 443364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-19"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vinho_de_rosas_2005",
+  "title": "Vinho de Rosas",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18471110",
+    "imdb": "tt0473561",
+    "tmdb": 54949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 143
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tarzan_of_mudeungsan_park_heung_suk_2005",
+  "title": "Tarzan Of Mudeungsan, Park Heung Suk",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18013364",
+    "tmdb": 416319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-01"
+}

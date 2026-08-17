@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madamada_abunai_deka_2005",
+  "title": "Madamada Abunai Deka",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11278322",
+    "imdb": "tt0460857",
+    "tmdb": 496346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 108
+}

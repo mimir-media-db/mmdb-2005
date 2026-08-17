@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carrot_and_the_stick_2005",
+  "title": "The Carrot and the Stick",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28493623",
+    "imdb": "tt0441144",
+    "tmdb": 1068598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

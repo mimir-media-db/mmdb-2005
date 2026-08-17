@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chicken_tikka_masala_2005",
+  "title": "Chicken Tikka Masala",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11829042",
+    "imdb": "tt0449000",
+    "tmdb": 31163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

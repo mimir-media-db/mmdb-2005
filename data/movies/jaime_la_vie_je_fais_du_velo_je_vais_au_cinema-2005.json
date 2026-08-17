@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaime_la_vie_je_fais_du_velo_je_vais_au_cinema_2005",
+  "title": "J'aime la vie, je fais du vélo, je vais au cinéma",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597296",
+    "imdb": "tt0437261",
+    "tmdb": 800433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

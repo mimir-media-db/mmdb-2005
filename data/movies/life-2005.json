@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_2005",
+  "title": "Life!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2694367",
+    "imdb": "tt0393423",
+    "tmdb": 79293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-22",
+  "runtime_minutes": 110
+}

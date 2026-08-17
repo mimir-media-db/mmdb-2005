@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brezhnev_2005",
+  "title": "Brezhnev",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4096230",
+    "imdb": "tt0456862",
+    "tmdb": 625485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-28",
+  "runtime_minutes": 52
+}

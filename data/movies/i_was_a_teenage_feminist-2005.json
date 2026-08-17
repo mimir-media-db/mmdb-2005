@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_was_a_teenage_feminist_2005",
+  "title": "I Was A Teenage Feminist",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19878943",
+    "imdb": "tt1420549",
+    "tmdb": 293436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

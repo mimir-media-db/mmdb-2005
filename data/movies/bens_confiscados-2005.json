@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bens_confiscados_2005",
+  "title": "Bens Confiscados",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9654545",
+    "imdb": "tt0456854",
+    "tmdb": 196017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 108
+}

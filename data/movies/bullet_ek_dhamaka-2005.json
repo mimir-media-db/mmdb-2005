@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bullet_ek_dhamaka_2005",
+  "title": "Bullet: Ek Dhamaka",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30646658",
+    "imdb": "tt0483239",
+    "tmdb": 581574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

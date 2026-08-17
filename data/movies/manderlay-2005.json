@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manderlay_2005",
+  "title": "Manderlay",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1141731",
+    "imdb": "tt0342735",
+    "tmdb": 1951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-16",
+  "runtime_minutes": 139
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bip_bop_bip_bop_bap_2005",
+  "title": "Bip Bop Bip Bop Bap",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16502220",
+    "imdb": "tt0776764",
+    "tmdb": 807360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

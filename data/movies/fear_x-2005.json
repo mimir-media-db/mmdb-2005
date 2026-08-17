@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fear_x_2005",
+  "title": "Fear X",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5439352",
+    "imdb": "tt0289944",
+    "tmdb": 37696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-28",
+  "runtime_minutes": 91
+}

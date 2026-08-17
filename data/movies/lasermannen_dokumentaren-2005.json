@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lasermannen_dokumentaren_2005",
+  "title": "Lasermannen - Dokumentären",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10554544",
+    "imdb": "tt1667840",
+    "tmdb": 151932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-11"
+}

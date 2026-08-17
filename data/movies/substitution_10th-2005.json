@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_substitution_10th_2005",
+  "title": "Substitution - 10th",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12290919",
+    "imdb": "tt0489801"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kaatrullavarai_2005",
+  "title": "Kaatrullavarai",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77890139",
+    "imdb": "tt13747224"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

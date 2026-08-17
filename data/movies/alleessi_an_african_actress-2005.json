@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alleessi_an_african_actress_2005",
+  "title": "Al'leessi… An African Actress",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115953036",
+    "imdb": "tt0478549",
+    "tmdb": 576019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 69
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sembilu_2005_2005",
+  "title": "Sembilu 2005",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12708742",
+    "imdb": "tt32375364"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-24"
+}

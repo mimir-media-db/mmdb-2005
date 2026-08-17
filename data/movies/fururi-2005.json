@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fururi_2005",
+  "title": "Fururi",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11277324",
+    "imdb": "tt2064783",
+    "tmdb": 731669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

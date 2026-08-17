@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anandabhadram_2005",
+  "title": "Anandabhadram",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4751324",
+    "imdb": "tt0487011",
+    "tmdb": 194809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-04"
+}

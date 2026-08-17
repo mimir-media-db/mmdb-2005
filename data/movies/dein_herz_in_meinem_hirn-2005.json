@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dein_herz_in_meinem_hirn_2005",
+  "title": "Dein Herz in meinem Hirn",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101208689",
+    "imdb": "tt0418345",
+    "tmdb": 507147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

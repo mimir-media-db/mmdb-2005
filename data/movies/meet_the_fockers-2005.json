@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_fockers_2005",
+  "title": "Meet the Fockers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q740489",
+    "imdb": "tt0290002",
+    "tmdb": 693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-17",
+  "runtime_minutes": 110
+}

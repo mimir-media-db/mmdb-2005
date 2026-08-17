@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_exiles_in_lotusland_2005",
+  "title": "Exiles in Lotusland",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110269239",
+    "imdb": "tt0784994",
+    "tmdb": 72383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-03"
+}

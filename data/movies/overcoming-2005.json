@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_overcoming_2005",
+  "title": "Overcoming",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12342669",
+    "imdb": "tt0465556",
+    "tmdb": 30623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 105
+}

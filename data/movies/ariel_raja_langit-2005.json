@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ariel_raja_langit_2005",
+  "title": "Ariel & Raja Langit",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12472449",
+    "imdb": "tt22462708",
+    "tmdb": 787262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 112
+}

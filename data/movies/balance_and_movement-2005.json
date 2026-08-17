@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balance_and_movement_2005",
+  "title": "Balance and Movement",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31193174",
+    "imdb": "tt0441117",
+    "tmdb": 239256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 94
+}

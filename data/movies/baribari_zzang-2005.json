@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_baribari_zzang_2005",
+  "title": "Baribari Zzang",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20651747",
+    "tmdb": 491302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-19"
+}

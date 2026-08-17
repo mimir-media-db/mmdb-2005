@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_zuleykha_2005",
+  "title": "Zuleykha",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768024",
+    "imdb": "tt11842418"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

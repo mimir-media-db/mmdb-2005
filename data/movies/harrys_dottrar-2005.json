@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harrys_dottrar_2005",
+  "title": "Harrys döttrar",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10518329",
+    "imdb": "tt0456972",
+    "tmdb": 443766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 106
+}

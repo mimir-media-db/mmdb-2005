@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flickan_fran_auschwitz_2005",
+  "title": "Flickan från Auschwitz",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10496742",
+    "imdb": "tt0484353",
+    "tmdb": 467486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

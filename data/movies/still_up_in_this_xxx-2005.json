@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_still_up_in_this_xxx_2005",
+  "title": "Still Up in This XXX",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139410278",
+    "imdb": "tt14480818"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-27",
+  "runtime_minutes": 142
+}

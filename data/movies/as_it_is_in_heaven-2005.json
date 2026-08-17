@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_it_is_in_heaven_2005",
+  "title": "As It Is in Heaven",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q912049",
+    "imdb": "tt0382330",
+    "tmdb": 464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-20",
+  "runtime_minutes": 132
+}

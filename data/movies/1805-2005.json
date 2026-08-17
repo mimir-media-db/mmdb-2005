@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_1805_2005",
+  "title": "1805",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107341820",
+    "imdb": "tt0463851"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-30"
+}

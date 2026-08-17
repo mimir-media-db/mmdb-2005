@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crimson_force_2005",
+  "title": "Crimson Force",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511264",
+    "imdb": "tt0453465",
+    "tmdb": 56839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 92
+}

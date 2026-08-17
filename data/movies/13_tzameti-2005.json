@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13_tzameti_2005",
+  "title": "13 Tzameti",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q186900",
+    "imdb": "tt0475169",
+    "tmdb": 6077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_baghdad_fell_2005",
+  "title": "The Night Baghdad Fell",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12237859",
+    "imdb": "tt5148580",
+    "tmdb": 427933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-28"
+}

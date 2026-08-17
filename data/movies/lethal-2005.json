@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lethal_2005",
+  "title": "Lethal",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16694451",
+    "imdb": "tt0366711",
+    "tmdb": 200975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

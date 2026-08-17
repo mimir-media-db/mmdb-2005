@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_and_your_stupid_mate_2005",
+  "title": "You and Your Stupid Mate",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8057696",
+    "imdb": "tt0375222",
+    "tmdb": 61008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

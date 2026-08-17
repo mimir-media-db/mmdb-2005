@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crash_2005",
+  "title": "Crash",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q188000",
+    "imdb": "tt0375679",
+    "tmdb": 1640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-06",
+  "runtime_minutes": 112
+}

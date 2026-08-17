@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amatemi_2005",
+  "title": "Amatemi",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3613695",
+    "imdb": "tt0465379",
+    "tmdb": 156591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-03",
+  "runtime_minutes": 84
+}

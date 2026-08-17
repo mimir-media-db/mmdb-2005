@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hitchhikers_guide_to_the_galaxy_2005",
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q836821",
+    "imdb": "tt0371724",
+    "tmdb": 7453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-28",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blade_trinity_2005",
+  "title": "Blade: Trinity",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q217008",
+    "imdb": "tt0359013",
+    "tmdb": 36648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-20",
+  "runtime_minutes": 113
+}

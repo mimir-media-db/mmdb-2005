@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malas_temporadas_2005",
+  "title": "Malas Temporadas",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3281547",
+    "imdb": "tt0456526",
+    "tmdb": 99387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-18",
+  "runtime_minutes": 115
+}

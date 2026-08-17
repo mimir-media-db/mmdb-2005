@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tide_2005",
+  "title": "The Tide",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85885277",
+    "imdb": "tt11496608",
+    "tmdb": 1015849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-15",
+  "runtime_minutes": 100
+}

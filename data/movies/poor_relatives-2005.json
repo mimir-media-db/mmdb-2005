@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poor_relatives_2005",
+  "title": "Poor Relatives",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4080624",
+    "imdb": "tt0464632",
+    "tmdb": 152514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tapas_2005",
+  "title": "Tapas",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q845254",
+    "imdb": "tt0434382",
+    "tmdb": 33227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-13",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_movie_by_sophie_stella_2005",
+  "title": "Our Movie by Sophie & Stella",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46455069",
+    "imdb": "tt0445612",
+    "tmdb": 875880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_cheyenne_2005",
+  "title": "Looking for Cheyenne",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3357964",
+    "imdb": "tt0410410",
+    "tmdb": 12807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-17",
+  "runtime_minutes": 90
+}

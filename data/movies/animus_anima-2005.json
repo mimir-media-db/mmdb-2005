@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_animus_anima_2005",
+  "title": "Animus Anima",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11284296",
+    "imdb": "tt0468649",
+    "tmdb": 312398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

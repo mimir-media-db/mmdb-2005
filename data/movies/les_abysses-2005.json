@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_abysses_2005",
+  "title": "Les Abysses",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3230372",
+    "imdb": "tt0188388",
+    "tmdb": 167624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-18",
+  "runtime_minutes": 90
+}

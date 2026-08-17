@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tragedy_the_story_of_queensbridge_2005",
+  "title": "Tragedy: The Story of Queensbridge",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12129677",
+    "imdb": "tt0439855",
+    "tmdb": 165717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_massacre_2005",
+  "title": "Massacre",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111525750",
+    "imdb": "tt0382175",
+    "tmdb": 175686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-01",
+  "runtime_minutes": 100
+}

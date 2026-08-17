@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taxi_lovers_2005",
+  "title": "Taxi Lovers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85516787",
+    "imdb": "tt0498938",
+    "tmdb": 731224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

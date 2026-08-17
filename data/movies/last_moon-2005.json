@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_moon_2005",
+  "title": "The Last Moon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12155722",
+    "imdb": "tt0383066",
+    "tmdb": 115518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 105
+}

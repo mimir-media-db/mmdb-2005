@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scared_2005",
+  "title": "Scared",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2229022",
+    "imdb": "tt0488334",
+    "tmdb": 75561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-10",
+  "runtime_minutes": 81
+}

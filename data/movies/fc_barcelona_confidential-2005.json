@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fc_barcelona_confidential_2005",
+  "title": "FC Barcelona confidential",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728655",
+    "imdb": "tt0465909",
+    "tmdb": 208064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-22",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_vogelpredigt_oder_das_schreien_der_monche_2005",
+  "title": "Die Vogelpredigt oder Das Schreien der Mönche",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18515632",
+    "imdb": "tt0461859",
+    "tmdb": 240071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 88
+}

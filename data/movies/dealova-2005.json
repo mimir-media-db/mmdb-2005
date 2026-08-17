@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dealova_2005",
+  "title": "Dealova",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11206804",
+    "imdb": "tt1068232",
+    "tmdb": 343015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-08",
+  "runtime_minutes": 112
+}

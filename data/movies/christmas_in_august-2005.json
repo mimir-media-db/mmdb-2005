@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_in_august_2005",
+  "title": "Christmas in August",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11188437",
+    "imdb": "tt0467516",
+    "tmdb": 492055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

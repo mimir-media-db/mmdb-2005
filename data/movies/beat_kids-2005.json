@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beat_kids_2005",
+  "title": "Beat Kids",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11331160",
+    "imdb": "tt0482036",
+    "tmdb": 616041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-04"
+}

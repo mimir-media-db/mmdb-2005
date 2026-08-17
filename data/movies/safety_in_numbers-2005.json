@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_safety_in_numbers_2005",
+  "title": "Safety In Numbers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599784",
+    "imdb": "tt0460556",
+    "tmdb": 69235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

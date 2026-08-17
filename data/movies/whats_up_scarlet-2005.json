@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_up_scarlet_2005",
+  "title": "What's Up, Scarlet?",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3818451",
+    "imdb": "tt0465666",
+    "tmdb": 57046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-18",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maximum_headroom_2005",
+  "title": "Maximum Headroom",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48807288",
+    "imdb": "tt0495806",
+    "tmdb": 774796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

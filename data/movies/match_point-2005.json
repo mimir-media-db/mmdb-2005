@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_match_point_2005",
+  "title": "Match Point",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q733677",
+    "imdb": "tt0416320",
+    "tmdb": 116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-12",
+  "runtime_minutes": 124
+}

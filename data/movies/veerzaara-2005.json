@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_veerzaara_2005",
+  "title": "Veer-Zaara",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106819",
+    "imdb": "tt0420332",
+    "tmdb": 4251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-02",
+  "runtime_minutes": 190
+}

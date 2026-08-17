@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naran_2005",
+  "title": "Naran",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13112816",
+    "imdb": "tt0463622",
+    "tmdb": 151639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-03"
+}

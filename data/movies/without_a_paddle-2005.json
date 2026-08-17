@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_without_a_paddle_2005",
+  "title": "Without a Paddle",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1632935",
+    "imdb": "tt0364751",
+    "tmdb": 10762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-13",
+  "runtime_minutes": 99
+}

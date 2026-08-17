@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2001_maniacs_2005",
+  "title": "2001 Maniacs",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q211278",
+    "imdb": "tt0264323",
+    "tmdb": 10845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-09",
+  "runtime_minutes": 87
+}

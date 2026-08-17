@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sazerx_the_movie_2005",
+  "title": "Sazer-X the Movie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11398239",
+    "imdb": "tt4048480",
+    "tmdb": 290997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

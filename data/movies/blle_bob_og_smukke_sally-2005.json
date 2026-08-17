@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blle_bob_og_smukke_sally_2005",
+  "title": "Bølle Bob og Smukke Sally",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12304817",
+    "imdb": "tt0461918",
+    "tmdb": 37508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-15",
+  "runtime_minutes": 72
+}

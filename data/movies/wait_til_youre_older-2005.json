@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wait_til_youre_older_2005",
+  "title": "Wait 'til You're Older",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13219141",
+    "imdb": "tt0477898",
+    "tmdb": 62845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_face_of_the_moon_2005",
+  "title": "The Dark Face of the Moon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31189068",
+    "imdb": "tt0424817",
+    "tmdb": 411310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-15",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_very_long_engagement_2005",
+  "title": "A Very Long Engagement",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q936425",
+    "imdb": "tt0344510",
+    "tmdb": 2841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-27",
+  "runtime_minutes": 128
+}

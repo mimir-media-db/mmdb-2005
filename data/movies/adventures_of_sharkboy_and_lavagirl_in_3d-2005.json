@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_sharkboy_and_lavagirl_in_3d_2005",
+  "title": "The Adventures of Sharkboy and Lavagirl in 3-D",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q656357",
+    "imdb": "tt0424774",
+    "tmdb": 14199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-04",
+  "runtime_minutes": 93
+}

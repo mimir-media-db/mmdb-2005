@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bravo_my_life_2005",
+  "title": "Bravo, My Life",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4958436",
+    "imdb": "tt0488726",
+    "tmdb": 373656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-03"
+}

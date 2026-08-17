@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boredom_in_brno_2005",
+  "title": "Boredom in Brno",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q650463",
+    "imdb": "tt0342844",
+    "tmdb": 80159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-27",
+  "runtime_minutes": 103
+}

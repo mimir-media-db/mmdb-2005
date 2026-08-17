@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pai_gu_2005",
+  "title": "Pai Gu",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115164885",
+    "imdb": "tt12061022",
+    "tmdb": 713262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-03"
+}

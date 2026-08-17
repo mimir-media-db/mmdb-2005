@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_crashers_2005",
+  "title": "Wedding Crashers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q238866",
+    "imdb": "tt0396269",
+    "tmdb": 9522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-13",
+  "runtime_minutes": 119
+}

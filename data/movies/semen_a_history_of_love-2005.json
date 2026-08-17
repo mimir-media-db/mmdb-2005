@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_semen_a_history_of_love_2005",
+  "title": "Semen, a History of Love",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6124700",
+    "imdb": "tt0416214",
+    "tmdb": 44563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-15",
+  "runtime_minutes": 89
+}

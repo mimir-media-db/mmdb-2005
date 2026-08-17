@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_along_the_road_little_child_2005",
+  "title": "Along the Road Little Child",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18693387",
+    "imdb": "tt0906638",
+    "tmdb": 670177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

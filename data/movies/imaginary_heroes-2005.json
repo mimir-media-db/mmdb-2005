@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imaginary_heroes_2005",
+  "title": "Imaginary Heroes",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1659640",
+    "imdb": "tt0373024",
+    "tmdb": 25350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-10",
+  "runtime_minutes": 107
+}

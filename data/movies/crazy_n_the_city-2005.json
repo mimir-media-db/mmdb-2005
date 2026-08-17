@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_n_the_city_2005",
+  "title": "Crazy N' the City",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15911307",
+    "imdb": "tt0441511",
+    "tmdb": 75181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 93
+}

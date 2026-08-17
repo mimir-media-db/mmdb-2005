@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_verka_serduchka_2005",
+  "title": "The Adventures of Verka Serduchka",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61115208",
+    "imdb": "tt24610304",
+    "tmdb": 797524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 75
+}

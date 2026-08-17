@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ladder_49_2005",
+  "title": "Ladder 49",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1386388",
+    "imdb": "tt0349710",
+    "tmdb": 11128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-03",
+  "runtime_minutes": 110
+}

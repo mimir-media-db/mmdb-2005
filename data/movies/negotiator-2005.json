@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_negotiator_2005",
+  "title": "Negotiator",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10855467",
+    "imdb": "tt0467462",
+    "tmdb": 59952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_vu_tuer_ben_barka_2005",
+  "title": "J'ai vu tuer Ben Barka",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16644217",
+    "imdb": "tt0444200",
+    "tmdb": 83238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 101
+}

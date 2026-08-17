@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_and_prejudice_2005",
+  "title": "Bride and Prejudice",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1354148",
+    "imdb": "tt0361411",
+    "tmdb": 57825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-18",
+  "runtime_minutes": 112
+}

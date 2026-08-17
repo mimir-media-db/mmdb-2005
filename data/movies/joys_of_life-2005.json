@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joys_of_life_2005",
+  "title": "Joys of Life",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12186871",
+    "imdb": "tt2144550",
+    "tmdb": 140451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-30",
+  "runtime_minutes": 145
+}

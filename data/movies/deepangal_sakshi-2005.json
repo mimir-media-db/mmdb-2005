@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deepangal_sakshi_2005",
+  "title": "Deepangal Sakshi",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19571405",
+    "imdb": "tt1152259",
+    "tmdb": 359502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-22"
+}

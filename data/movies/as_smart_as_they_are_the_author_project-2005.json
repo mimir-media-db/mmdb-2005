@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_smart_as_they_are_the_author_project_2005",
+  "title": "As Smart As They Are: The Author Project",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16528871",
+    "imdb": "tt0454782",
+    "tmdb": 77450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 63
+}

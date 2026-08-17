@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_reloaded_2005",
+  "title": "Dragon Reloaded",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63924999",
+    "imdb": "tt0471243",
+    "tmdb": 154736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

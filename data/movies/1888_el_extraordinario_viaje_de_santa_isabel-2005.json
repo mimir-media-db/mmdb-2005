@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1888_el_extraordinario_viaje_de_santa_isabel_2005",
+  "title": "1888: El Extraordinario Viaje de Santa Isabel",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892898",
+    "imdb": "tt0483541",
+    "tmdb": 184825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

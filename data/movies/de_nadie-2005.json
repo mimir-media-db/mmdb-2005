@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_nadie_2005",
+  "title": "De Nadie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5244645",
+    "imdb": "tt0451698",
+    "tmdb": 275187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-11",
+  "runtime_minutes": 80
+}

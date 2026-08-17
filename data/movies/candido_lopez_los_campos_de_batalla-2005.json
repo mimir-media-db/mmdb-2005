@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_candido_lopez_los_campos_de_batalla_2005",
+  "title": "Cándido López, los campos de batalla",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140026900",
+    "imdb": "tt0455413",
+    "tmdb": 451887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cumshitters_2005",
+  "title": "Cumshitters",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140324628",
+    "imdb": "tt0459248"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-01",
+  "runtime_minutes": 145
+}

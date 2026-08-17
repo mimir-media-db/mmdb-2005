@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_of_snow_2005",
+  "title": "Mystery of Snow",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16954725",
+    "imdb": "tt0497916",
+    "tmdb": 1135321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

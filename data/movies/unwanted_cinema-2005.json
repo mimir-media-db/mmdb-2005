@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unwanted_cinema_2005",
+  "title": "Unwanted Cinema",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7897811",
+    "imdb": "tt0892374",
+    "tmdb": 791370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

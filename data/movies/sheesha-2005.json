@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sheesha_2005",
+  "title": "Sheesha",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254138",
+    "imdb": "tt0445056",
+    "tmdb": 112627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

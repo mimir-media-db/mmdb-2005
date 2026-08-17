@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nenyure_2005",
+  "title": "Nenyure",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137193760",
+    "imdb": "tt0444294",
+    "tmdb": 824849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whole_new_thing_2005",
+  "title": "Whole New Thing",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2567246",
+    "imdb": "tt0461613",
+    "tmdb": 14344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-12",
+  "runtime_minutes": 92
+}

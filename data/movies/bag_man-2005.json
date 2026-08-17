@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bag_man_2005",
+  "title": "The Bag Man",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130380448",
+    "imdb": "tt0462191"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

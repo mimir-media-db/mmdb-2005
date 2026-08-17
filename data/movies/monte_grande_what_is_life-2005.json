@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monte_grande_what_is_life_2005",
+  "title": "Monte Grande: What Is Life?",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42419066",
+    "imdb": "tt0466070",
+    "tmdb": 831922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-29"
+}

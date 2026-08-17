@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_allout_nine_field_of_nightmares_2005",
+  "title": "The All-Out Nine: Field of Nightmares",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16689737",
+    "imdb": "tt0498502",
+    "tmdb": 85407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

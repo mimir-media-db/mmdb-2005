@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_tramway_dandrea_2005",
+  "title": "Le tramway d'Andrea",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88873378"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 17
+}

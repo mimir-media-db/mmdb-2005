@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_willow_tree_2005",
+  "title": "The Willow Tree",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7775009",
+    "imdb": "tt0415607",
+    "tmdb": 43767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 96
+}

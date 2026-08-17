@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dub_room_special_2005",
+  "title": "The Dub Room Special",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q549417",
+    "imdb": "tt0087180",
+    "tmdb": 114689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-01",
+  "runtime_minutes": 90
+}

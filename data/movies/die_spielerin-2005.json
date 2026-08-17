@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_spielerin_2005",
+  "title": "Die Spielerin",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15805824",
+    "imdb": "tt0469191",
+    "tmdb": 121160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_darshan_2005",
+  "title": "Darshan",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56311450",
+    "imdb": "tt0464800",
+    "tmdb": 56186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_men_fools_2005",
+  "title": "Holy Men & Fools",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123537722",
+    "imdb": "tt0483643",
+    "tmdb": 1374661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

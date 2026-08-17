@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_her_name_is_carla_2005",
+  "title": "Her Name Is Carla",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10294952",
+    "imdb": "tt0326367",
+    "tmdb": 230679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

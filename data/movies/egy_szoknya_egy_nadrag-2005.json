@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_egy_szoknya_egy_nadrag_2005",
+  "title": "Egy szoknya, egy nadrág",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56252786",
+    "imdb": "tt0487052",
+    "tmdb": 41096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-20",
+  "runtime_minutes": 95
+}

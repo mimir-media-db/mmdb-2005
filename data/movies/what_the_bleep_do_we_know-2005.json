@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_the_bleep_do_we_know_2005",
+  "title": "What the Bleep Do We Know!?",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1753580",
+    "imdb": "tt0399877",
+    "tmdb": 8357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-24",
+  "runtime_minutes": 108
+}

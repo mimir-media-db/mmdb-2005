@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_the_looking_for_and_the_finding_of_love_2005",
+  "title": "About the Looking for and the Finding of Love",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1533604",
+    "imdb": "tt0383041",
+    "tmdb": 419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-27",
+  "runtime_minutes": 105
+}

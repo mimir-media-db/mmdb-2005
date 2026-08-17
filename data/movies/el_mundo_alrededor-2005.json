@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_mundo_alrededor_2005",
+  "title": "El mundo alrededor",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56667030",
+    "imdb": "tt0455162",
+    "tmdb": 426422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 98
+}

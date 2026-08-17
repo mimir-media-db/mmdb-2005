@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fatima_the_algerian_woman_of_dakar_2005",
+  "title": "Fatima, the Algerian Woman of Dakar",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65322077",
+    "imdb": "tt1330992",
+    "tmdb": 398316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-17",
+  "runtime_minutes": 89
+}

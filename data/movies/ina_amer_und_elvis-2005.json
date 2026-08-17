@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ina_amer_und_elvis_2005",
+  "title": "Ina, Amer und Elvis",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88873052"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_in_a_barn_2005",
+  "title": "Born in a Barn",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978371",
+    "imdb": "tt0476963",
+    "tmdb": 929998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 50
+}

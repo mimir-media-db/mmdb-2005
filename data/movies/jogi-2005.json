@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jogi_2005",
+  "title": "Jogi",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249716",
+    "imdb": "tt4944434",
+    "tmdb": 673257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-19",
+  "runtime_minutes": 137
+}

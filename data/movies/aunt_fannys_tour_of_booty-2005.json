@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aunt_fannys_tour_of_booty_2005",
+  "title": "Aunt Fanny's Tour of Booty",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3515293",
+    "imdb": "tt1223873",
+    "tmdb": 121678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-01",
+  "runtime_minutes": 4
+}

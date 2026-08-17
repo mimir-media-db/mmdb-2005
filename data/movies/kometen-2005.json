@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kometen_2005",
+  "title": "Kometen",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40212347",
+    "imdb": "tt0461682",
+    "tmdb": 89016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

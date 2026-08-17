@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mps_jazzin_the_black_forest_2005",
+  "title": "MPS – Jazzin’ the Black Forest",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23652750",
+    "imdb": "tt1097583",
+    "tmdb": 712986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-02",
+  "runtime_minutes": 91
+}

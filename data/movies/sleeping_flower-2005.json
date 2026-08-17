@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_flower_2005",
+  "title": "Sleeping Flower",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11313439",
+    "imdb": "tt1031972",
+    "tmdb": 1267860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

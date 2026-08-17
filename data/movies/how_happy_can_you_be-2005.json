@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_happy_can_you_be_2005",
+  "title": "How Happy Can You Be?",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19375042",
+    "imdb": "tt1161757",
+    "tmdb": 688823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-25",
+  "runtime_minutes": 52
+}

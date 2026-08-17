@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yuddho_2005",
+  "title": "Yuddho",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8060215",
+    "imdb": "tt1464607",
+    "tmdb": 717918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_state_2005",
+  "title": "Garden State",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59931",
+    "imdb": "tt0333766",
+    "tmdb": 401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-26",
+  "runtime_minutes": 99
+}

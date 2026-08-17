@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anytime_soon_2005",
+  "title": "Anytime Soon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113560252",
+    "imdb": "tt0482950",
+    "tmdb": 664899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-01",
+  "runtime_minutes": 90
+}

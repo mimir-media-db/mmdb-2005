@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_achuvinte_amma_2005",
+  "title": "Achuvinte Amma",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4673955",
+    "imdb": "tt0446266",
+    "tmdb": 353666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_himiko_2005",
+  "title": "House of Himiko",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q874128",
+    "imdb": "tt0451123",
+    "tmdb": 151403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-27",
+  "runtime_minutes": 130
+}

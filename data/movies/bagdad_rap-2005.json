@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bagdad_rap_2005",
+  "title": "Bagdad Rap",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8239719",
+    "imdb": "tt0443888",
+    "tmdb": 189427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-20",
+  "runtime_minutes": 75
+}

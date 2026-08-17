@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aliens_of_the_deep_2005",
+  "title": "Aliens of the Deep",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2407956",
+    "imdb": "tt0417415",
+    "tmdb": 22559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-28",
+  "runtime_minutes": 47
+}

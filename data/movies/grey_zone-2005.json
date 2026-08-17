@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grey_zone_2005",
+  "title": "The Grey Zone",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q566834",
+    "imdb": "tt0252480",
+    "tmdb": 15192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-27",
+  "runtime_minutes": 108
+}

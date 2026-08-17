@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_jardin_de_las_hesperides_2005",
+  "title": "El jardín de las hespérides",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110101522",
+    "imdb": "tt0361767",
+    "tmdb": 1102952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 102
+}

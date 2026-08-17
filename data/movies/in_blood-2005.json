@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_blood_2005",
+  "title": "In Blood",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600194",
+    "imdb": "tt0472623",
+    "tmdb": 1565084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

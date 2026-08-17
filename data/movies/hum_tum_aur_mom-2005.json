@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hum_tum_aur_mom_2005",
+  "title": "Hum Tum Aur Mom",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11099913",
+    "imdb": "tt0479592",
+    "tmdb": 630974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

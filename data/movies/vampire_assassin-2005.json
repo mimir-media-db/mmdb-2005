@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_assassin_2005",
+  "title": "Vampire Assassin",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7912963",
+    "imdb": "tt0472278",
+    "tmdb": 267913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-09"
+}

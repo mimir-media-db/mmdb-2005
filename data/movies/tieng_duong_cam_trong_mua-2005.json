@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tieng_duong_cam_trong_mua_2005",
+  "title": "Tiếng dương cầm trong mưa",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140697725",
+    "imdb": "tt19893686",
+    "tmdb": 1543408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-29"
+}

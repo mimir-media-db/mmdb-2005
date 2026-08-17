@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_losing_ground_2005",
+  "title": "Losing Ground",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6683635",
+    "imdb": "tt0446001",
+    "tmdb": 328452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-20"
+}

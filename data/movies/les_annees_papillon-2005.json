@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_les_annees_papillon_2005",
+  "title": "Les années papillon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56206711"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

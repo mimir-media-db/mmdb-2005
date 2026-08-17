@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_swiss_2005",
+  "title": "I'm Swiss",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966832",
+    "imdb": "tt0473006",
+    "tmdb": 21578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-30"
+}

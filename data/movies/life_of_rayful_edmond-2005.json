@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_of_rayful_edmond_2005",
+  "title": "The Life of Rayful Edmond",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17134776",
+    "imdb": "tt1220567",
+    "tmdb": 640432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

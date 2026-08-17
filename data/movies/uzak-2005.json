@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uzak_2005",
+  "title": "Uzak",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1361018",
+    "imdb": "tt0346094",
+    "tmdb": 31026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-03",
+  "runtime_minutes": 109
+}

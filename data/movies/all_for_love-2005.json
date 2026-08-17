@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_for_love_2005",
+  "title": "All for Love",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4729958",
+    "imdb": "tt0479724",
+    "tmdb": 208874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-07",
+  "runtime_minutes": 138
+}

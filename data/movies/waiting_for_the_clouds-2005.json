@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waiting_for_the_clouds_2005",
+  "title": "Waiting for the Clouds",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2540799",
+    "imdb": "tt0418309",
+    "tmdb": 61848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-08",
+  "runtime_minutes": 94
+}

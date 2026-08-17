@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_geolobotomy_2005",
+  "title": "Geo-Lobotomy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65240727",
+    "imdb": "tt1368466",
+    "tmdb": 52422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

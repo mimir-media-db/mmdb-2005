@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hamadah_yilab_2005",
+  "title": "Hamadah Yilab",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12208666",
+    "imdb": "tt0467944",
+    "tmdb": 514326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

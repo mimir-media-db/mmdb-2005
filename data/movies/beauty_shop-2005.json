@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_shop_2005",
+  "title": "Beauty Shop",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q813464",
+    "imdb": "tt0388500",
+    "tmdb": 14177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-24",
+  "runtime_minutes": 104
+}

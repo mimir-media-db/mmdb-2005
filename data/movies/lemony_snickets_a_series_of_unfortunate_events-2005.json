@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lemony_snickets_a_series_of_unfortunate_events_2005",
+  "title": "Lemony Snicket's A Series of Unfortunate Events",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116905",
+    "imdb": "tt0339291",
+    "tmdb": 11774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-27",
+  "runtime_minutes": 108
+}

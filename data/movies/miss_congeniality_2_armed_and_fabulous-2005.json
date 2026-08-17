@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_congeniality_2_armed_and_fabulous_2005",
+  "title": "Miss Congeniality 2: Armed and Fabulous",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q572221",
+    "imdb": "tt0385307",
+    "tmdb": 10040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-11",
+  "runtime_minutes": 115
+}

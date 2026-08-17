@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_break_a_leg_2005",
+  "title": "Break a Leg",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511182",
+    "imdb": "tt0315323",
+    "tmdb": 215361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

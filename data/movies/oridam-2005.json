@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oridam_2005",
+  "title": "Oridam",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19573493",
+    "imdb": "tt1821559",
+    "tmdb": 491596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-30"
+}

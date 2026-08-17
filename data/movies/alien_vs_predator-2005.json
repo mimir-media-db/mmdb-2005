@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_vs_predator_2005",
+  "title": "Alien vs. Predator",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q155163",
+    "imdb": "tt0370263",
+    "tmdb": 395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-25",
+  "runtime_minutes": 100
+}

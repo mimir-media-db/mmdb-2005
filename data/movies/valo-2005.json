@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valo_2005",
+  "title": "Valo",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11900201",
+    "imdb": "tt0453413",
+    "tmdb": 55770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-07",
+  "runtime_minutes": 84
+}

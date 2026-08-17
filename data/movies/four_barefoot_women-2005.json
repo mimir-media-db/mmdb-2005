@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_barefoot_women_2005",
+  "title": "Four Barefoot Women",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124959660",
+    "imdb": "tt0455411",
+    "tmdb": 408524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

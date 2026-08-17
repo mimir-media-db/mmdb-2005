@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pontianak_harum_sundal_malam_2_2005",
+  "title": "Pontianak Harum Sundal Malam 2",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12506204",
+    "imdb": "tt0493158",
+    "tmdb": 245097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 113
+}

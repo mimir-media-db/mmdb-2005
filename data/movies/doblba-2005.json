@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doblba_2005",
+  "title": "Doblba!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111820544",
+    "imdb": "tt0430031",
+    "tmdb": 203887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-29",
+  "runtime_minutes": 112
+}

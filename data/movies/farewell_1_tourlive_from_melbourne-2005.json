@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_1_tourlive_from_melbourne_2005",
+  "title": "Farewell 1 Tour-Live from Melbourne",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3066824",
+    "imdb": "tt0476452",
+    "tmdb": 56680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-14"
+}

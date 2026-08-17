@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gie_2005",
+  "title": "Gie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184207",
+    "imdb": "tt0459327",
+    "tmdb": 39061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-14",
+  "runtime_minutes": 147
+}

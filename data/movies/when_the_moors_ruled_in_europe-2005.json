@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_moors_ruled_in_europe_2005",
+  "title": "When the Moors Ruled in Europe",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7993005",
+    "imdb": "tt2162745",
+    "tmdb": 214853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

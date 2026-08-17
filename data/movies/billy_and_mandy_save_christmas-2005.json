@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_billy_and_mandy_save_christmas_2005",
+  "title": "Billy and Mandy Save Christmas",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9171757",
+    "imdb": "tt0592980",
+    "tmdb": 925946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

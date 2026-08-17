@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_10_minutes_diary_2005",
+  "title": "10 minutes diary",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11185128"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

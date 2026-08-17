@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_obaba_2005",
+  "title": "Obaba",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q572772",
+    "imdb": "tt0397582",
+    "tmdb": 115508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-16",
+  "runtime_minutes": 105
+}

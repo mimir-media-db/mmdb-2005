@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tugger_the_jeep_4x4_who_wanted_to_fly_2005",
+  "title": "Tugger: The Jeep 4x4 Who Wanted to Fly",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411674",
+    "imdb": "tt0464280",
+    "tmdb": 38056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-15"
+}

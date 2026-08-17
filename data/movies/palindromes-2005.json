@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_palindromes_2005",
+  "title": "Palindromes",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1537305",
+    "imdb": "tt0362004",
+    "tmdb": 13073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-21",
+  "runtime_minutes": 100
+}

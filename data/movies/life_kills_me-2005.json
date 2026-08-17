@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_kills_me_2005",
+  "title": "Life Kills Me",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3561661",
+    "imdb": "tt0304907",
+    "tmdb": 49824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-02"
+}

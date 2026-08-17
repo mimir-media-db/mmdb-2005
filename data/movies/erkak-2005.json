@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_erkak_2005",
+  "title": "Erkak",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16837127",
+    "imdb": "tt0464642",
+    "tmdb": 347507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

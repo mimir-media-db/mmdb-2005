@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_troop_1500_2005",
+  "title": "Troop 1500",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7845538",
+    "imdb": "tt0452699",
+    "tmdb": 528130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

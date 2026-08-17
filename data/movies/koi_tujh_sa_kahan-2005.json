@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koi_tujh_sa_kahan_2005",
+  "title": "Koi Tujh Sa Kahan",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2547460",
+    "imdb": "tt0798787",
+    "tmdb": 941735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-12"
+}

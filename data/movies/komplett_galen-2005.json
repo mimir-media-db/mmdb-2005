@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_komplett_galen_2005",
+  "title": "Komplett galen",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10547509",
+    "imdb": "tt0464816",
+    "tmdb": 306560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

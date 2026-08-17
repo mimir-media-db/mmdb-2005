@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muglan_2005",
+  "title": "Muglan",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123536752",
+    "imdb": "tt8374226",
+    "tmdb": 1123043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_sea_2005",
+  "title": "Beyond the Sea",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q162458",
+    "imdb": "tt0363473",
+    "tmdb": 6478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-17",
+  "runtime_minutes": 118
+}

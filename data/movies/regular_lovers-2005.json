@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_regular_lovers_2005",
+  "title": "Regular Lovers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q777519",
+    "imdb": "tt0443844",
+    "tmdb": 45126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-03",
+  "runtime_minutes": 178
+}

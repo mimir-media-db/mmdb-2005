@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_eat_your_watermelon_in_white_company_2005",
+  "title": "How to Eat Your Watermelon in White Company",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28457587",
+    "imdb": "tt0452632",
+    "tmdb": 127150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shop_of_dreams_2005",
+  "title": "Shop of Dreams",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20529304",
+    "imdb": "tt0445736",
+    "tmdb": 46900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 110
+}

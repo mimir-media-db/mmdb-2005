@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gol_gincu_2005",
+  "title": "Gol & Gincu",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12687025",
+    "imdb": "tt0472462",
+    "tmdb": 249884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-11"
+}

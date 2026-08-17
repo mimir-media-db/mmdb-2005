@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_is_a_miracle_2005",
+  "title": "Life Is a Miracle",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q585821",
+    "imdb": "tt0322420",
+    "tmdb": 20128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-16",
+  "runtime_minutes": 154
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sleepover_nightmare_2005",
+  "title": "Sleepover Nightmare",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11748522",
+    "imdb": "tt0448123",
+    "tmdb": 13568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lawstorant_2005",
+  "title": "Lawstorant",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11753338",
+    "imdb": "tt0475979",
+    "tmdb": 310795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-24"
+}

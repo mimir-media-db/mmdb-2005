@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_racing_stripes_2005",
+  "title": "Racing Stripes",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1165633",
+    "imdb": "tt0376105",
+    "tmdb": 6439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-06",
+  "runtime_minutes": 98
+}

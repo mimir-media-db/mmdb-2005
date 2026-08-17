@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_italian_2005",
+  "title": "The Italian",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2665188",
+    "imdb": "tt0450450",
+    "tmdb": 17388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-14",
+  "runtime_minutes": 99
+}
