@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_prathama_prema_2005",
+  "title": "Prathama Prema",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15724669",
+    "imdb": "tt1461266"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-23"
+}

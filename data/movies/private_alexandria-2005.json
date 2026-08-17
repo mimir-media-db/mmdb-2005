@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_private_alexandria_2005",
+  "title": "Private Alexandria",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12244891",
+    "imdb": "tt0422708",
+    "tmdb": 300420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

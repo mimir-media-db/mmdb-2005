@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pandu_ranga_vittala_2005",
+  "title": "Pandu Ranga Vittala",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19573575",
+    "imdb": "tt12716284",
+    "tmdb": 891180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

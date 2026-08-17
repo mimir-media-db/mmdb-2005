@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pink_ribbon_2005",
+  "title": "Pink Ribbon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97280041",
+    "imdb": "tt0443187",
+    "tmdb": 612359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-14"
+}

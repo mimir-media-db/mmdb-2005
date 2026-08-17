@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_producers_2005",
+  "title": "The Producers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2119348",
+    "imdb": "tt0395251",
+    "tmdb": 9899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-16",
+  "runtime_minutes": 134
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pain_of_others_2005",
+  "title": "The Pain of Others",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11150725",
+    "imdb": "tt0820131",
+    "tmdb": 632066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

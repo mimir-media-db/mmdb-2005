@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_priya_mo_priya_2005",
+  "title": "Priya Mo Priya",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50824821",
+    "imdb": "tt1461267"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

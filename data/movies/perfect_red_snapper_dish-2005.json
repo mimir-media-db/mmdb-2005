@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_red_snapper_dish_2005",
+  "title": "A Perfect Red Snapper Dish",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998829",
+    "imdb": "tt2996732",
+    "tmdb": 535562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
