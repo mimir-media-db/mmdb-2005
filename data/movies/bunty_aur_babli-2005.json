@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bunty_aur_babli_2005",
+  "title": "Bunty Aur Babli",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q852001",
+    "imdb": "tt0448206",
+    "tmdb": 11763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 163
+}

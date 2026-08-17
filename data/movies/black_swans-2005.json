@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_swans_2005",
+  "title": "Black Swans",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2426181",
+    "imdb": "tt0350374",
+    "tmdb": 101802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

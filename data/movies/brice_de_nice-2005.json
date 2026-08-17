@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brice_de_nice_2005",
+  "title": "Brice de Nice",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2713293",
+    "imdb": "tt0412535",
+    "tmdb": 17350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 98
+}

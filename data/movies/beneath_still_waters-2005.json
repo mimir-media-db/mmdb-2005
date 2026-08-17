@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beneath_still_waters_2005",
+  "title": "Beneath Still Waters",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q511404",
+    "imdb": "tt0371572",
+    "tmdb": 18210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 96
+}

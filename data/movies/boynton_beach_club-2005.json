@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boynton_beach_club_2005",
+  "title": "Boynton Beach Club",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4952573",
+    "imdb": "tt0439478",
+    "tmdb": 55831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 105
+}

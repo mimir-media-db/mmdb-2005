@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_but_when_do_the_girls_get_here_2005",
+  "title": "But When do the Girls Get Here?",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3841874",
+    "imdb": "tt0417930",
+    "tmdb": 57512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 105
+}

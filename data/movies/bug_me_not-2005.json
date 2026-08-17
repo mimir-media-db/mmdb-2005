@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bug_me_not_2005",
+  "title": "Bug Me Not!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4986075",
+    "imdb": "tt0470263",
+    "tmdb": 195643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bul_deconne_2005",
+  "title": "Bul déconné!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2927865",
+    "imdb": "tt1435986"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

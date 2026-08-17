@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_of_a_champion_2005",
+  "title": "Blood of a Champion",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4927835",
+    "imdb": "tt0427000",
+    "tmdb": 71784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

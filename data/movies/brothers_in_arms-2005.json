@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_in_arms_2005",
+  "title": "Brothers in Arms",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2926276",
+    "imdb": "tt0439504",
+    "tmdb": 31390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_love_2005",
+  "title": "Blind Love",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4926578",
+    "imdb": "tt1294728",
+    "tmdb": 123355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

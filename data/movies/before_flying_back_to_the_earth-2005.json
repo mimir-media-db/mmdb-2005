@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_flying_back_to_the_earth_2005",
+  "title": "Before Flying Back to the Earth",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3402875",
+    "imdb": "tt0892425",
+    "tmdb": 53196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brownies_2005",
+  "title": "Brownies",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4976538",
+    "imdb": "tt1053226",
+    "tmdb": 665587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bashing_2005",
+  "title": "Bashing",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2886759",
+    "imdb": "tt0456836",
+    "tmdb": 39798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 82
+}

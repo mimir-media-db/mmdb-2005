@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beaute_grandeur_nature_2005",
+  "title": "Beauté Grandeur Nature",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2893353",
+    "imdb": "tt0497885"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

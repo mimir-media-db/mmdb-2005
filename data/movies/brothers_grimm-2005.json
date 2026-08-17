@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_grimm_2005",
+  "title": "The Brothers Grimm",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q707880",
+    "imdb": "tt0355295",
+    "tmdb": 4442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 119
+}

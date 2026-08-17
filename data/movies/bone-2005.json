@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bone_2005",
+  "title": "Bone",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4941483",
+    "imdb": "tt0902957"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
