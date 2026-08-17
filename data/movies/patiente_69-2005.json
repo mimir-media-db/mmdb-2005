@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_patiente_69_2005",
+  "title": "Patiente 69",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3368752",
+    "imdb": "tt0453183"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

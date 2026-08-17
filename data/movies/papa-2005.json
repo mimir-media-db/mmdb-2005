@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_2005",
+  "title": "Papa",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3362710",
+    "imdb": "tt0428940",
+    "tmdb": 59163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

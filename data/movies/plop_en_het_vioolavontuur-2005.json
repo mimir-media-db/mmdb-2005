@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plop_en_het_vioolavontuur_2005",
+  "title": "Plop en het vioolavontuur",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2135779",
+    "imdb": "tt0488028",
+    "tmdb": 54349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 65
+}

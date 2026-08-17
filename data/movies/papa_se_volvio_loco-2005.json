@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_se_volvio_loco_2005",
+  "title": "Papá se Volvió Loco",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6060298",
+    "imdb": "tt0433009",
+    "tmdb": 75493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

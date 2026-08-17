@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pontianak_menjerit_2005",
+  "title": "Pontianak Menjerit",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7228249",
+    "imdb": "tt9815072",
+    "tmdb": 249087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

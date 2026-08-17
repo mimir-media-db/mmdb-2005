@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perspecplejia_2005",
+  "title": "Perspecplejia",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6073021",
+    "imdb": "tt0485424",
+    "tmdb": 1290812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_page_3_2005",
+  "title": "Page 3",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q897477",
+    "imdb": "tt0443708",
+    "tmdb": 20623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

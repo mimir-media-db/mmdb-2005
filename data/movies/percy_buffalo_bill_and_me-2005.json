@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_percy_buffalo_bill_and_me_2005",
+  "title": "Percy, Buffalo Bill and Me",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795596",
+    "imdb": "tt0484451",
+    "tmdb": 104770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 83
+}

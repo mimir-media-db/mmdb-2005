@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pehchaan_the_face_of_truth_2005",
+  "title": "Pehchaan: The Face of Truth",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7160840",
+    "imdb": "tt0473684",
+    "tmdb": 326397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 173
+}

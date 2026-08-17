@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_presidents_last_bang_2005",
+  "title": "The President's Last Bang",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q625010",
+    "imdb": "tt0445396",
+    "tmdb": 41338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 102
+}

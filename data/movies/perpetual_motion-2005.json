@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perpetual_motion_2005",
+  "title": "Perpetual Motion",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3375557",
+    "imdb": "tt0477927",
+    "tmdb": 307093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
