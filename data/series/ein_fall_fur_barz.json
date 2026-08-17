@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ein_fall_fur_barz",
+  "title": "Ein Fall für B.A.R.Z.",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q666225",
+    "imdb": "tt0448951",
+    "tmdb": 40514
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

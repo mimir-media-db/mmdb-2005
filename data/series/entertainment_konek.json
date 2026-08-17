@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_entertainment_konek",
+  "title": "Entertainment Konek",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5380458",
+    "tmdb": 6237
+  },
+  "last_updated": "2026-08-17"
+}

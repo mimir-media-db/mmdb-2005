@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_pasado_no_perdona",
+  "title": "El pasado no perdona",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5826048",
+    "imdb": "tt0475921",
+    "tmdb": 287922
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 125
+}
