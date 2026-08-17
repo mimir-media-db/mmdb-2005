@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mind_of_mencia",
+  "title": "Mind of Mencia",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q16546578",
+    "imdb": "tt0468999",
+    "tmdb": 2496
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_super_sweet_16",
+  "title": "My Super Sweet 16",
+  "start_year": 2005,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q787507",
+    "imdb": "tt0445890",
+    "tmdb": 10390
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 105
+}

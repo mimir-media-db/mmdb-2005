@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mock_the_week",
+  "title": "Mock the Week",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2448875",
+    "imdb": "tt0463827",
+    "tmdb": 11089
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 23,
+  "total_episodes": 216
+}

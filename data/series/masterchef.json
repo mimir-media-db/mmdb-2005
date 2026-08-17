@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef",
+  "title": "MasterChef",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q45726",
+    "imdb": "tt0805418",
+    "tmdb": 11889
+  },
+  "last_updated": "2026-08-17"
+}

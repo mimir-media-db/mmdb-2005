@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_sassy_neighbour",
+  "title": "My Sassy Neighbour",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q104651217",
+    "imdb": "tt0467380"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 38
+}

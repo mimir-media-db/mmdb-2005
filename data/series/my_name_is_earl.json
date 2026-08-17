@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_name_is_earl",
+  "title": "My Name Is Earl",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q34659",
+    "imdb": "tt0460091",
+    "tmdb": 2317
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 96
+}

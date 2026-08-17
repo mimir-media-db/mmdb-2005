@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_man_stroke_woman",
+  "title": "Man Stroke Woman",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6746272",
+    "imdb": "tt0490731",
+    "tmdb": 3255
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}
