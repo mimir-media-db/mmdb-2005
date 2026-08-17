@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_needles_2005",
+  "title": "3 Needles",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q229636",
+    "imdb": "tt0395424",
+    "tmdb": 18166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 123
+}
