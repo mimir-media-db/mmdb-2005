@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_camp_orange",
+  "title": "Camp Orange",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5027477",
+    "imdb": "tt2075483",
+    "tmdb": 10624
+  },
+  "last_updated": "2026-08-17"
+}

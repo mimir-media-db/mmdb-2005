@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_collector",
+  "title": "The Collector",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1563207",
+    "imdb": "tt0496462",
+    "tmdb": 14174
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

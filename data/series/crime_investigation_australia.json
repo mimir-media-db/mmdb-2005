@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_investigation_australia",
+  "title": "Crime Investigation Australia",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5185201",
+    "imdb": "tt1552648",
+    "tmdb": 14243
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

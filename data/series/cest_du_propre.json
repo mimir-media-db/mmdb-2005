@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_cest_du_propre",
+  "title": "C'est du propre !",
+  "start_year": 2005,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2930280"
+  },
+  "last_updated": "2026-08-17"
+}

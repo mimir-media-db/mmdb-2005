@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_criss_angel_mindfreak",
+  "title": "Criss Angel Mindfreak",
+  "start_year": 2005,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q702422",
+    "imdb": "tt0461622",
+    "tmdb": 12278
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 96
+}

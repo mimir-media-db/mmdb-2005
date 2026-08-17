@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cathedral",
+  "title": "Cathedral",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5052179",
+    "imdb": "tt0443464",
+    "tmdb": 9726
+  },
+  "last_updated": "2026-08-17"
+}

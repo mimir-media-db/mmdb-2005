@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_comeback",
+  "title": "The Comeback",
+  "start_year": 2005,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q478037",
+    "imdb": "tt0434672",
+    "tmdb": 1999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 29
+}

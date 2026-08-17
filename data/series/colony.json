@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_colony",
+  "title": "The Colony",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7726817",
+    "imdb": "tt0825504",
+    "tmdb": 25294
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_casados_con_hijos",
+  "title": "Casados con Hijos",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1974208",
+    "imdb": "tt0451493",
+    "tmdb": 7217
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 215
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_canadian_case_files",
+  "title": "Canadian Case Files",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5029810",
+    "imdb": "tt0461075",
+    "tmdb": 11770
+  },
+  "last_updated": "2026-08-17"
+}
