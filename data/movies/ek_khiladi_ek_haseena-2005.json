@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_khiladi_ek_haseena_2005",
+  "title": "Ek Khiladi Ek Haseena",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350204",
+    "imdb": "tt0461209",
+    "tmdb": 51523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

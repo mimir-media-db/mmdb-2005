@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ennemis_publics_2005",
+  "title": "Ennemis publics",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3054466",
+    "imdb": "tt0441621"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

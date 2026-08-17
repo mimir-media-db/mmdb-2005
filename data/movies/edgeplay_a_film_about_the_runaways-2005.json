@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edgeplay_a_film_about_the_runaways_2005",
+  "title": "Edgeplay: A Film About the Runaways",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5337803",
+    "imdb": "tt0216731",
+    "tmdb": 32576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 110
+}

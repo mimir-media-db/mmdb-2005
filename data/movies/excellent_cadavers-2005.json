@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_excellent_cadavers_2005",
+  "title": "Excellent Cadavers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3797468",
+    "imdb": "tt1065328",
+    "tmdb": 245556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_aura_2005",
+  "title": "El Aura",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2389686",
+    "imdb": "tt0420509",
+    "tmdb": 13653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 138
+}

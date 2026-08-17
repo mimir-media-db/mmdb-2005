@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elektra_2005",
+  "title": "Elektra",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q610159",
+    "imdb": "tt0357277",
+    "tmdb": 9947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 96
+}
