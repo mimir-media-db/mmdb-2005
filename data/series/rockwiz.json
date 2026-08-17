@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rockwiz",
+  "title": "RocKwiz",
+  "start_year": 2005,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q3437326",
+    "imdb": "tt0445138",
+    "tmdb": 12640
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 182
+}

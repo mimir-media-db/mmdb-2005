@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ris_delitti_imperfetti",
+  "title": "RIS Delitti Imperfetti",
+  "start_year": 2004,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2293964",
+    "imdb": "tt0446862",
+    "tmdb": 13021
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 84
+}

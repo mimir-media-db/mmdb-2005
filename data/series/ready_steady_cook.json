@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ready_steady_cook",
+  "title": "Ready Steady Cook",
+  "start_year": 2004,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7300668",
+    "imdb": "tt6973558",
+    "tmdb": 12235
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 1000
+}

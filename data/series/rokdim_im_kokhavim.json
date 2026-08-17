@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rokdim_im_kokhavim",
+  "title": "Rokdim Im Kokhavim",
+  "start_year": 2004,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2908684",
+    "imdb": "tt0805447",
+    "tmdb": 7269
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 50
+}
