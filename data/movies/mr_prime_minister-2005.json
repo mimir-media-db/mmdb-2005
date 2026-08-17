@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_prime_minister_2005",
+  "title": "Mr Prime Minister",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6929445",
+    "imdb": "tt0813539",
+    "tmdb": 1688948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

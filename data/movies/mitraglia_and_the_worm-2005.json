@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mitraglia_and_the_worm_2005",
+  "title": "Mitraglia and the Worm",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3859468",
+    "imdb": "tt1304585",
+    "tmdb": 772741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 76
+}

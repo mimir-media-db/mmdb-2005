@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meeshee_the_water_giant_2005",
+  "title": "Mee-Shee: The Water Giant",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6807464",
+    "imdb": "tt0243462",
+    "tmdb": 60596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

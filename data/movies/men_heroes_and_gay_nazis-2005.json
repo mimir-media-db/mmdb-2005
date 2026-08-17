@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_men_heroes_and_gay_nazis_2005",
+  "title": "Men, Heroes and Gay Nazis",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6816212",
+    "imdb": "tt0454902",
+    "tmdb": 139871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 78
+}

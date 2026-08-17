@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manasu_maata_vinadhu_2005",
+  "title": "Manasu Maata Vinadhu",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6747050",
+    "imdb": "tt3440256",
+    "tmdb": 274779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

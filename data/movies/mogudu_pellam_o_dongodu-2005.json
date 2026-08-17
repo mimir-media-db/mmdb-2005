@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mogudu_pellam_o_dongodu_2005",
+  "title": "Mogudu Pellam O Dongodu",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6890739",
+    "imdb": "tt1579811",
+    "tmdb": 308256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

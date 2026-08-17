@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_to_man_2005",
+  "title": "Man to Man",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3285136",
+    "imdb": "tt0397530",
+    "tmdb": 10087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 122
+}

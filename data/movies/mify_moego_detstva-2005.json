@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mify_moego_detstva_2005",
+  "title": "Mify moego detstva",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4297102",
+    "imdb": "tt1141263",
+    "tmdb": 67881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 105
+}
