@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lami_2005",
+  "title": "L'Ami",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3201776",
+    "imdb": "tt2772982",
+    "tmdb": 1421851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

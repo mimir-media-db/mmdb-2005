@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lami_ya_bon_2005",
+  "title": "L'ami y'a bon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3201806",
+    "imdb": "tt0461128",
+    "tmdb": 963716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lorizzonte_degli_eventi_2005",
+  "title": "L'orizzonte degli eventi",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819675",
+    "imdb": "tt0466390",
+    "tmdb": 253938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 115
+}

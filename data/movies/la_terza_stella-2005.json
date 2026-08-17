@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_terza_stella_2005",
+  "title": "La terza stella",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824600",
+    "imdb": "tt0457708",
+    "tmdb": 70153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 98
+}

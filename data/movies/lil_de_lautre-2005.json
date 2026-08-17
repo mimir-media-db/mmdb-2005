@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lil_de_lautre_2005",
+  "title": "L'Œil de l'autre",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3205799",
+    "imdb": "tt0384389",
+    "tmdb": 574526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

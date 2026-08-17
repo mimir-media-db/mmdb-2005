@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_boys_iv_2005",
+  "title": "Les Boys IV",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3231141",
+    "imdb": "tt0308064",
+    "tmdb": 42844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_and_hard_times_of_guy_terrifico_2005",
+  "title": "The Life and Hard Times of Guy Terrifico",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7747152",
+    "imdb": "tt0408993",
+    "tmdb": 147970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_plus_beau_jour_de_ma_vie_2005",
+  "title": "Le Plus Beau Jour de ma vie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225694",
+    "imdb": "tt0433020",
+    "tmdb": 49715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 104
+}

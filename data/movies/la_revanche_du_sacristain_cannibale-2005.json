@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_revanche_du_sacristain_cannibale_2005",
+  "title": "La Revanche du sacristain cannibale",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212270",
+    "imdb": "tt1838587",
+    "tmdb": 606266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

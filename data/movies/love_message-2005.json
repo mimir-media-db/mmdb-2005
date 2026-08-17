@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_message_2005",
+  "title": "Love Message",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6691104",
+    "imdb": "tt0777723",
+    "tmdb": 1042781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

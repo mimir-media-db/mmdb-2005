@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vie_de_michel_muller_est_plus_belle_que_la_votre_2005",
+  "title": "La vie de Michel Muller est plus belle que la vôtre",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3214230",
+    "imdb": "tt0436873",
+    "tmdb": 126547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_survivants_2005",
+  "title": "Les survivants",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3235661",
+    "imdb": "tt1107953",
+    "tmdb": 778250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

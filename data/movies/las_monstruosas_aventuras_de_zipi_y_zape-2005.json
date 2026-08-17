@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_las_monstruosas_aventuras_de_zipi_y_zape_2005",
+  "title": "Las monstruosas aventuras de Zipi y Zape",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5411269",
+    "imdb": "tt0451817",
+    "tmdb": 101126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lotta_libera_2005",
+  "title": "Lotta libera",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3837503",
+    "imdb": "tt0463575",
+    "tmdb": 982591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 15
+}

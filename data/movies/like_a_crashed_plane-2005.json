@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_a_crashed_plane_2005",
+  "title": "Like a Crashed Plane",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q961666",
+    "imdb": "tt0421998",
+    "tmdb": 145156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 80
+}

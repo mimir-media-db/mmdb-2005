@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lenny_the_wonder_dog_2005",
+  "title": "Lenny the Wonder Dog",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6523026",
+    "imdb": "tt0374621",
+    "tmdb": 58939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

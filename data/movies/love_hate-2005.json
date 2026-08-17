@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_hate_2005",
+  "title": "Love + Hate",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6690279",
+    "imdb": "tt0471018",
+    "tmdb": 59806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

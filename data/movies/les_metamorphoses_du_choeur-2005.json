@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_metamorphoses_du_choeur_2005",
+  "title": "Les métamorphoses du choeur",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234129",
+    "imdb": "tt0436618",
+    "tmdb": 382861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
