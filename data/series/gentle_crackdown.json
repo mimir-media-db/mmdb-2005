@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gentle_crackdown",
+  "title": "The Gentle Crackdown",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7736122",
+    "imdb": "tt0843224",
+    "tmdb": 4116
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}
