@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garam_masala_2005",
+  "title": "Garam Masala",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1493882",
+    "imdb": "tt0453671",
+    "tmdb": 19636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 156
+}

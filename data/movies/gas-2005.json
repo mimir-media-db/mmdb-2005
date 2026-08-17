@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gas_2005",
+  "title": "Gas",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3758581",
+    "imdb": "tt0436345",
+    "tmdb": 228812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

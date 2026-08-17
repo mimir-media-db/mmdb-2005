@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gay_marriage_thing_2005",
+  "title": "The Gay Marriage Thing",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7735993",
+    "imdb": "tt0814117",
+    "tmdb": 501424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

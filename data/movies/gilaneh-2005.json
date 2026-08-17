@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gilaneh_2005",
+  "title": "Gilaneh",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5938834",
+    "imdb": "tt0450428",
+    "tmdb": 115503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 80
+}

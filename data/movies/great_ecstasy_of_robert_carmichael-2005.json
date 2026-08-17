@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_ecstasy_of_robert_carmichael_2005",
+  "title": "The Great Ecstasy of Robert Carmichael",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7737731",
+    "imdb": "tt0459387",
+    "tmdb": 44986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

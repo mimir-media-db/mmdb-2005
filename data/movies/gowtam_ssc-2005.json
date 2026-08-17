@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gowtam_ssc_2005",
+  "title": "Gowtam SSC",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5590145",
+    "imdb": "tt1080671",
+    "tmdb": 531021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

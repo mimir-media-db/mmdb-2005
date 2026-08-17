@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_going_shopping_2005",
+  "title": "Going Shopping",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5577835",
+    "imdb": "tt0295605",
+    "tmdb": 288779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

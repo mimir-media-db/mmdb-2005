@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_river_killer_2005",
+  "title": "Green River Killer",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5603130",
+    "imdb": "tt0472099",
+    "tmdb": 46120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 83
+}
