@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curse_of_lola_2005",
+  "title": "Curse of Lola",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3007742",
+    "imdb": "tt0488103",
+    "tmdb": 264718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

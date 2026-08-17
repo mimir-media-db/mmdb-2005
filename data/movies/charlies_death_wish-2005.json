@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charlies_death_wish_2005",
+  "title": "Charlie's Death Wish",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2960811",
+    "imdb": "tt0465936",
+    "tmdb": 446550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

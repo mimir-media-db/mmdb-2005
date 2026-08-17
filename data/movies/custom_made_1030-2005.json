@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_custom_made_1030_2005",
+  "title": "Custom Made 10.30",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5196397",
+    "imdb": "tt0494736",
+    "tmdb": 591525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

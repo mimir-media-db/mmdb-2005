@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cruel_but_necessary_2005",
+  "title": "Cruel but Necessary",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5189903",
+    "imdb": "tt0418612",
+    "tmdb": 55940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

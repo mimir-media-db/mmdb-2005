@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chokdee_2005",
+  "title": "Chok-Dee",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2964366",
+    "imdb": "tt0402102",
+    "tmdb": 22236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 105
+}

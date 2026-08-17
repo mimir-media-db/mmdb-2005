@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_complete_music_video_collection_2005",
+  "title": "Complete Music Video Collection",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q942934"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

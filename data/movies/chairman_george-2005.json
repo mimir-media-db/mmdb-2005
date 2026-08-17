@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chairman_george_2005",
+  "title": "Chairman George",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5068075",
+    "imdb": "tt0818662",
+    "tmdb": 659108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaahat_ek_nasha_2005",
+  "title": "Chaahat – Ek Nasha",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5065966",
+    "imdb": "tt0447890",
+    "tmdb": 362812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chandrolsavam_2005",
+  "title": "Chandrolsavam",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5071499",
+    "imdb": "tt0448408",
+    "tmdb": 280190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

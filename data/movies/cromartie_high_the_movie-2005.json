@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cromartie_high_the_movie_2005",
+  "title": "Cromartie High – The Movie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3025926",
+    "imdb": "tt0454250",
+    "tmdb": 39022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

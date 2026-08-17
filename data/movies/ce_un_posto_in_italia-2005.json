@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ce_un_posto_in_italia_2005",
+  "title": "C'è un posto in Italia",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3648202",
+    "imdb": "tt1698487",
+    "tmdb": 503391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 58
+}
