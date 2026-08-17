@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_24_hours_on_craigslist_2005",
+  "title": "24 Hours on Craigslist",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4631882",
+    "imdb": "tt0377029",
+    "tmdb": 56579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 82
+}
