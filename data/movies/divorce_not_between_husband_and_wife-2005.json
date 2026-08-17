@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_divorce_not_between_husband_and_wife_2005",
+  "title": "Divorce: Not Between Husband and Wife",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5284662",
+    "imdb": "tt0441618",
+    "tmdb": 1734501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_di_buen_dia_a_papa_2005",
+  "title": "Di buen día a papá",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3025766",
+    "imdb": "tt0420577",
+    "tmdb": 124178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 115
+}

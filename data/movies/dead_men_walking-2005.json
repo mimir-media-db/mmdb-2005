@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_men_walking_2005",
+  "title": "Dead Men Walking",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3704212",
+    "imdb": "tt0473348",
+    "tmdb": 65051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 82
+}

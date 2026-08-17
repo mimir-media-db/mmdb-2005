@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_to_the_supermodels_2005",
+  "title": "Death to the Supermodels",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5247653",
+    "imdb": "tt0379754",
+    "tmdb": 15851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 84
+}

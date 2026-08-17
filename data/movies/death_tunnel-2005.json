@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_tunnel_2005",
+  "title": "Death Tunnel",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1181263",
+    "imdb": "tt0418627",
+    "tmdb": 9814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_delusions_2005",
+  "title": "Delusions",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6901845",
+    "imdb": "tt0461929",
+    "tmdb": 406807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 91
+}

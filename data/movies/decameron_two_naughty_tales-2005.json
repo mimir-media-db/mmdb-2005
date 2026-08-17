@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_decameron_two_naughty_tales_2005",
+  "title": "Decameron: Two Naughty Tales",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4186873",
+    "imdb": "tt1161002",
+    "tmdb": 1215183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_domino_one_2005",
+  "title": "Domino One",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2367767",
+    "imdb": "tt0446683",
+    "tmdb": 960561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 86
+}

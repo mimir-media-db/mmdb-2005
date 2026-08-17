@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divergence_2005",
+  "title": "Divergence",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1376152",
+    "imdb": "tt0455195",
+    "tmdb": 32164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 101
+}

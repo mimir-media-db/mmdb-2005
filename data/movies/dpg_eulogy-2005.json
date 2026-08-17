@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dpg_eulogy_2005",
+  "title": "DPG Eulogy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5205924",
+    "imdb": "tt0861700",
+    "tmdb": 715354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_come_knocking_2005",
+  "title": "Don't Come Knocking",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q175600",
+    "imdb": "tt0377800",
+    "tmdb": 3527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 122
+}

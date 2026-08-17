@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_the_dead_2_contagium_2005",
+  "title": "Day of the Dead 2: Contagium",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1179070",
+    "imdb": "tt0411269",
+    "tmdb": 28522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dombivali_fast_2005",
+  "title": "Dombivali Fast",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5289982",
+    "imdb": "tt0833444",
+    "tmdb": 227600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

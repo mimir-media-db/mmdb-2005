@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_eye_congee_2005",
+  "title": "Dragon Eye Congee",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5305195",
+    "imdb": "tt0427469",
+    "tmdb": 331999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

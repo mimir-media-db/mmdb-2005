@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dil_jo_bhi_kahey_2005",
+  "title": "Dil Jo Bhi Kahey...",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3427552",
+    "imdb": "tt0442764",
+    "tmdb": 74084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

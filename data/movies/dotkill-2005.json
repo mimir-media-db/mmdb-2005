@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dotkill_2005",
+  "title": "Dot.Kill",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5299358",
+    "imdb": "tt0337610",
+    "tmdb": 25707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_fish_2005",
+  "title": "Dead Fish",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3020536",
+    "imdb": "tt0379240",
+    "tmdb": 19059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 98
+}
