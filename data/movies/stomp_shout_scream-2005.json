@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stomp_shout_scream_2005",
+  "title": "Stomp! Shout! Scream!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7618764",
+    "imdb": "tt0426584",
+    "tmdb": 204609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

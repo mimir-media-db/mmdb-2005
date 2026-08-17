@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_5th_republic",
+  "title": "5th Republic",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q624364",
+    "imdb": "tt25052092",
+    "tmdb": 22726
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 41
+}

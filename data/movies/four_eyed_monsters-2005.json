@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_eyed_monsters_2005",
+  "title": "Four Eyed Monsters",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2296965",
+    "imdb": "tt0439182",
+    "tmdb": 46336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

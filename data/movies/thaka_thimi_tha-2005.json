@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thaka_thimi_tha_2005",
+  "title": "Thaka Thimi Tha",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7709347",
+    "imdb": "tt13776044",
+    "tmdb": 332805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devour_2005",
+  "title": "Devour",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2657579",
+    "imdb": "tt0406706",
+    "tmdb": 14147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

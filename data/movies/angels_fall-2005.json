@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angels_fall_2005",
+  "title": "Angel's Fall",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6054381",
+    "imdb": "tt0431259",
+    "tmdb": 179715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 98
+}

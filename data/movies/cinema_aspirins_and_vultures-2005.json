@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_aspirins_and_vultures_2005",
+  "title": "Cinema, Aspirins and Vultures",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3284549",
+    "imdb": "tt0373760",
+    "tmdb": 43420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 104
+}

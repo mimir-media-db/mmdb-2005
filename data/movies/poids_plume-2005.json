@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_poids_plume_2005",
+  "title": "Poids plume",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3393264",
+    "imdb": "tt0772955"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

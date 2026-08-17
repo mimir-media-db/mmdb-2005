@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_deadliest_catch",
+  "title": "Deadliest Catch",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q557913",
+    "imdb": "tt0446809",
+    "tmdb": 2612
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 107
+}

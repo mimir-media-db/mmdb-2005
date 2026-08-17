@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wallander_morkret_2005",
+  "title": "Wallander – Mörkret",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1763250",
+    "imdb": "tt0491231",
+    "tmdb": 289329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

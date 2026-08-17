@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lasermannen",
+  "title": "Lasermannen",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6493130",
+    "imdb": "tt0465689",
+    "tmdb": 32682
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

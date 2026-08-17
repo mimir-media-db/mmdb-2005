@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_baile_de_la_vida",
+  "title": "El baile de la vida",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5823980",
+    "imdb": "tt0495923",
+    "tmdb": 137230
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 125
+}

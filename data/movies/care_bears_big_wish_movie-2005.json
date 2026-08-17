@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_care_bears_big_wish_movie_2005",
+  "title": "The Care Bears' Big Wish Movie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576940",
+    "imdb": "tt0472221",
+    "tmdb": 19018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 75
+}

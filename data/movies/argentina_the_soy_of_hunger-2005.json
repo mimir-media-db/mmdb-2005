@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_argentina_the_soy_of_hunger_2005",
+  "title": "Argentina, the soy of hunger",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2860952",
+    "tmdb": 344702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

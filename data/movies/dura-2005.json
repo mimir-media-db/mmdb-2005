@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dura_2005",
+  "title": "Dura",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4170924",
+    "imdb": "tt0436254",
+    "tmdb": 64268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

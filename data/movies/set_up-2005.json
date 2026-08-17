@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_set_up_2005",
+  "title": "Set Up",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7456262",
+    "imdb": "tt1980238",
+    "tmdb": 79322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

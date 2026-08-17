@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bambara_kannaley_2005",
+  "title": "Bambara Kannaley",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3536768",
+    "imdb": "tt2325541",
+    "tmdb": 460849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

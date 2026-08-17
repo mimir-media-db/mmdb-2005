@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_mutho_chabi_2005",
+  "title": "Ek Mutho Chabi",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350215",
+    "imdb": "tt4773232",
+    "tmdb": 197866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

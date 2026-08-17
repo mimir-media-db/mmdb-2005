@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_erkan_stefan_in_der_tod_kommt_krass_2005",
+  "title": "Erkan & Stefan in Der Tod kommt krass",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1354957",
+    "imdb": "tt0427219",
+    "tmdb": 1616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 93
+}

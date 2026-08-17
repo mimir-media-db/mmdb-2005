@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wege_zum_gluck",
+  "title": "Wege zum Glück",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q326264",
+    "imdb": "tt0473580",
+    "tmdb": 40915
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 789
+}

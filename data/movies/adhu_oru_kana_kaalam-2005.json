@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adhu_oru_kana_kaalam_2005",
+  "title": "Adhu Oru Kana Kaalam",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3424335",
+    "imdb": "tt0452968",
+    "tmdb": 79653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

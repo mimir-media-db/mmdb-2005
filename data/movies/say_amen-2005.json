@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_say_amen_2005",
+  "title": "Say Amen",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7428906",
+    "imdb": "tt0478510",
+    "tmdb": 322865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

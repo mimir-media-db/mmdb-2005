@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_unauthorised_history_of_new_zealand",
+  "title": "The Unauthorised History of New Zealand",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7771275",
+    "imdb": "tt0956284",
+    "tmdb": 1785
+  },
+  "last_updated": "2026-08-17"
+}

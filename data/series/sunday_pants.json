@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sunday_pants",
+  "title": "Sunday Pants",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q24807508",
+    "imdb": "tt0486074",
+    "tmdb": 8928
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

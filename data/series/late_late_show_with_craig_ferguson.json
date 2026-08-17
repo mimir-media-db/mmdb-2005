@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_late_late_show_with_craig_ferguson",
+  "title": "The Late Late Show with Craig Ferguson",
+  "start_year": 2005,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2700116",
+    "imdb": "tt0437729",
+    "tmdb": 14981
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 2058
+}

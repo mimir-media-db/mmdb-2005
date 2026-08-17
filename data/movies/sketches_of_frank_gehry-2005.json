@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sketches_of_frank_gehry_2005",
+  "title": "Sketches of Frank Gehry",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2720627",
+    "imdb": "tt0446784",
+    "tmdb": 27453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 86
+}

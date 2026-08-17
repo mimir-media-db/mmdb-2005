@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mag_bodard_un_destin_2005",
+  "title": "Mag Bodard, un destin",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3276489",
+    "imdb": "tt0819783",
+    "tmdb": 479988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

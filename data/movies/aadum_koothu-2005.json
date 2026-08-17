@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aadum_koothu_2005",
+  "title": "Aadum Koothu",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3523138",
+    "imdb": "tt2575568",
+    "tmdb": 264810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_who_2005",
+  "title": "Doctor Who (2005)",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39243484",
+    "imdb": "tt0436992",
+    "tmdb": 57243
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13
+}

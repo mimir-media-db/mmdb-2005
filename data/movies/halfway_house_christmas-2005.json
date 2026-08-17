@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_halfway_house_christmas_2005",
+  "title": "A Halfway House Christmas",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657228",
+    "imdb": "tt0451073",
+    "tmdb": 585730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

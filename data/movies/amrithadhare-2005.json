@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amrithadhare_2005",
+  "title": "Amrithadhare",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4748690",
+    "imdb": "tt0889168",
+    "tmdb": 420366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

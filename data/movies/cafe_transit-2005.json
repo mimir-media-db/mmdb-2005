@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cafe_transit_2005",
+  "title": "Café Transit",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2933031",
+    "imdb": "tt0477585",
+    "tmdb": 43768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 107
+}

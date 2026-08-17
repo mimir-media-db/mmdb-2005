@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amnesia_the_james_brighton_enigma_2005",
+  "title": "Amnesia: The James Brighton Enigma",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2843751",
+    "imdb": "tt0779722",
+    "tmdb": 12794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

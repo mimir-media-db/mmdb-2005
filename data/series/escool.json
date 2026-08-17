@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_escool",
+  "title": "EsCool",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3057612",
+    "imdb": "tt0456775",
+    "tmdb": 290588
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 79
+}

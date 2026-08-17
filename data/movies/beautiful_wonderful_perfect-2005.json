@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_wonderful_perfect_2005",
+  "title": "Beautiful Wonderful Perfect",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4877838",
+    "imdb": "tt0495832",
+    "tmdb": 250990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

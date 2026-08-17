@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_business_2005",
+  "title": "The Business",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1516843",
+    "imdb": "tt0429715",
+    "tmdb": 5145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

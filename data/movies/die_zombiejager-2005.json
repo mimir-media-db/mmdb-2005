@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_zombiejager_2005",
+  "title": "Die Zombiejäger",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5274469",
+    "imdb": "tt0480777",
+    "tmdb": 42317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

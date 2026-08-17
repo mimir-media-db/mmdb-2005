@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sentimental_education_of_eugenie_2005",
+  "title": "The Sentimental Education of Eugénie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3818945",
+    "imdb": "tt0824320",
+    "tmdb": 64827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

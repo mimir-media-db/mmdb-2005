@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nisshabd_2005",
+  "title": "Nisshabd",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7041107",
+    "imdb": "tt0499240"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

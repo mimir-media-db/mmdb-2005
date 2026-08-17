@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carlitos_way_rise_to_power_2005",
+  "title": "Carlito's Way: Rise to Power",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2529689",
+    "imdb": "tt0427038",
+    "tmdb": 12261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

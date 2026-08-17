@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_favela_rising_2005",
+  "title": "Favela Rising",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5438552",
+    "imdb": "tt0455949",
+    "tmdb": 49393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 80
+}

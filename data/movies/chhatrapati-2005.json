@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chhatrapati_2005",
+  "title": "Chhatrapati",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q251908",
+    "imdb": "tt0843328",
+    "tmdb": 79210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 158
+}

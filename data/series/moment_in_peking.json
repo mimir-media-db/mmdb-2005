@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_moment_in_peking",
+  "title": "Moment in Peking",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4919472",
+    "imdb": "tt0464774",
+    "tmdb": 32914
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 44
+}

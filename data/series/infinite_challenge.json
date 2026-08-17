@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_infinite_challenge",
+  "title": "Infinite Challenge",
+  "start_year": 2005,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21141",
+    "imdb": "tt4546568",
+    "tmdb": 5092
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 537
+}

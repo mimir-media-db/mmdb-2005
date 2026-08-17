@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_damage_control",
+  "title": "Damage Control",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5211887",
+    "imdb": "tt0446616",
+    "tmdb": 12372
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaos_2005",
+  "title": "Chaos",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5072774",
+    "imdb": "tt0405977",
+    "tmdb": 39914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

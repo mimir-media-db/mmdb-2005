@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_medicinmannen",
+  "title": "Medicinmannen",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5487569",
+    "imdb": "tt0409584",
+    "tmdb": 73592
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

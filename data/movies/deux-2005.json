@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deux_2005",
+  "title": "À deux",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576657",
+    "imdb": "tt0466508",
+    "tmdb": 458276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

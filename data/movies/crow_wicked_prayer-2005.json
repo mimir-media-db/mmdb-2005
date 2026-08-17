@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crow_wicked_prayer_2005",
+  "title": "The Crow: Wicked Prayer",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1753745",
+    "imdb": "tt0353324",
+    "tmdb": 16456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

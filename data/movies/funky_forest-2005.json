@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_funky_forest_2005",
+  "title": "Funky Forest",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5509293",
+    "imdb": "tt0451829",
+    "tmdb": 21136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 150
+}

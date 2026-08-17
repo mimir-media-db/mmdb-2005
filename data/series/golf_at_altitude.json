@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_golf_at_altitude",
+  "title": "Golf at Altitude",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5580612",
+    "imdb": "tt0472003",
+    "tmdb": 41549
+  },
+  "last_updated": "2026-08-17"
+}

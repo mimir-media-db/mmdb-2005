@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stephen_tobolowskys_birthday_party_2005",
+  "title": "Stephen Tobolowsky's Birthday Party",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3498669",
+    "imdb": "tt0437489",
+    "tmdb": 121555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 87
+}

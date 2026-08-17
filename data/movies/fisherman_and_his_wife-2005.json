@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fisherman_and_his_wife_2005",
+  "title": "The Fisherman and His Wife",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1193404",
+    "imdb": "tt0430097",
+    "tmdb": 5235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

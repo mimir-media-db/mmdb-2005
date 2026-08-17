@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_trackers",
+  "title": "Ghost Trackers",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q925106",
+    "imdb": "tt0486232",
+    "tmdb": 12780
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

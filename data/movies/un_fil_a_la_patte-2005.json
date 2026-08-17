@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_fil_a_la_patte_2005",
+  "title": "Un fil à la patte",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548598",
+    "imdb": "tt0429200",
+    "tmdb": 77154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

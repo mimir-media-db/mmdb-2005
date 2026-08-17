@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bunny_2005",
+  "title": "Bunny",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4997836",
+    "imdb": "tt0432090",
+    "tmdb": 83824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

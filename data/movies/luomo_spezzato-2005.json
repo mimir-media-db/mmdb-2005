@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luomo_spezzato_2005",
+  "title": "L'uomo spezzato",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3820098",
+    "imdb": "tt0791200",
+    "tmdb": 400723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

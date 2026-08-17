@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_too_fat_too_furious_2005",
+  "title": "Too Fat Too Furious",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1891656",
+    "imdb": "tt0382365",
+    "tmdb": 29101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

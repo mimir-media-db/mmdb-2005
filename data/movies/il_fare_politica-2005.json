@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_fare_politica_2005",
+  "title": "Il fare politica",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3418851",
+    "imdb": "tt3463176",
+    "tmdb": 608320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 86
+}

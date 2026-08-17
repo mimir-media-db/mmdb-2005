@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stories_of_lost_souls_2005",
+  "title": "Stories of Lost Souls",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2352173",
+    "imdb": "tt0462721",
+    "tmdb": 84242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 86
+}

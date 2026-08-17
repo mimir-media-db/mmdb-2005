@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lawyers",
+  "title": "Lawyers",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6802429",
+    "imdb": "tt0977924",
+    "tmdb": 37902
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

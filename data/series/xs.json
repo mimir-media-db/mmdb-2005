@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_xs",
+  "title": "The X's",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2915453",
+    "imdb": "tt0443418",
+    "tmdb": 4511
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 21
+}

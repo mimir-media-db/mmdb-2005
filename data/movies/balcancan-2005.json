@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balcancan_2005",
+  "title": "Bal-Can-Can",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3405395",
+    "imdb": "tt0369258",
+    "tmdb": 57218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 89
+}

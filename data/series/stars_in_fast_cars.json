@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_stars_in_fast_cars",
+  "title": "Stars in Fast Cars",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7602350",
+    "imdb": "tt0482429",
+    "tmdb": 467
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

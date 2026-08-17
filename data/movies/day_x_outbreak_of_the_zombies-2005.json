@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_x_outbreak_of_the_zombies_2005",
+  "title": "Day X – Outbreak of the Zombies",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1179063",
+    "imdb": "tt0487891",
+    "tmdb": 84443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 82
+}

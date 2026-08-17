@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ponniyin_selvan_2005",
+  "title": "Ponniyin Selvan",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7227923",
+    "imdb": "tt0458062",
+    "tmdb": 63679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

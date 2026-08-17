@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cooking_under_fire",
+  "title": "Cooking Under Fire",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5167140",
+    "imdb": "tt0770479",
+    "tmdb": 43894
+  },
+  "last_updated": "2026-08-17"
+}

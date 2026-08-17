@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drop_dead_sexy_2005",
+  "title": "Drop Dead Sexy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3480987",
+    "imdb": "tt0397401",
+    "tmdb": 21791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 83
+}

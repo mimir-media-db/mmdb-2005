@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_pony_a_very_minty_christmas_2005",
+  "title": "My Little Pony: A Very Minty Christmas",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2075969",
+    "imdb": "tt0840350",
+    "tmdb": 25396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 42
+}

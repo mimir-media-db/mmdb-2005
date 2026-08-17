@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_rock_treasures_2005",
+  "title": "Hard Rock Treasures",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5655382",
+    "imdb": "tt0477665",
+    "tmdb": 1019250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

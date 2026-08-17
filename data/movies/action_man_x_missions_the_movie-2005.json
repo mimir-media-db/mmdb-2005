@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_action_man_x_missions_the_movie_2005",
+  "title": "Action Man: X Missions – The Movie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4677121",
+    "imdb": "tt0811598",
+    "tmdb": 68702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

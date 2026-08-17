@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_wildes_wohnzimmer",
+  "title": "Wildes Wohnzimmer",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q136723057"
+  },
+  "last_updated": "2026-08-17"
+}

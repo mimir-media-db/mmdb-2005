@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_soup",
+  "title": "Celebrity Soup",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5057766",
+    "imdb": "tt0810515"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 33
+}

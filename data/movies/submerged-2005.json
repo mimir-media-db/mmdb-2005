@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_submerged_2005",
+  "title": "Submerged",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2060567",
+    "imdb": "tt0416243",
+    "tmdb": 14180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 92
+}

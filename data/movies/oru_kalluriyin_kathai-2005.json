@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_kalluriyin_kathai_2005",
+  "title": "Oru Kalluriyin Kathai",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7105122",
+    "imdb": "tt0477353",
+    "tmdb": 77082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isolation_2005",
+  "title": "Isolation",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3155528",
+    "imdb": "tt0446719",
+    "tmdb": 25967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

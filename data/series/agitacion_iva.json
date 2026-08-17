@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_agitacion_iva",
+  "title": "Agitación + IVA",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5659872",
+    "imdb": "tt0462076"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 3
+}

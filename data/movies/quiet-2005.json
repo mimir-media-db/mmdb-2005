@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_2005",
+  "title": "The Quiet",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1465829",
+    "imdb": "tt0414951",
+    "tmdb": 9813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 92
+}

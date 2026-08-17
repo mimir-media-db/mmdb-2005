@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_requiem_of_snow_2005",
+  "title": "Requiem of Snow",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7314865",
+    "imdb": "tt0450488",
+    "tmdb": 341468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaal_2005",
+  "title": "Kaal",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1553584",
+    "imdb": "tt0415908",
+    "tmdb": 20132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 125
+}

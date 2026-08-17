@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clouds_of_yesterday_2005",
+  "title": "Clouds Of Yesterday",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4006789",
+    "imdb": "tt1296167",
+    "tmdb": 176263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

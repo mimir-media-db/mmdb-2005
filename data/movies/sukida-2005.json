@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sukida_2005",
+  "title": "Su-ki-da",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7630309",
+    "imdb": "tt0781511",
+    "tmdb": 59273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 104
+}

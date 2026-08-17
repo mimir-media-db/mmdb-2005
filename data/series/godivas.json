@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_godivas",
+  "title": "Godiva's",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3109785",
+    "imdb": "tt0438705",
+    "tmdb": 11769
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

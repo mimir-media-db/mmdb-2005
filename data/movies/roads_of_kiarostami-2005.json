@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roads_of_kiarostami_2005",
+  "title": "Roads of Kiarostami",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q641932",
+    "imdb": "tt0857292",
+    "tmdb": 181091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 32
+}

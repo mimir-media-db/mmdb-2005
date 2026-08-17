@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_after_god_2005",
+  "title": "The First After God",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4349887",
+    "imdb": "tt0430264",
+    "tmdb": 54698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 99
+}

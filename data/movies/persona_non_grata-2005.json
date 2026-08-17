@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_persona_non_grata_2005",
+  "title": "Persona non grata",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1057951",
+    "imdb": "tt0472884",
+    "tmdb": 188505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 113
+}

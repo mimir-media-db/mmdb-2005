@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naboer_2005",
+  "title": "Naboer",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1761295",
+    "imdb": "tt0453383",
+    "tmdb": 572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 75
+}

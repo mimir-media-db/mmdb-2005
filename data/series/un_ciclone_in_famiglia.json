@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_un_ciclone_in_famiglia",
+  "title": "Un ciclone in famiglia",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4003736",
+    "imdb": "tt0416358",
+    "tmdb": 40947
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 18
+}

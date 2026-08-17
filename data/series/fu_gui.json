@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fu_gui",
+  "title": "Fu Gui",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85882976",
+    "imdb": "tt10550054",
+    "tmdb": 92920
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 33
+}

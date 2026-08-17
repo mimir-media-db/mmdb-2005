@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cracked_eggs_and_noodles_2005",
+  "title": "Cracked Eggs and Noodles",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3001958",
+    "imdb": "tt0448678",
+    "tmdb": 210309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

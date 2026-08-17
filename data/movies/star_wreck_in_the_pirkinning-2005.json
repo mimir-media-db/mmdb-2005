@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_wreck_in_the_pirkinning_2005",
+  "title": "Star Wreck: In the Pirkinning",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2005954",
+    "imdb": "tt0472566",
+    "tmdb": 15493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 103
+}

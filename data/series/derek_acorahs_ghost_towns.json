@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_derek_acorahs_ghost_towns",
+  "title": "Derek Acorah's Ghost Towns",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5261763",
+    "imdb": "tt0483852",
+    "tmdb": 17342
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

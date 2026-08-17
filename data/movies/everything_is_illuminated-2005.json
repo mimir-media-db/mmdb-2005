@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_is_illuminated_2005",
+  "title": "Everything Is Illuminated",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q313659",
+    "imdb": "tt0404030",
+    "tmdb": 340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 105
+}

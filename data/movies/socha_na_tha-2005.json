@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_socha_na_tha_2005",
+  "title": "Socha Na Tha",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7550355",
+    "imdb": "tt0451919",
+    "tmdb": 21555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

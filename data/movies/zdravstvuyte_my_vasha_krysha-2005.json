@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zdravstvuyte_my_vasha_krysha_2005",
+  "title": "Zdravstvuyte, my vasha krysha",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4190052",
+    "imdb": "tt2046164",
+    "tmdb": 71382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zhenskaya_intuitsiya_2_2005",
+  "title": "Zhenskaya intuitsiya 2",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4179386",
+    "imdb": "tt3069640",
+    "tmdb": 63159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 124
+}

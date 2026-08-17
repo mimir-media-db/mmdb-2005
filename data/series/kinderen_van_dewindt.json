@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kinderen_van_dewindt",
+  "title": "Kinderen van Dewindt",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2831570",
+    "imdb": "tt0439938",
+    "tmdb": 42726
+  },
+  "last_updated": "2026-08-17"
+}

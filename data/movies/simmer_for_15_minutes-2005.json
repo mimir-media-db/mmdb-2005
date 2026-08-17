@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_simmer_for_15_minutes_2005",
+  "title": "Simmer for 15 Minutes",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6050212",
+    "imdb": "tt0488403",
+    "tmdb": 75460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

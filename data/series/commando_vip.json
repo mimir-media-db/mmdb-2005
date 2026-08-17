@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_commando_vip",
+  "title": "Commando VIP",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5152253",
+    "imdb": "tt0497852"
+  },
+  "last_updated": "2026-08-17"
+}

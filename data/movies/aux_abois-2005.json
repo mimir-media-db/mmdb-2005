@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aux_abois_2005",
+  "title": "Aux abois",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2873117",
+    "imdb": "tt0426933",
+    "tmdb": 79265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

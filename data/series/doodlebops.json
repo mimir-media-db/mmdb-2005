@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doodlebops",
+  "title": "The Doodlebops",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3036883",
+    "imdb": "tt0442722",
+    "tmdb": 10430
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 65
+}

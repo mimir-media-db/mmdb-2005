@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phantasmagoria_the_visions_of_lewis_carroll_2005",
+  "title": "Phantasmagoria: The Visions of Lewis Carroll",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3190669",
+    "imdb": "tt0483496",
+    "tmdb": 159192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

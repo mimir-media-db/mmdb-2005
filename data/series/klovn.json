@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_klovn",
+  "title": "Klovn",
+  "start_year": 2005,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q1757847",
+    "imdb": "tt0434695",
+    "tmdb": 367
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 78
+}

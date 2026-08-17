@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chidambarathil_oru_appasamy_2005",
+  "title": "Chidambarathil Oru Appasamy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5096588",
+    "imdb": "tt13746654",
+    "tmdb": 519852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninas_house_2005",
+  "title": "Nina's House",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2905492",
+    "imdb": "tt0418847",
+    "tmdb": 76370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

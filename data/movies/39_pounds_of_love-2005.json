@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_39_pounds_of_love_2005",
+  "title": "39 Pounds of Love",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4636118",
+    "imdb": "tt0448978",
+    "tmdb": 190162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 70
+}

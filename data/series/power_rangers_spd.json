@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_power_rangers_spd",
+  "title": "Power Rangers S.P.D.",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1987626",
+    "imdb": "tt0414762"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 38
+}

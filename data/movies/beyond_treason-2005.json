@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_treason_2005",
+  "title": "Beyond Treason",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900050",
+    "imdb": "tt0496241",
+    "tmdb": 44063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 89
+}

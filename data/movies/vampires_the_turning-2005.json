@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampires_the_turning_2005",
+  "title": "Vampires: The Turning",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3062937",
+    "imdb": "tt0398378",
+    "tmdb": 49597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 83
+}

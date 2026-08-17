@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_its_always_sunny_in_philadelphia",
+  "title": "It's Always Sunny in Philadelphia",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23670",
+    "imdb": "tt0472954",
+    "tmdb": 2710
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 178
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buppah_rahtree_phase_2_rahtree_returns_2005",
+  "title": "Buppah Rahtree Phase 2: Rahtree Returns",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4998031",
+    "imdb": "tt0451669",
+    "tmdb": 127256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

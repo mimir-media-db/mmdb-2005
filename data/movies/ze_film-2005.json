@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ze_film_2005",
+  "title": "Ze Film",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3575037",
+    "imdb": "tt0322999",
+    "tmdb": 13749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

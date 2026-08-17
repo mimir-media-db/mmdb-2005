@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hardwood_2005",
+  "title": "Hardwood",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5656502",
+    "imdb": "tt0443531",
+    "tmdb": 245008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

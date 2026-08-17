@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_made_in_hollywood",
+  "title": "Made in Hollywood",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6726730",
+    "imdb": "tt0911896",
+    "tmdb": 41559
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 208
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_year_in_the_death_of_jack_richards_2005",
+  "title": "A Year in the Death of Jack Richards",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4660860",
+    "imdb": "tt0288896",
+    "tmdb": 246555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

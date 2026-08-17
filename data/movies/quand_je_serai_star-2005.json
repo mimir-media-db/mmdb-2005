@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quand_je_serai_star_2005",
+  "title": "Quand je serai star",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3412878",
+    "imdb": "tt0434548",
+    "tmdb": 380268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

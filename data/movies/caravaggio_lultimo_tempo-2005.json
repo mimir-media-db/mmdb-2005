@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caravaggio_lultimo_tempo_2005",
+  "title": "Caravaggio. L'ultimo tempo",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3658241",
+    "imdb": "tt1407960",
+    "tmdb": 963075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 41
+}

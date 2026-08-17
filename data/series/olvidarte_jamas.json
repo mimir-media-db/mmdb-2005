@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_olvidarte_jamas",
+  "title": "Olvidarte Jamas",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q256136",
+    "imdb": "tt0495927",
+    "tmdb": 107142
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 118
+}

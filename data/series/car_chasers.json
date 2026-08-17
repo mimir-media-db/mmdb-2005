@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_car_chasers",
+  "title": "The Car Chasers",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16245574"
+  },
+  "last_updated": "2026-08-17"
+}

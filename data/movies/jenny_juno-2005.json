@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jenny_juno_2005",
+  "title": "Jenny, Juno",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q491810",
+    "imdb": "tt0453115",
+    "tmdb": 63210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 108
+}

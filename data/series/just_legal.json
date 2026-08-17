@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_just_legal",
+  "title": "Just Legal",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3811493",
+    "imdb": "tt0460653",
+    "tmdb": 3284
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

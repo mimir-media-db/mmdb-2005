@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_robinsons",
+  "title": "The Robinsons",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3991051",
+    "imdb": "tt0442645",
+    "tmdb": 16302
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

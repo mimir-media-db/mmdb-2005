@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ahimsa_stop_to_run_2005",
+  "title": "Ahimsa: Stop to Run",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3512611",
+    "imdb": "tt0485081",
+    "tmdb": 227124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

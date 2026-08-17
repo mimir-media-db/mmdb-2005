@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_babak_and_friends_2005",
+  "title": "Babak and Friends",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4837464",
+    "imdb": "tt0452587",
+    "tmdb": 809732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

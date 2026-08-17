@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naina_2005",
+  "title": "Naina",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3869964",
+    "imdb": "tt0443594",
+    "tmdb": 15978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 103
+}

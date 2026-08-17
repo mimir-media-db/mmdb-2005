@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nearing_grace_2005",
+  "title": "Nearing Grace",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6984432",
+    "imdb": "tt0406097",
+    "tmdb": 20564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 105
+}

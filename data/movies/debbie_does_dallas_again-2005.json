@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_debbie_does_dallas_again_2005",
+  "title": "Debbie Does Dallas ... Again",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5247911",
+    "imdb": "tt1017902",
+    "tmdb": 70898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

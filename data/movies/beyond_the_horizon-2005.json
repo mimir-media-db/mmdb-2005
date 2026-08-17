@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_horizon_2005",
+  "title": "Beyond the Horizon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900148",
+    "imdb": "tt1204316",
+    "tmdb": 388591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

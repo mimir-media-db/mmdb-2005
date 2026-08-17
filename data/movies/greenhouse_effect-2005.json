@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greenhouse_effect_2005",
+  "title": "Greenhouse Effect",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4345640",
+    "imdb": "tt0480258",
+    "tmdb": 578024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 93
+}

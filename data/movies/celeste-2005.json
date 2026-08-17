@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_celeste_2005",
+  "title": "Céleste",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3010036",
+    "imdb": "tt0460761",
+    "tmdb": 409965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 45
+}

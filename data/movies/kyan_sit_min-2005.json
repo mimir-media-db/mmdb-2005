@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kyan_sit_min_2005",
+  "title": "Kyan Sit Min",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6450711",
+    "imdb": "tt1204312",
+    "tmdb": 1521935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

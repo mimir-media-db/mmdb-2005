@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_runaway_2005",
+  "title": "Runaway",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4366132",
+    "imdb": "tt0425414",
+    "tmdb": 35851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

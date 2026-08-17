@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_state_of_fear_the_truth_about_terrorism_2005",
+  "title": "State of Fear: The Truth about Terrorism",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7603743",
+    "imdb": "tt0485046",
+    "tmdb": 336855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 94
+}

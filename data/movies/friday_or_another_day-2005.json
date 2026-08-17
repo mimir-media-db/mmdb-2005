@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friday_or_another_day_2005",
+  "title": "Friday or Another Day",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3555446",
+    "imdb": "tt0429216",
+    "tmdb": 20450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

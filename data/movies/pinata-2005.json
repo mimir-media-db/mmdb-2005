@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pinata_2005",
+  "title": "Piñata",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7200057",
+    "imdb": "tt0481601",
+    "tmdb": 1015405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

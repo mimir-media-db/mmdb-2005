@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lonesome_jim_2005",
+  "title": "Lonesome Jim",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1755153",
+    "imdb": "tt0385056",
+    "tmdb": 7301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 91
+}

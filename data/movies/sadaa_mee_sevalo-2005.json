@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sadaa_mee_sevalo_2005",
+  "title": "Sadaa Mee Sevalo",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7397461",
+    "imdb": "tt1649401",
+    "tmdb": 307948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

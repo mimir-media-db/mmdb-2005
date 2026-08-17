@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_daily_habit",
+  "title": "The Daily Habit",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7728656",
+    "imdb": "tt0486066"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 960
+}

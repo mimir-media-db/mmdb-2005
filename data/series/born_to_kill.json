@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_born_to_kill",
+  "title": "Born to Kill?",
+  "start_year": 2004,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q18712139",
+    "imdb": "tt3618572",
+    "tmdb": 44156
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

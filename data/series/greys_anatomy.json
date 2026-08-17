@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_greys_anatomy",
+  "title": "Grey's Anatomy",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q438406",
+    "imdb": "tt0413573",
+    "tmdb": 1416
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 22,
+  "total_episodes": 466
+}

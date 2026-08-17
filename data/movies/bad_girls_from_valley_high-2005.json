@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_girls_from_valley_high_2005",
+  "title": "Bad Girls from Valley High",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4840318",
+    "imdb": "tt0216746",
+    "tmdb": 47541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 84
+}

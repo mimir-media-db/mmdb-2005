@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dust_to_glory_2005",
+  "title": "Dust to Glory",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5317042",
+    "imdb": "tt0386423",
+    "tmdb": 23638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

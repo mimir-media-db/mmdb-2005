@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pitt_kantrop",
+  "title": "Pitt & Kantrop",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3389411",
+    "imdb": "tt0960552",
+    "tmdb": 3075
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

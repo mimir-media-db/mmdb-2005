@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jamies_school_dinners",
+  "title": "Jamie's School Dinners",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1681430",
+    "imdb": "tt0464070",
+    "tmdb": 21290
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luck_2005",
+  "title": "Luck",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4481328",
+    "imdb": "tt0886488",
+    "tmdb": 653717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

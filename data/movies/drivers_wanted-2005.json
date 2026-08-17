@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drivers_wanted_2005",
+  "title": "Drivers Wanted",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5308029",
+    "imdb": "tt0385666",
+    "tmdb": 123408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

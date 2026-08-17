@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_magda_m",
+  "title": "Magda M.",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2214422",
+    "imdb": "tt0471052",
+    "tmdb": 12949
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 55
+}

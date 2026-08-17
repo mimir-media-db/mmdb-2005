@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_pickton_2005",
+  "title": "Killer Pickton",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407524",
+    "imdb": "tt0472119",
+    "tmdb": 399073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

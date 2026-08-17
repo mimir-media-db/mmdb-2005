@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sonar_no_cuesta_nada",
+  "title": "Soñar no Cuesta Nada",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q852176",
+    "imdb": "tt0426794",
+    "tmdb": 14849
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 191
+}

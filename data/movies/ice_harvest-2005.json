@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_harvest_2005",
+  "title": "The Ice Harvest",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q784116",
+    "imdb": "tt0400525",
+    "tmdb": 9005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 89
+}

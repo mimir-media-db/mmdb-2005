@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_in_the_dark_2005",
+  "title": "Alone in the Dark",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q701977",
+    "imdb": "tt0369226",
+    "tmdb": 12142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 94
+}

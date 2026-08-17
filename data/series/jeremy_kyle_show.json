@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jeremy_kyle_show",
+  "title": "The Jeremy Kyle Show",
+  "start_year": 2005,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q3400782",
+    "imdb": "tt0492430",
+    "tmdb": 2551
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 3320
+}

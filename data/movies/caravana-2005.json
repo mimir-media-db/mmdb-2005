@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caravana_2005",
+  "title": "Caravana",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2937900",
+    "imdb": "tt0471114",
+    "tmdb": 622447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 86
+}

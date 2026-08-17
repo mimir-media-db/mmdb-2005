@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jacket_2005",
+  "title": "The Jacket",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q465607",
+    "imdb": "tt0366627",
+    "tmdb": 9667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 103
+}

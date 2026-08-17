@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parzania_2005",
+  "title": "Parzania",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q938665",
+    "imdb": "tt0433425",
+    "tmdb": 269421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

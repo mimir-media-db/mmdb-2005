@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_survivor_turkey",
+  "title": "Survivor Turkey",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6333769",
+    "imdb": "tt9089696",
+    "tmdb": 38885
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 110
+}

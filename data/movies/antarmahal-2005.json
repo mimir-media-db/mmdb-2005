@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_antarmahal_2005",
+  "title": "Antarmahal",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q945993",
+    "imdb": "tt0454391",
+    "tmdb": 443141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nogada_2005",
+  "title": "Nogada",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3342679",
+    "tmdb": 755398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

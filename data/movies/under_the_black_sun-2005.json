@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_black_sun_2005",
+  "title": "Under the Black Sun",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3965222",
+    "imdb": "tt0484150"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 93
+}

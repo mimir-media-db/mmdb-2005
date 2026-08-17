@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_silverplated",
+  "title": "The Silverplated",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1249036",
+    "imdb": "tt0451565",
+    "tmdb": 107085
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 148
+}

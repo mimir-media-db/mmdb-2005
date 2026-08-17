@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ne_khlebom_edinym_2005",
+  "title": "Ne khlebom edinym",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4315466",
+    "imdb": "tt0777962",
+    "tmdb": 196154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 112
+}

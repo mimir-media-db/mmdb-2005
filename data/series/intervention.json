@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_intervention",
+  "title": "Intervention",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3310878",
+    "imdb": "tt0450920",
+    "tmdb": 11145
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 194
+}

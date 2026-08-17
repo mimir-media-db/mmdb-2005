@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_iva_recorded_2005",
+  "title": "What Iva Recorded",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3006825",
+    "imdb": "tt0471394",
+    "tmdb": 194944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 92
+}

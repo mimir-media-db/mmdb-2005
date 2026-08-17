@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaidan_shin_mimibukuro_yurei_mansion_2005",
+  "title": "Kaidan Shin Mimibukuro: Yūrei Mansion",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6347608",
+    "imdb": "tt0808332",
+    "tmdb": 62332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 91
+}

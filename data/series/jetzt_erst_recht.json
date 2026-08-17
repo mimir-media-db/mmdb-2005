@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jetzt_erst_recht",
+  "title": "Jetzt erst recht!",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65154648",
+    "imdb": "tt0429380",
+    "tmdb": 63488
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

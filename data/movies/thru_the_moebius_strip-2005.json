@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thru_the_moebius_strip_2005",
+  "title": "Thru the Moebius Strip",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q459595",
+    "imdb": "tt0267024",
+    "tmdb": 14152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

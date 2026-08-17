@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_melindas_world_2005",
+  "title": "Melinda's World",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3305071",
+    "imdb": "tt2179506",
+    "tmdb": 572768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

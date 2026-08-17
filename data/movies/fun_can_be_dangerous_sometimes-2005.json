@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fun_can_be_dangerous_sometimes_2005",
+  "title": "Fun - Can Be Dangerous Sometimes",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5508641",
+    "imdb": "tt0497620",
+    "tmdb": 523197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

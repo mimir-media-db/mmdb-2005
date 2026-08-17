@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bite_me_fanboy_2005",
+  "title": "Bite Me, Fanboy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4918811",
+    "imdb": "tt0473334",
+    "tmdb": 1107818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

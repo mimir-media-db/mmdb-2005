@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_novena_2005",
+  "title": "The Novena",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3211079",
+    "imdb": "tt0435225",
+    "tmdb": 148327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

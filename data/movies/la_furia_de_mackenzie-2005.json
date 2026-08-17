@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_furia_de_mackenzie_2005",
+  "title": "La furia de Mackenzie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966789",
+    "imdb": "tt0823460",
+    "tmdb": 293876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 84
+}

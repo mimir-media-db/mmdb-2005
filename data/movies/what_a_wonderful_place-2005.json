@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_a_wonderful_place_2005",
+  "title": "What a Wonderful Place",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2516705",
+    "imdb": "tt0468729",
+    "tmdb": 117480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 96
+}

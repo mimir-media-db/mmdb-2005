@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bam_bam_and_celeste_2005",
+  "title": "Bam Bam and Celeste",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4853257",
+    "imdb": "tt0441737",
+    "tmdb": 218957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

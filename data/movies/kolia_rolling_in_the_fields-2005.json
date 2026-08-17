@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kolia_rolling_in_the_fields_2005",
+  "title": "Kolia Rolling in the Fields",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4229063",
+    "imdb": "tt0791635",
+    "tmdb": 38332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

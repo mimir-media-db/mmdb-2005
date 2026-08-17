@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chiamami_salome_2005",
+  "title": "Chiamami Salomè",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3667411",
+    "imdb": "tt0497024",
+    "tmdb": 74729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

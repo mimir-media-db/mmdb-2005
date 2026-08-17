@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zuma_tales_of_a_sexual_gladiator_2005",
+  "title": "Zuma: Tales of a Sexual Gladiator",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2104454",
+    "imdb": "tt1473099",
+    "tmdb": 643565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 48
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forever_blues_2005",
+  "title": "Forever Blues",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3748047",
+    "imdb": "tt0805327",
+    "tmdb": 404019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

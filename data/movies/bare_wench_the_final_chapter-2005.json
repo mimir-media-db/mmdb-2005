@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bare_wench_the_final_chapter_2005",
+  "title": "Bare Wench: The Final Chapter",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3634942",
+    "imdb": "tt0473003",
+    "tmdb": 445101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 78
+}

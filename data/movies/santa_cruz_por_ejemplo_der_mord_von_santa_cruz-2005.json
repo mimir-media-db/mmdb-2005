@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_cruz_por_ejemplo_der_mord_von_santa_cruz_2005",
+  "title": "Santa Cruz por ejemplo... - Der Mord von Santa Cruz",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1743747",
+    "imdb": "tt2302813",
+    "tmdb": 1022534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 66
+}

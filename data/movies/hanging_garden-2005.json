@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanging_garden_2005",
+  "title": "Hanging Garden",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q865876",
+    "imdb": "tt0460845",
+    "tmdb": 38013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 114
+}

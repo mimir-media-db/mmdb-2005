@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nuit_noire_17_octobre_1961_2005",
+  "title": "Nuit noire 17 octobre 1961",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3346166",
+    "imdb": "tt0442379",
+    "tmdb": 31327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 120
+}

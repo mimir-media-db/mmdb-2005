@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_glubokoe_techenie_2005",
+  "title": "Glubokoe techenie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4140158",
+    "imdb": "tt2933692",
+    "tmdb": 1422507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_close_to_home",
+  "title": "Close to Home",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q700733",
+    "imdb": "tt0460631",
+    "tmdb": 4662
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 44
+}

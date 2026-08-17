@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_capote_2005",
+  "title": "Capote",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q463615",
+    "imdb": "tt0379725",
+    "tmdb": 398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 110
+}

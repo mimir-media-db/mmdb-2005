@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frutas_en_el_cafe_2005",
+  "title": "Frutas en el Café",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5506530",
+    "imdb": "tt0759560",
+    "tmdb": 1122133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

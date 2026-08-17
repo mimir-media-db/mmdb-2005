@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aida",
+  "title": "Aída",
+  "start_year": 2005,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2916884",
+    "imdb": "tt0440981",
+    "tmdb": 1032
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 237
+}

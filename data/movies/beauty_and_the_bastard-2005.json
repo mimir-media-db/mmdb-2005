@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_and_the_bastard_2005",
+  "title": "Beauty and the Bastard",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1767604",
+    "imdb": "tt0471957",
+    "tmdb": 53296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adn_2005",
+  "title": "ADN",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2819103",
+    "imdb": "tt0485848",
+    "tmdb": 574470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

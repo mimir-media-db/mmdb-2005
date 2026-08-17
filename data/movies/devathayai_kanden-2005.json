@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devathayai_kanden_2005",
+  "title": "Devathayai Kanden",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5266609",
+    "imdb": "tt2396443",
+    "tmdb": 69523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

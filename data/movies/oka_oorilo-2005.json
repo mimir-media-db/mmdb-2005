@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oka_oorilo_2005",
+  "title": "Oka Oorilo",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7081692",
+    "imdb": "tt1579845",
+    "tmdb": 307925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

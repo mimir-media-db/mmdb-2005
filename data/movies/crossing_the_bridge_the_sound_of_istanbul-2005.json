@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crossing_the_bridge_the_sound_of_istanbul_2005",
+  "title": "Crossing the Bridge: The Sound of Istanbul",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q573156",
+    "imdb": "tt0459242",
+    "tmdb": 29138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alexandria_2005",
+  "title": "Alexandria",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4720930",
+    "imdb": "tt1062892",
+    "tmdb": 429832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

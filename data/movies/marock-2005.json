@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marock_2005",
+  "title": "Marock",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3294573",
+    "imdb": "tt0415147",
+    "tmdb": 61686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

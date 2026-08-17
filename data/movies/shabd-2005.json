@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shabd_2005",
+  "title": "Shabd",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3481140",
+    "imdb": "tt0409527",
+    "tmdb": 21905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 140
+}

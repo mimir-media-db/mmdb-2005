@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_without_her_2005",
+  "title": "Without Her",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3472411",
+    "imdb": "tt0446458",
+    "tmdb": 65552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 102
+}

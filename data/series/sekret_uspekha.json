@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sekret_uspekha",
+  "title": "Sekret Uspekha",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4413266",
+    "tmdb": 298521
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

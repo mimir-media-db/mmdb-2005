@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_hatred_2005",
+  "title": "Beyond Hatred",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2870212",
+    "imdb": "tt0783665",
+    "tmdb": 18412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 86
+}

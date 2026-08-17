@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sissy_frenchfry_2005",
+  "title": "Sissy Frenchfry",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7530985",
+    "imdb": "tt0477088",
+    "tmdb": 259210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 28
+}

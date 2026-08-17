@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_after_were_gone_2005",
+  "title": "After We're Gone",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4226043",
+    "imdb": "tt0388012",
+    "tmdb": 184775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_jalan_jaksa",
+  "title": "Jalan Jaksa",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q97216981"
+  },
+  "last_updated": "2026-08-17"
+}

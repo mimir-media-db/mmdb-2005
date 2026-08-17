@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_controtipo_appunti_su_gillo_pontecorvo_2005",
+  "title": "Un controtipo - Appunti su Gillo Pontecorvo",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4003747",
+    "imdb": "tt0460430",
+    "tmdb": 1118843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 63
+}

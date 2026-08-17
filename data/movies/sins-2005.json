@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sins_2005",
+  "title": "Sins",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7525005",
+    "imdb": "tt0448121",
+    "tmdb": 206542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

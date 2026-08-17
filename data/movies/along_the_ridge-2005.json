@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_along_the_ridge_2005",
+  "title": "Along the Ridge",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1388450",
+    "imdb": "tt0456041",
+    "tmdb": 30535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 108
+}

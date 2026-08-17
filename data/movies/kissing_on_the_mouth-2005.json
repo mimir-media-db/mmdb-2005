@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kissing_on_the_mouth_2005",
+  "title": "Kissing on the Mouth",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6417254",
+    "imdb": "tt0446725",
+    "tmdb": 47440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 78
+}

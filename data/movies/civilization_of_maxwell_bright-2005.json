@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_civilization_of_maxwell_bright_2005",
+  "title": "The Civilization of Maxwell Bright",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7723245",
+    "imdb": "tt0299135",
+    "tmdb": 153273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

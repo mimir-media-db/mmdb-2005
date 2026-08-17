@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_world_of_mitchell_kenyon",
+  "title": "The Lost World of Mitchell & Kenyon",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7748791",
+    "imdb": "tt0445886",
+    "tmdb": 15850
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

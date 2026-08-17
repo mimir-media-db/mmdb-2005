@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahaleo_2005",
+  "title": "Mahaleo",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3277531",
+    "imdb": "tt0444247",
+    "tmdb": 244079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clan_2005",
+  "title": "The Clan",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3986301",
+    "imdb": "tt0429784",
+    "tmdb": 102475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

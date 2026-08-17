@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_derniere_incarnation_2005",
+  "title": "La dernière incarnation",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208218",
+    "imdb": "tt0473626",
+    "tmdb": 440718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 92
+}

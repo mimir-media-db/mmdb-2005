@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_querido_klikowsky",
+  "title": "Mi querido Klikowsky",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5401614",
+    "imdb": "tt0480783",
+    "tmdb": 223838
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 104
+}

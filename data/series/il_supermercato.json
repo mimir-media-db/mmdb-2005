@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_il_supermercato",
+  "title": "Il supermercato",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q940764",
+    "imdb": "tt1960361"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 19
+}

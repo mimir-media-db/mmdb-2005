@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exodus_tales_from_the_enchanted_kingdom_2005",
+  "title": "Exodus: Tales from the Enchanted Kingdom",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5420536",
+    "imdb": "tt0479660",
+    "tmdb": 67174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 106
+}

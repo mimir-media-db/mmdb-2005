@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_pie_presents_band_camp_2005",
+  "title": "American Pie Presents: Band Camp",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q261044",
+    "imdb": "tt0436058",
+    "tmdb": 8274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 87
+}

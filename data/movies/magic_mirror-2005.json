@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_mirror_2005",
+  "title": "Magic Mirror",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3224612",
+    "imdb": "tt0472521",
+    "tmdb": 129937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 137
+}

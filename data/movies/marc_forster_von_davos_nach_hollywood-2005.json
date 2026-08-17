@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marc_forster_von_davos_nach_hollywood_2005",
+  "title": "Marc Forster – Von Davos nach Hollywood",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1737338",
+    "imdb": "tt0910565"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 52
+}

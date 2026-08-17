@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_everybody_was_asleep_2005",
+  "title": "When Everybody Was Asleep",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5939062",
+    "imdb": "tt0841186",
+    "tmdb": 558446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

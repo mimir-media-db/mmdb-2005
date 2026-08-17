@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_missing_in_america_2005",
+  "title": "Missing in America",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3316705",
+    "imdb": "tt0384699",
+    "tmdb": 13834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warum_ulli_sich_am_weihnachtsabend_umbringen_wollte_2005",
+  "title": "Warum Ulli sich am Weihnachtsabend umbringen wollte",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1797302",
+    "imdb": "tt0496432",
+    "tmdb": 438616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 89
+}

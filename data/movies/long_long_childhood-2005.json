@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_long_childhood_2005",
+  "title": "Long, Long Childhood",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4164596",
+    "imdb": "tt3784122",
+    "tmdb": 643740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 110
+}

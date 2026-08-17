@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_corwins_quest",
+  "title": "Corwin's Quest",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5173491",
+    "imdb": "tt0836894",
+    "tmdb": 11544
+  },
+  "last_updated": "2026-08-17"
+}

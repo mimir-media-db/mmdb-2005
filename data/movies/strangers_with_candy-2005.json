@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strangers_with_candy_2005",
+  "title": "Strangers with Candy",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4039001",
+    "imdb": "tt0369994",
+    "tmdb": 13141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

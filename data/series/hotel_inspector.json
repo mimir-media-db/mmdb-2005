@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_inspector",
+  "title": "The Hotel Inspector",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7740440",
+    "imdb": "tt1183335",
+    "tmdb": 6430
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 98
+}

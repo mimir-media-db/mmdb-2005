@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arktos_the_internal_journey_of_mike_horn_2005",
+  "title": "Arktos: The Internal Journey of Mike Horn",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2861593",
+    "imdb": "tt0800309",
+    "tmdb": 367029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 52
+}

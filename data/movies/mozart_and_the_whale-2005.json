@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mozart_and_the_whale_2005",
+  "title": "Mozart and the Whale",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q250836",
+    "imdb": "tt0392465",
+    "tmdb": 23478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

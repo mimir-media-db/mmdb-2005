@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_wifes_murder_2005",
+  "title": "My Wife's Murder",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3331287",
+    "imdb": "tt0451824",
+    "tmdb": 206376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emilia_2005",
+  "title": "Emilia",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1337246",
+    "imdb": "tt0808250",
+    "tmdb": 437499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

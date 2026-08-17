@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mystification_ou_lhistoire_des_portraits_2005",
+  "title": "Mystification ou l'Histoire des portraits",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3331750",
+    "imdb": "tt0397555",
+    "tmdb": 346331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 59
+}

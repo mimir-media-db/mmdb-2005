@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_hours_2005",
+  "title": "The Dark Hours",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q906578",
+    "imdb": "tt0402249",
+    "tmdb": 18045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 77
+}

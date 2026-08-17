@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nagurimono_love_kill_2005",
+  "title": "Nagurimono: Love & Kill",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q417119",
+    "imdb": "tt0460876",
+    "tmdb": 336020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

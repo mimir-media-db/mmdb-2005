@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gordon_the_garden_gnome",
+  "title": "Gordon the Garden Gnome",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5586040",
+    "imdb": "tt0455255",
+    "tmdb": 12308
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 44
+}

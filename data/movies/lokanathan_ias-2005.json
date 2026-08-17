@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lokanathan_ias_2005",
+  "title": "Lokanathan IAS",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6668612",
+    "imdb": "tt1102267",
+    "tmdb": 279536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

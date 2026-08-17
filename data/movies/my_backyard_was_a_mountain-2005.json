@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_backyard_was_a_mountain_2005",
+  "title": "My Backyard Was A Mountain",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6944981",
+    "imdb": "tt0485514",
+    "tmdb": 801982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

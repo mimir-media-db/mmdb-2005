@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_south_of_nowhere",
+  "title": "South of Nowhere",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1198457",
+    "imdb": "tt0462139",
+    "tmdb": 2081
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 40
+}

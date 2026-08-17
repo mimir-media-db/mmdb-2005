@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pandippada_2005",
+  "title": "Pandippada",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7130648",
+    "imdb": "tt0463650",
+    "tmdb": 350787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

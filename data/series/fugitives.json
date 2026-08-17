@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fugitives",
+  "title": "The Fugitives",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7735417",
+    "imdb": "tt0457239",
+    "tmdb": 13645
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

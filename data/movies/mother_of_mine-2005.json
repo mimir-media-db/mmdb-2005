@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_of_mine_2005",
+  "title": "Mother of Mine",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1217931",
+    "imdb": "tt0343221",
+    "tmdb": 32990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 96
+}

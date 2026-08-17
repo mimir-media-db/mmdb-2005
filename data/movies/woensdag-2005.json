@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woensdag_2005",
+  "title": "Woensdag",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2098593",
+    "imdb": "tt0469228",
+    "tmdb": 118370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guido_che_sfido_le_brigate_rosse_2005",
+  "title": "Guido che sfidò le Brigate Rosse",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3779521",
+    "imdb": "tt0481278",
+    "tmdb": 157251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 102
+}

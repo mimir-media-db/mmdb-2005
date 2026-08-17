@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_summerton_mill",
+  "title": "Summerton Mill",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7637707",
+    "imdb": "tt0939443",
+    "tmdb": 14515
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}

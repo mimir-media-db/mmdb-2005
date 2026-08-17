@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_soup",
+  "title": "Love Soup",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3010615",
+    "imdb": "tt0443390",
+    "tmdb": 2606
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

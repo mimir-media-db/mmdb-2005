@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cafe_jalloul",
+  "title": "Café Jalloul",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2932950",
+    "imdb": "tt10462622"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

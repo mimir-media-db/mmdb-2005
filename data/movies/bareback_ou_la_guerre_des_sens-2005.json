@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bareback_ou_la_guerre_des_sens_2005",
+  "title": "Bareback ou La guerre des sens",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2884422",
+    "imdb": "tt0473797",
+    "tmdb": 373891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 80
+}

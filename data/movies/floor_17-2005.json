@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floor_17_2005",
+  "title": "Floor 17",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3901979",
+    "imdb": "tt0472484",
+    "tmdb": 82805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aika_tappaa_2005",
+  "title": "Aika tappaa",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4696902",
+    "imdb": "tt0467756",
+    "tmdb": 443123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seed_2005",
+  "title": "The Seed",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3522643",
+    "imdb": "tt2385226",
+    "tmdb": 214709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 12
+}

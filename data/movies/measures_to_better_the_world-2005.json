@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_measures_to_better_the_world_2005",
+  "title": "Measures to Better the World",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1680389",
+    "imdb": "tt0466191",
+    "tmdb": 168354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 88
+}

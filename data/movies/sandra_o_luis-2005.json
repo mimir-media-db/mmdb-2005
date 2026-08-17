@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sandra_o_luis_2005",
+  "title": "Sandra o Luis",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6120004",
+    "imdb": "tt0478257",
+    "tmdb": 580845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

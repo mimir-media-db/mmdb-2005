@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_sun_2005",
+  "title": "Into the Sun",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1671523",
+    "imdb": "tt0358294",
+    "tmdb": 24546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 93
+}

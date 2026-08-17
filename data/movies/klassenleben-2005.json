@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_klassenleben_2005",
+  "title": "KlassenLeben",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1744575",
+    "imdb": "tt0466044",
+    "tmdb": 249078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

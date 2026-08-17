@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rocket_man",
+  "title": "Rocket Man",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7355118",
+    "imdb": "tt0468431",
+    "tmdb": 26644
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

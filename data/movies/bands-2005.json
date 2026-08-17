@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bands_2005",
+  "title": "The Bands",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3828532",
+    "imdb": "tt0863058",
+    "tmdb": 64385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 109
+}

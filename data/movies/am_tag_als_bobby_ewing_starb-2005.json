@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_am_tag_als_bobby_ewing_starb_2005",
+  "title": "Am Tag als Bobby Ewing starb",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q451494",
+    "imdb": "tt0442903",
+    "tmdb": 9512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 95
+}

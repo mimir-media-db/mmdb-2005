@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sidewalk_astronomer_2005",
+  "title": "A Sidewalk Astronomer",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4659503",
+    "imdb": "tt0450369",
+    "tmdb": 185704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

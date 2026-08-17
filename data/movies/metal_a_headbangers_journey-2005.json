@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_metal_a_headbangers_journey_2005",
+  "title": "Metal: A Headbanger's Journey",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q905799",
+    "imdb": "tt0478209",
+    "tmdb": 20604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 94
+}

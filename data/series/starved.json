@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_starved",
+  "title": "Starved",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7602643",
+    "imdb": "tt0462140",
+    "tmdb": 10061
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

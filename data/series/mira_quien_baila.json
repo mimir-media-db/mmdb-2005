@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mira_quien_baila",
+  "title": "¡Mira quién baila!",
+  "start_year": 2005,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6872231"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 137
+}

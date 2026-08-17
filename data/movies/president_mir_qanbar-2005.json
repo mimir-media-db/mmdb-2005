@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_president_mir_qanbar_2005",
+  "title": "President Mir Qanbar",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5703444",
+    "imdb": "tt1354055",
+    "tmdb": 480592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sink_or_swim",
+  "title": "Sink or Swim",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98959937",
+    "imdb": "tt0446221",
+    "tmdb": 23609
+  },
+  "last_updated": "2026-08-17"
+}

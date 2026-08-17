@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ben_johnson_2005",
+  "title": "Ben Johnson",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4885935",
+    "imdb": "tt0468665",
+    "tmdb": 279538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

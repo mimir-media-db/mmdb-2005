@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_station_x",
+  "title": "Station X",
+  "start_year": 2005,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3497360",
+    "imdb": "tt0496465",
+    "tmdb": 9525
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}
