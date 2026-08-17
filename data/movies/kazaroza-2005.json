@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kazaroza_2005",
+  "title": "Kazaroza",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3849504",
+    "imdb": "tt0959401"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 156
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kyaa_kool_hai_hum_2005",
+  "title": "Kyaa Kool Hai Hum",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6450626",
+    "imdb": "tt0456500",
+    "tmdb": 22429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

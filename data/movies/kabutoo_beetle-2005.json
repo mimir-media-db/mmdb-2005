@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kabutoo_beetle_2005",
+  "title": "Kabuto-O Beetle",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6344515",
+    "imdb": "tt0459422",
+    "tmdb": 131368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
