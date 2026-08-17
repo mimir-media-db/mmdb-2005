@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valmiki_2005",
+  "title": "Valmiki",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56860557",
+    "imdb": "tt32917007",
+    "tmdb": 760916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

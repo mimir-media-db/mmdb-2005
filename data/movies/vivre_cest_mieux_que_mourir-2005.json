@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vivre_cest_mieux_que_mourir_2005",
+  "title": "Vivre c'est mieux que mourir",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009547",
+    "imdb": "tt5088468",
+    "tmdb": 338882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

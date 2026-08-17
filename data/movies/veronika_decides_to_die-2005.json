@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veronika_decides_to_die_2005",
+  "title": "Veronika Decides to Die",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11337202",
+    "imdb": "tt0485292",
+    "tmdb": 173952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
