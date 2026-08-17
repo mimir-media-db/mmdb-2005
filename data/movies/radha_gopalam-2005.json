@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_radha_gopalam_2005",
+  "title": "Radha Gopalam",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7280171",
+    "imdb": "tt0432011",
+    "tmdb": 307944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_doors_2005",
+  "title": "Red Doors",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4239358",
+    "imdb": "tt0415234",
+    "tmdb": 19629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

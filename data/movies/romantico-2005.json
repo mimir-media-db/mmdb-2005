@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_romantico_2005",
+  "title": "Romántico",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7363415",
+    "imdb": "tt0436728",
+    "tmdb": 111261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 80
+}

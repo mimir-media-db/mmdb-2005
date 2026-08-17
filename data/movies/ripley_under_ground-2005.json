@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ripley_under_ground_2005",
+  "title": "Ripley Under Ground",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q570973",
+    "imdb": "tt0219171",
+    "tmdb": 39127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

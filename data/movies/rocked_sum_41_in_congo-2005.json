@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rocked_sum_41_in_congo_2005",
+  "title": "Rocked: Sum 41 in Congo",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2232896",
+    "imdb": "tt27103162",
+    "tmdb": 200432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 50
+}

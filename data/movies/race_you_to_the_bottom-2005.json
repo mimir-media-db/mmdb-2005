@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_race_you_to_the_bottom_2005",
+  "title": "Race You to the Bottom",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2427304",
+    "imdb": "tt0452671",
+    "tmdb": 43493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

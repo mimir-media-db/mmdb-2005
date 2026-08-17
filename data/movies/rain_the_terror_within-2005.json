@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rain_the_terror_within_2005",
+  "title": "Rain: The Terror Within...",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7284447",
+    "imdb": "tt0841153",
+    "tmdb": 538959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

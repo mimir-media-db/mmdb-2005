@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_revati_2005",
+  "title": "Revati",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7317744",
+    "imdb": "tt0420123",
+    "tmdb": 442320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
