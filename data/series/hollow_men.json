@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hollow_men",
+  "title": "The Hollow Men",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q26678785",
+    "imdb": "tt0450218",
+    "tmdb": 8652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

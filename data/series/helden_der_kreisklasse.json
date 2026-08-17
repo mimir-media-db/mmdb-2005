@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_helden_der_kreisklasse",
+  "title": "Helden der Kreisklasse",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1601713",
+    "imdb": "tt0806432"
+  },
+  "last_updated": "2026-08-17"
+}

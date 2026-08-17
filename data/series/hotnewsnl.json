@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hotnewsnl",
+  "title": "HotNews.nl",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2269402",
+    "imdb": "tt0466416",
+    "tmdb": 36538
+  },
+  "last_updated": "2026-08-17"
+}

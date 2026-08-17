@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hijinks",
+  "title": "Hi-Jinks",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q16843388",
+    "imdb": "tt0479834",
+    "tmdb": 3967
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}
