@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_euroglam_3_an_american_in_europe_2005",
+  "title": "Euroglam 3: An American In Europe",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140365506",
+    "imdb": "tt1858748",
+    "tmdb": 176917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 74
+}

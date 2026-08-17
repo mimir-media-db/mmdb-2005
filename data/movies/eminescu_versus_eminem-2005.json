@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eminescu_versus_eminem_2005",
+  "title": "Eminescu versus Eminem",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44864361",
+    "imdb": "tt0460445",
+    "tmdb": 625557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

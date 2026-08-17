@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emmanuels_gift_2005",
+  "title": "Emmanuel's Gift",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5373107",
+    "imdb": "tt0447016",
+    "tmdb": 191599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-03",
+  "runtime_minutes": 80
+}

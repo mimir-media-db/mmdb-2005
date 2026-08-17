@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elle_est_diabetique_et_hypertendue_et_elle_refuse_toujours_de_crever_2005",
+  "title": "Elle est diabétique et hypertendue et elle refuse toujours de crever",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12231825",
+    "imdb": "tt2965870",
+    "tmdb": 535705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

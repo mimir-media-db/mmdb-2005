@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_embrace_your_shadow_2005",
+  "title": "Embrace Your Shadow",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16241605",
+    "imdb": "tt0479657",
+    "tmdb": 277508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

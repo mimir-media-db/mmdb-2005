@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ears_open_eyeballs_click_2005",
+  "title": "Ears, Open. Eyeballs, Click.",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12116908",
+    "imdb": "tt0462267",
+    "tmdb": 36898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

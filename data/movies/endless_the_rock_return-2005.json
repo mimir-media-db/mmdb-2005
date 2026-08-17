@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_endless_the_rock_return_2005",
+  "title": "Endless, the Rock Return",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6129234",
+    "imdb": "tt0442486",
+    "tmdb": 189429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-12",
+  "runtime_minutes": 98
+}

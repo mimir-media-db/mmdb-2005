@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_perro_2005",
+  "title": "El perro",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2593280",
+    "imdb": "tt0420548",
+    "tmdb": 29952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-04",
+  "runtime_minutes": 97
+}
