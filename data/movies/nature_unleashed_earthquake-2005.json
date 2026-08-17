@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nature_unleashed_earthquake_2005",
+  "title": "Nature Unleashed: Earthquake",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4191046",
+    "imdb": "tt0363586",
+    "tmdb": 160064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

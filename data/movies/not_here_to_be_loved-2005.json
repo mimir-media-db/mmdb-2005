@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_here_to_be_loved_2005",
+  "title": "Not Here to Be Loved",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59634",
+    "imdb": "tt0436445",
+    "tmdb": 537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

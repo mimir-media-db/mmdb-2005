@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notorious_bettie_page_2005",
+  "title": "The Notorious Bettie Page",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q178094",
+    "imdb": "tt0404802",
+    "tmdb": 15402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 100
+}

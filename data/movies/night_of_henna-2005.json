@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_henna_2005",
+  "title": "Night of Henna",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7033651",
+    "imdb": "tt0379402",
+    "tmdb": 97010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_pain_no_gain_2005",
+  "title": "No Pain, No Gain",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7044740",
+    "imdb": "tt0306846",
+    "tmdb": 354882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 129
+}

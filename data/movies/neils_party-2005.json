@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neils_party_2005",
+  "title": "Neil's Party",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6988214",
+    "imdb": "tt0328179",
+    "tmdb": 45867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 89
+}

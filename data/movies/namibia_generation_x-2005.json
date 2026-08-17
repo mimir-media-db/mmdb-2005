@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_namibia_generation_x_2005",
+  "title": "Namibia Generation X",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1248486",
+    "imdb": "tt0843569"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

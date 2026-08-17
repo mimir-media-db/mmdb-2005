@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_najac_calling_over_to_you_earth_2005",
+  "title": "Najac Calling Over to You, Earth",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3147713",
+    "imdb": "tt0798820",
+    "tmdb": 50449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

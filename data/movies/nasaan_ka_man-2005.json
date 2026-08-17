@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nasaan_ka_man_2005",
+  "title": "Nasaan Ka Man",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6966553",
+    "imdb": "tt0442312",
+    "tmdb": 336393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
