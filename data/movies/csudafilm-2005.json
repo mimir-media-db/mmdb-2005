@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_csudafilm_2005",
+  "title": "Csudafilm",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22351063",
+    "imdb": "tt0407703",
+    "tmdb": 257371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-27"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_coping_with_chemo_2005",
+  "title": "Coping with Chemo",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102104758",
+    "imdb": "tt2064750"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

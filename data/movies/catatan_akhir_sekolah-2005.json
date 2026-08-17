@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_catatan_akhir_sekolah_2005",
+  "title": "Catatan Akhir Sekolah",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12478406",
+    "imdb": "tt1045824",
+    "tmdb": 22412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

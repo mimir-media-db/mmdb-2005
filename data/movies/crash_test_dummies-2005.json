@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crash_test_dummies_2005",
+  "title": "Crash Test Dummies",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59309284",
+    "imdb": "tt0460756",
+    "tmdb": 16863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-13"
+}

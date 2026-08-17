@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_beslan_2005",
+  "title": "Children of Beslan",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47004712",
+    "imdb": "tt0480753",
+    "tmdb": 39305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-30",
+  "runtime_minutes": 60
+}

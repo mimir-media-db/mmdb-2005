@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cicatrices_2005",
+  "title": "Cicatrices",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6411180",
+    "imdb": "tt0436175",
+    "tmdb": 74078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-16"
+}

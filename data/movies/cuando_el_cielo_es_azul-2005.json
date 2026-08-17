@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cuando_el_cielo_es_azul_2005",
+  "title": "Cuando el cielo es azul",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278441",
+    "imdb": "tt0499318",
+    "tmdb": 539449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

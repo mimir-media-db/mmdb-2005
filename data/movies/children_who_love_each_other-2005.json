@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_who_love_each_other_2005",
+  "title": "Children Who Love Each Other",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16628525",
+    "imdb": "tt0439539",
+    "tmdb": 407165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_challenge_day_2005",
+  "title": "Challenge Day",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29581115",
+    "imdb": "tt0496492",
+    "tmdb": 552933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

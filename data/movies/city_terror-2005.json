@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_terror_2005",
+  "title": "City Terror",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93982803",
+    "imdb": "tt7123984",
+    "tmdb": 1686427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

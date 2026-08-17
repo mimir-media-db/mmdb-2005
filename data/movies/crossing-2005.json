@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crossing_2005",
+  "title": "The Crossing",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115955077",
+    "imdb": "tt0988749",
+    "tmdb": 186125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chronicles_of_narnia_the_lion_the_witch_and_the_wardrobe_2005",
+  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q485803",
+    "imdb": "tt0363771",
+    "tmdb": 411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-08",
+  "runtime_minutes": 143
+}

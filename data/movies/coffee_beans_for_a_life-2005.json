@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_coffee_beans_for_a_life_2005",
+  "title": "Coffee Beans For a Life",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106716324"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
