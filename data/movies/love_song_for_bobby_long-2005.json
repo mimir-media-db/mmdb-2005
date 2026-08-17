@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_song_for_bobby_long_2005",
+  "title": "A Love Song for Bobby Long",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q958142",
+    "imdb": "tt0369672",
+    "tmdb": 9953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-27",
+  "runtime_minutes": 120
+}

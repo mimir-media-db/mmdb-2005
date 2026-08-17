@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loves_lone_flower_2005",
+  "title": "Love's Lone Flower",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17023823",
+    "imdb": "tt0485656",
+    "tmdb": 273595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 108
+}

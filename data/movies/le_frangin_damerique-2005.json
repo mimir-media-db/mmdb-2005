@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_frangin_damerique_2005",
+  "title": "Le Frangin d'Amérique",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30742389",
+    "imdb": "tt0482970",
+    "tmdb": 270310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 115
+}

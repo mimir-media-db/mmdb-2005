@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_angelina_2005",
+  "title": "Looking for Angelina",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6675368",
+    "imdb": "tt0426515",
+    "tmdb": 456817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-11"
+}

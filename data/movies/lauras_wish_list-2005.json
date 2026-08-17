@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lauras_wish_list_2005",
+  "title": "Laura's Wish List",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46080904",
+    "imdb": "tt0448228",
+    "tmdb": 305106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 89
+}

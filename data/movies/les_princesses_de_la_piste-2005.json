@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_les_princesses_de_la_piste_2005",
+  "title": "Les Princesses de la piste",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899146",
+    "imdb": "tt0462978"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

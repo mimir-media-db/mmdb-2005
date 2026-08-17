@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_is_worth_losing_2005",
+  "title": "Life Is Worth Losing",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6544888",
+    "imdb": "tt0484855",
+    "tmdb": 13015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-05",
+  "runtime_minutes": 75
+}

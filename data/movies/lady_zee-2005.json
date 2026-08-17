@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_zee_2005",
+  "title": "Lady Zee",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12284754",
+    "imdb": "tt0439668",
+    "tmdb": 340804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-14",
+  "runtime_minutes": 96
+}

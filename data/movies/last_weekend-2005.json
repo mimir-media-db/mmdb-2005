@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_weekend_2005",
+  "title": "Last Weekend",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4373837",
+    "imdb": "tt0764271",
+    "tmdb": 386626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-07",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loose_change_second_edition_2005",
+  "title": "Loose Change: Second Edition",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136645271",
+    "imdb": "tt0831315",
+    "tmdb": 14277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-11",
+  "runtime_minutes": 82
+}

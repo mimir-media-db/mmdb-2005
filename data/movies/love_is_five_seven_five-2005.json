@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_five_seven_five_2005",
+  "title": "Love Is Five Seven Five",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11491943",
+    "imdb": "tt1010017",
+    "tmdb": 408459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

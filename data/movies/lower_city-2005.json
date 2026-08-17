@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lower_city_2005",
+  "title": "Lower City",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2116986",
+    "imdb": "tt0456899",
+    "tmdb": 8443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-16",
+  "runtime_minutes": 93
+}

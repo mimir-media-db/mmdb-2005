@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lomax_the_songhunter_2005",
+  "title": "Lomax the Songhunter",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1896336",
+    "imdb": "tt0439682",
+    "tmdb": 169108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-13",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laws_of_attraction_2005",
+  "title": "Laws of Attraction",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q819109",
+    "imdb": "tt0323033",
+    "tmdb": 11141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-16",
+  "runtime_minutes": 91
+}

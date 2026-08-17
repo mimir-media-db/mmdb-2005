@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_from_sockholm_2005",
+  "title": "The Lady from Sockholm",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649795",
+    "imdb": "tt0405086",
+    "tmdb": 1129167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
