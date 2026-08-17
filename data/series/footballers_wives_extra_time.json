@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_footballers_wives_extra_time",
+  "title": "Footballers' Wives: Extra Time",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5466449",
+    "imdb": "tt0461720",
+    "tmdb": 2540
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flight_29_down",
+  "title": "Flight 29 Down",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2005949",
+    "imdb": "tt0433275",
+    "tmdb": 1732
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

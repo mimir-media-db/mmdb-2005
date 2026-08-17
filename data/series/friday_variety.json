@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_friday_variety",
+  "title": "Friday Variety",
+  "start_year": 2005,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q11647167"
+  },
+  "last_updated": "2026-08-17"
+}
