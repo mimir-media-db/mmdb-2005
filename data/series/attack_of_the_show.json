@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_attack_of_the_show",
+  "title": "Attack of the Show!",
+  "start_year": 2005,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4817981",
+    "imdb": "tt0498878",
+    "tmdb": 13453
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1941
+}

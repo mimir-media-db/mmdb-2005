@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_autumn_shower",
+  "title": "Autumn Shower",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3585778",
+    "imdb": "tt5621814",
+    "tmdb": 18450
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

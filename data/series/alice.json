@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alice",
+  "title": "The Alice",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7713098",
+    "imdb": "tt0475036",
+    "tmdb": 5109
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

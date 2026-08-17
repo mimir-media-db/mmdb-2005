@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adam_carolla_project",
+  "title": "The Adam Carolla Project",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7712339",
+    "imdb": "tt0475898",
+    "tmdb": 10378
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_acemi_cad",
+  "title": "Acemi Cadı",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4673082",
+    "imdb": "tt0834012",
+    "tmdb": 4926
+  },
+  "last_updated": "2026-08-17"
+}
