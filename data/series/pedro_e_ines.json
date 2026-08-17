@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pedro_e_ines",
+  "title": "Pedro e Inês",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7160064",
+    "imdb": "tt0487848",
+    "tmdb": 41299
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}
