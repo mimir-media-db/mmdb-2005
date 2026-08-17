@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_immini_nalloraal_2005",
+  "title": "Immini Nalloraal",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6005243",
+    "imdb": "tt0448552",
+    "tmdb": 472118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-25"
+}
