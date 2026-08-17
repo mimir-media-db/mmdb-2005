@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_with_sex_2005",
+  "title": "Trouble with Sex",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7846477",
+    "imdb": "tt0384847",
+    "tmdb": 154886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turtles_can_fly_2005",
+  "title": "Turtles Can Fly",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1278929",
+    "imdb": "tt0424227",
+    "tmdb": 8340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-05",
+  "runtime_minutes": 98
+}

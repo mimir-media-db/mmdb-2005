@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_towar_2005",
+  "title": "Towar",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9360403",
+    "imdb": "tt0454642",
+    "tmdb": 1310062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-15"
+}

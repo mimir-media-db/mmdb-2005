@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tommy_and_the_wildcat_2005",
+  "title": "Tommy and the Wildcat",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17383209",
+    "imdb": "tt0167341",
+    "tmdb": 234850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-14",
+  "runtime_minutes": 101
+}

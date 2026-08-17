@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trece_entre_mil_2005",
+  "title": "Trece entre mil",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6152060",
+    "imdb": "tt0486499",
+    "tmdb": 110344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-11",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turtles_are_surprisingly_fast_swimmers_2005",
+  "title": "Turtles Are Surprisingly Fast Swimmers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1015942",
+    "imdb": "tt0455577",
+    "tmdb": 36175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-07-02",
+  "runtime_minutes": 90
+}

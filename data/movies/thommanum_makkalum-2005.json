@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thommanum_makkalum_2005",
+  "title": "Thommanum Makkalum",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7795648",
+    "imdb": "tt0441902",
+    "tmdb": 278140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-18"
+}

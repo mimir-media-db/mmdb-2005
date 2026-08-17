@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tommy_and_quadrophenia_live_2005",
+  "title": "Tommy and Quadrophenia Live",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7820033",
+    "imdb": "tt0763328",
+    "tmdb": 316316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-10-17",
+  "runtime_minutes": 417
+}

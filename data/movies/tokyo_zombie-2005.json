@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_zombie_2005",
+  "title": "Tokyo Zombie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q838631",
+    "imdb": "tt0451954",
+    "tmdb": 27843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-10",
+  "runtime_minutes": 103
+}

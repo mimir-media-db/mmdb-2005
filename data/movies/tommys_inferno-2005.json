@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tommys_inferno_2005",
+  "title": "Tommys inferno",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12006724",
+    "imdb": "tt0427955",
+    "tmdb": 35553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-19",
+  "runtime_minutes": 95
+}

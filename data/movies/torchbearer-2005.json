@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_torchbearer_2005",
+  "title": "The Torchbearer",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649990",
+    "imdb": "tt0490305",
+    "tmdb": 164661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 25
+}

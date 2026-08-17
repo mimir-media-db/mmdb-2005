@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trzeci_the_third_2005",
+  "title": "Trzeci (The Third)",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9362210",
+    "imdb": "tt0426270",
+    "tmdb": 419044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-11"
+}

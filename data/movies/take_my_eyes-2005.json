@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_take_my_eyes_2005",
+  "title": "Take My Eyes",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q747441",
+    "imdb": "tt0350193",
+    "tmdb": 1418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-08-04",
+  "runtime_minutes": 109
+}

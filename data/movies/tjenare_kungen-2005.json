@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tjenare_kungen_2005",
+  "title": "Tjenare kungen",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1523747",
+    "imdb": "tt0423382",
+    "tmdb": 49717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-16",
+  "runtime_minutes": 94
+}
