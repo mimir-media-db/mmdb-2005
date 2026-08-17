@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_junior_senior_2005",
+  "title": "Junior Senior",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6313454",
+    "imdb": "tt0827770",
+    "tmdb": 529328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

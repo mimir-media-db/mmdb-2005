@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jeanne_et_blanche_2005",
+  "title": "Jeanne et Blanche",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3176244",
+    "imdb": "tt4723482"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
