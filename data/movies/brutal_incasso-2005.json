@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brutal_incasso_2005",
+  "title": "Brutal Incasso",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16323264",
+    "imdb": "tt0412498",
+    "tmdb": 278740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-12-08",
+  "runtime_minutes": 85
+}

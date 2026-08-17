@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_fruitful_and_multiply_2005",
+  "title": "Be Fruitful and Multiply",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52084311",
+    "imdb": "tt1090303",
+    "tmdb": 736549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 50
+}

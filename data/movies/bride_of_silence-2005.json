@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_of_silence_2005",
+  "title": "Bride of Silence",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16828214",
+    "imdb": "tt0449972",
+    "tmdb": 369938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

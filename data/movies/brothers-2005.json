@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_2005",
+  "title": "Brothers",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q990857",
+    "imdb": "tt0386342",
+    "tmdb": 3875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-31",
+  "runtime_minutes": 110
+}

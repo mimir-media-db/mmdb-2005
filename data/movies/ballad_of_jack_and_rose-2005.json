@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballad_of_jack_and_rose_2005",
+  "title": "The Ballad of Jack and Rose",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2092105",
+    "imdb": "tt0357110",
+    "tmdb": 17113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-23",
+  "runtime_minutes": 112
+}

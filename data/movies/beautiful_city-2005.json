@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_city_2005",
+  "title": "The Beautiful City",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116235",
+    "imdb": "tt0424434",
+    "tmdb": 89065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-21",
+  "runtime_minutes": 98
+}

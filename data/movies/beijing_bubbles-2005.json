@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beijing_bubbles_2005",
+  "title": "Beijing Bubbles",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q814714",
+    "imdb": "tt0838250",
+    "tmdb": 108950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-11-10",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_because_of_winndixie_2005",
+  "title": "Because of Winn-Dixie",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2060606",
+    "imdb": "tt0317132",
+    "tmdb": 17880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-26",
+  "runtime_minutes": 106
+}

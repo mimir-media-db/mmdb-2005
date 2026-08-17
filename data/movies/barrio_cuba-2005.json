@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barrio_cuba_2005",
+  "title": "Barrio Cuba",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964427",
+    "imdb": "tt0499311",
+    "tmdb": 72851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 105
+}

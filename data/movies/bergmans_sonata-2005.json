@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bergmans_sonata_2005",
+  "title": "Bergman's Sonata",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61124901",
+    "imdb": "tt0452151",
+    "tmdb": 1281237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

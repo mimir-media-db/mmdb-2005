@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bin_ich_sexy_2005",
+  "title": "Bin Ich Sexy?",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39485944",
+    "imdb": "tt0411165",
+    "tmdb": 5495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-23",
+  "runtime_minutes": 90
+}

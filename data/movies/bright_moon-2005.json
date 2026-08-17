@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bright_moon_2005",
+  "title": "A Bright Moon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125500642",
+    "imdb": "tt10168220",
+    "tmdb": 677204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-15",
+  "runtime_minutes": 105
+}

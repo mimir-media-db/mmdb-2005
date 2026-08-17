@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bullshit_2005",
+  "title": "Bullshit",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955197",
+    "imdb": "tt5717622",
+    "tmdb": 33220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

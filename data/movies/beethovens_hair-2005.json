@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beethovens_hair_2005",
+  "title": "Beethoven's Hair",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104894628",
+    "imdb": "tt0446283",
+    "tmdb": 365523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 90
+}

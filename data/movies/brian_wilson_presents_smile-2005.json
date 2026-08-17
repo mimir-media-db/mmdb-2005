@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brian_wilson_presents_smile_2005",
+  "title": "Brian Wilson Presents Smile",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106520139",
+    "imdb": "tt1607595",
+    "tmdb": 171148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

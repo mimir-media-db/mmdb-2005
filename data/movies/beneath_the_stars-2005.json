@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beneath_the_stars_2005",
+  "title": "Beneath the Stars",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10709353",
+    "imdb": "tt2754006"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 104
+}

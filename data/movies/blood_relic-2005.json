@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_relic_2005",
+  "title": "Blood Relic",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16703332",
+    "imdb": "tt0459216",
+    "tmdb": 28237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}
