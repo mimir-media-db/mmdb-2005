@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_windmill_palm_grove_2005",
+  "title": "The Windmill Palm Grove",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16184574",
+    "imdb": "tt0479689",
+    "tmdb": 462876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-09-15",
+  "runtime_minutes": 108
+}

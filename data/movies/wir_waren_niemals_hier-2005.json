@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wir_waren_niemals_hier_2005",
+  "title": "Wir waren niemals hier",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104529804",
+    "imdb": "tt0499164",
+    "tmdb": 372859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 97
+}

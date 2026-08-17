@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_window_theory_2005",
+  "title": "Window Theory",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121211333",
+    "imdb": "tt0371405",
+    "tmdb": 38534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 87
+}

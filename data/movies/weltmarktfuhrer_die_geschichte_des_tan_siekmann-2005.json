@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weltmarktfuhrer_die_geschichte_des_tan_siekmann_2005",
+  "title": "Weltmarktführer - Die Geschichte des Tan Siekmann",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2558302",
+    "imdb": "tt0458201",
+    "tmdb": 65562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-02-03",
+  "runtime_minutes": 92
+}

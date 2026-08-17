@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_werewolf_in_bangkok_2005",
+  "title": "Werewolf in Bangkok",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13013682",
+    "imdb": "tt0756258",
+    "tmdb": 51025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 89
+}

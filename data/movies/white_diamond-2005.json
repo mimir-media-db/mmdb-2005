@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_diamond_2005",
+  "title": "The White Diamond",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3015372",
+    "imdb": "tt0435776",
+    "tmdb": 23965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-03-10",
+  "runtime_minutes": 88
+}

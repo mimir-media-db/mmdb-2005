@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_on_water_2005",
+  "title": "Walk on Water",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1759682",
+    "imdb": "tt0352994",
+    "tmdb": 26
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-05-12",
+  "runtime_minutes": 104
+}

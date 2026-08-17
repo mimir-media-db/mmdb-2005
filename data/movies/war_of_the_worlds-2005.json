@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_of_the_worlds_2005",
+  "title": "War of the Worlds",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q202028",
+    "imdb": "tt0407304",
+    "tmdb": 74
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-06-29",
+  "runtime_minutes": 117
+}

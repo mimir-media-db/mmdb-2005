@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_girl_2005",
+  "title": "Wolf Girl",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11571790",
+    "imdb": "tt0493824",
+    "tmdb": 472450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01"
+}

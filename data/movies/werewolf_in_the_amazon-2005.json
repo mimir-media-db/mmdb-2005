@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_werewolf_in_the_amazon_2005",
+  "title": "A Werewolf in the Amazon",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10387336",
+    "imdb": "tt0452744",
+    "tmdb": 28393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 75
+}
