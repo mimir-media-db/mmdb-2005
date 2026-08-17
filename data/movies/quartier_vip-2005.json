@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quartier_vip_2005",
+  "title": "Quartier V.I.P.",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3413146",
+    "imdb": "tt0413179",
+    "tmdb": 79573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 99
+}

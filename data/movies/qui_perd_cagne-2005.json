@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_qui_perd_cagne_2005",
+  "title": "Qui Perd Cagne!",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414407",
+    "imdb": "tt0371907",
+    "tmdb": 60106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-01-01",
+  "runtime_minutes": 92
+}
