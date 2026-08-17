@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xxx_state_of_the_union_2005",
+  "title": "XXX: State of the Union",
+  "year": 2005,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q283696",
+    "imdb": "tt0329774",
+    "tmdb": 11679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2005-04-27",
+  "runtime_minutes": 101
+}
