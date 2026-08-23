@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_a_palos_2005",
+  "title": "Amor a Palos",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4348106",
+    "imdb": "tt0484322",
+    "tmdb": 14662
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 126,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VE"
+  ]
+}

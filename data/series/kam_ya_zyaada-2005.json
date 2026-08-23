@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_kam_ya_zyaada_2005",
+  "title": "Kam Ya Zyaada",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16852199"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

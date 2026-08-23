@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lua_me_disse_2005",
+  "title": "A Lua Me Disse",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q16142860",
+    "imdb": "tt0464768",
+    "tmdb": 46173
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 143,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

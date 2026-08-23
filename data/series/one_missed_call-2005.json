@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_one_missed_call_2005",
+  "title": "One Missed Call",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7092933",
+    "imdb": "tt1015573",
+    "tmdb": 34961
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

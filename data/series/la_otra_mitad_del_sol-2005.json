@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_otra_mitad_del_sol_2005",
+  "title": "La otra mitad del sol",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5967696",
+    "imdb": "tt0451556"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 105,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

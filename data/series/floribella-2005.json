@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_floribella_2005",
+  "title": "Floribella",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1773556",
+    "imdb": "tt0452720",
+    "tmdb": 195859
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 344,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

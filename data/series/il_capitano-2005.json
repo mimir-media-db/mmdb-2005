@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_il_capitano_2005",
+  "title": "Il capitano",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3792594",
+    "imdb": "tt1107475",
+    "tmdb": 216722
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Action",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

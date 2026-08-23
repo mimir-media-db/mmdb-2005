@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_how_i_met_your_mother_2005",
+  "title": "How I Met Your Mother",
+  "start_year": 2005,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q147235",
+    "imdb": "tt0460649",
+    "tmdb": 1100
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 9,
+  "total_episodes": 208,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

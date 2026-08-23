@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_scavengers_paradise_2005",
+  "title": "Scavengers' Paradise",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7430651",
+    "tmdb": 8020
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

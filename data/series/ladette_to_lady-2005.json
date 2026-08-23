@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ladette_to_lady_2005",
+  "title": "Ladette to Lady",
+  "start_year": 2005,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2086544",
+    "imdb": "tt0445884",
+    "tmdb": 2495
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 27,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

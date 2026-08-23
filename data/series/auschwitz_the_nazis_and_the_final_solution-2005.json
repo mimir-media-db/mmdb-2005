@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_auschwitz_the_nazis_and_the_final_solution_2005",
+  "title": "Auschwitz: The Nazis and 'The Final Solution'",
+  "start_year": 2005,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4822723",
+    "imdb": "tt0446610",
+    "tmdb": 7361
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

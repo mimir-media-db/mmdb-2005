@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ta_tessera_matia_2004",
+  "title": "Ta tessera matia",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q113532749"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 17,
+  "genres": [
+    "social issue television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_melanoma_ahuvati_2004",
+  "title": "Melanoma ahuvati",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6602135",
+    "imdb": "tt0856092"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

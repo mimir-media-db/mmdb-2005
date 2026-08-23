@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_sensualita_a_corte_2004",
+  "title": "Sensualità a corte",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3955388",
+    "imdb": "tt2356460",
+    "tmdb": 41487
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ljubav_navika_panika_2005",
+  "title": "Ljubav, navika, panika",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1564061",
+    "imdb": "tt0434699",
+    "tmdb": 7438
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 58,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RS"
+  ]
+}

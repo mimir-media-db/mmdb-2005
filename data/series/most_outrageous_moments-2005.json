@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_most_outrageous_moments_2005",
+  "title": "Most Outrageous Moments",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q16953568"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 21,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

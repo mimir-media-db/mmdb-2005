@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_america_2005",
+  "title": "América",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1247400",
+    "imdb": "tt0420362",
+    "tmdb": 12387
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 203,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

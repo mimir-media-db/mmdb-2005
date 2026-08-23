@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_go_to_the_beach_2005",
+  "title": "Let's Go To The Beach",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6854266",
+    "tmdb": 37964
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

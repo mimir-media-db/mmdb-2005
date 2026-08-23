@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bromwell_high_2005",
+  "title": "Bromwell High",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2926033",
+    "imdb": "tt0453418",
+    "tmdb": 4685
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

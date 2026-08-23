@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_rabba_ishq_na_hove_2005",
+  "title": "Rabba Ishq Na Hove",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7278515",
+    "imdb": "tt7236846"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 55,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

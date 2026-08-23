@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fuccons_2005",
+  "title": "The Fuccons",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1054175",
+    "imdb": "tt0758024",
+    "tmdb": 12120
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

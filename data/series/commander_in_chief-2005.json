@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_commander_in_chief_2005",
+  "title": "Commander in Chief",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q697031",
+    "imdb": "tt0429455",
+    "tmdb": 4015
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_buy_me_2005",
+  "title": "Buy Me",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5003325"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vpro_boeken_2005",
+  "title": "VPRO Boeken",
+  "start_year": 2005,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q2607129"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "countries": []
+}

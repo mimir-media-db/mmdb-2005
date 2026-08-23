@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_personal_reasons_2005",
+  "title": "Personal Reasons",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q11693732",
+    "imdb": "tt0433721",
+    "tmdb": 68577
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 27,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_quelli_dellintervallo_2005",
+  "title": "Quelli dell'intervallo",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6828075",
+    "imdb": "tt5639338",
+    "tmdb": 7637
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 341,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

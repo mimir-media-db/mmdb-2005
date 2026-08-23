@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_breaking_bonaduce_2005",
+  "title": "Breaking Bonaduce",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4959538",
+    "imdb": "tt0471988",
+    "tmdb": 10398
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 19,
+  "genres": [
+    "Drama",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

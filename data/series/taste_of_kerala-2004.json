@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_taste_of_kerala_2004",
+  "title": "Taste of Kerala",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7687703"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "IN"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_alinas_traum_2005",
+  "title": "Alinas Traum",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q481440",
+    "imdb": "tt0485582",
+    "tmdb": 237532
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

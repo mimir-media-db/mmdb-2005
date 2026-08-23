@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_gerald_mcboingboing_2005",
+  "title": "Gerald McBoing-Boing",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q246344",
+    "imdb": "tt0497546",
+    "tmdb": 4524
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 52,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

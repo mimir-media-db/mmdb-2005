@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_balls_of_steel_2005",
+  "title": "Balls of Steel",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2667515",
+    "imdb": "tt0477141",
+    "tmdb": 12220
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 19,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

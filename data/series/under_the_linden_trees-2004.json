@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_under_the_linden_trees_2004",
+  "title": "Under the Linden Trees",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1170027",
+    "imdb": "tt0489902",
+    "tmdb": 49489
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

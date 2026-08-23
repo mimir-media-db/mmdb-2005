@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_24_conspiracy_2005",
+  "title": "24: Conspiracy",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2599871",
+    "imdb": "tt0449543",
+    "tmdb": 1907
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Action",
+    "Drama",
+    "Short"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

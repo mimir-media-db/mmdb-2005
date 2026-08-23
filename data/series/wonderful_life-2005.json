@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wonderful_life_2005",
+  "title": "Wonderful Life",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q493422",
+    "imdb": "tt0464626",
+    "tmdb": 4088
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

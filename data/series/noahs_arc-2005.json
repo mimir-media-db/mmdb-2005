@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_noahs_arc_2005",
+  "title": "Noah's Arc",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1148176",
+    "imdb": "tt0478079",
+    "tmdb": 2234
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 17,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_freddie_2005",
+  "title": "Freddie",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1452588",
+    "imdb": "tt0460640",
+    "tmdb": 204
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

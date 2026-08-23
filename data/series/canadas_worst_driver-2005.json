@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_canadas_worst_driver_2005",
+  "title": "Canada's Worst Driver",
+  "start_year": 2005,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q1711667",
+    "imdb": "tt0453328",
+    "tmdb": 34638
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 14,
+  "total_episodes": 80,
+  "genres": [
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

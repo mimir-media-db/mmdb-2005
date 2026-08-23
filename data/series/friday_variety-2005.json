@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_friday_variety_2005",
+  "title": "Friday Variety",
+  "start_year": 2005,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q11647167"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

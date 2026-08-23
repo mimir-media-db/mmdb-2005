@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_aikurushii_2005",
+  "title": "Aikurushii",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q985832",
+    "imdb": "tt7910084",
+    "tmdb": 41894
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

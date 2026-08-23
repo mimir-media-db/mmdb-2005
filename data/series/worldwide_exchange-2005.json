@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_worldwide_exchange_2005",
+  "title": "Worldwide Exchange",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3472264"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "news program",
+    "business"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

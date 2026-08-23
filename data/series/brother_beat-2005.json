@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_brother_beat_2005",
+  "title": "Brother Beat",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2082930",
+    "imdb": "tt0759800",
+    "tmdb": 19211
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

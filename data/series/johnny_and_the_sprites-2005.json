@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_johnny_and_the_sprites_2005",
+  "title": "Johnny and the Sprites",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1702445",
+    "imdb": "tt0491606",
+    "tmdb": 1774
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Family",
+    "Music",
+    "Short"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

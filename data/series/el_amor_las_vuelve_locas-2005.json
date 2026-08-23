@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_el_amor_las_vuelve_locas_2005",
+  "title": "El amor las vuelve locas",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5823856",
+    "imdb": "tt0450896",
+    "tmdb": 59246
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 151,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VE"
+  ]
+}

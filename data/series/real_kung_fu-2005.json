@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_real_kung_fu_2005",
+  "title": "Real Kung Fu",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7300951",
+    "imdb": "tt0855470",
+    "tmdb": 8021
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

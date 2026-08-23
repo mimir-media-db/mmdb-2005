@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_moment_in_peking_2005",
+  "title": "Moment in Peking",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4919472",
+    "imdb": "tt0464774",
+    "tmdb": 32914
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 44,
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

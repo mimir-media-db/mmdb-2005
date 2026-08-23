@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ultraman_max_2005",
+  "title": "Ultraman Max",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3046042",
+    "imdb": "tt0493197",
+    "tmdb": 3155
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

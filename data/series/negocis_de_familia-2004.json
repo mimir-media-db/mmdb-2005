@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_negocis_de_familia_2004",
+  "title": "Negocis de família",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q11695273",
+    "imdb": "tt0824065",
+    "tmdb": 127836
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 255,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

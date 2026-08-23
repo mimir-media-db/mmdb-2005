@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_thep_sarm_rudoo_2004",
+  "title": "Thep Sarm Rudoo",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7782486"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "soap opera"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

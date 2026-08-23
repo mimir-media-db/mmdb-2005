@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_spoons_2005",
+  "title": "Spoons",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q10373800",
+    "imdb": "tt0482428",
+    "tmdb": 10387
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

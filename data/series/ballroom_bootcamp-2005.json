@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ballroom_bootcamp_2005",
+  "title": "Ballroom Bootcamp",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q21161387",
+    "imdb": "tt0771651"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

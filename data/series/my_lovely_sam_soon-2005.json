@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_my_lovely_sam_soon_2005",
+  "title": "My Lovely Sam Soon",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q485870",
+    "imdb": "tt0477524",
+    "tmdb": 5381
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

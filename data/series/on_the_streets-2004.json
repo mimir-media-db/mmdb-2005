@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_streets_2004",
+  "title": "On the Streets",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7091553",
+    "imdb": "tt1830170"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_belissima_2005",
+  "title": "Belíssima",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2621256",
+    "imdb": "tt0488259",
+    "tmdb": 42886
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 209,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

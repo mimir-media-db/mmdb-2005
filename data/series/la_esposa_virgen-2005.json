@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_esposa_virgen_2005",
+  "title": "La esposa virgen",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1247658",
+    "imdb": "tt0459691",
+    "tmdb": 40298
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 69,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

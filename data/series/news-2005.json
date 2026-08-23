@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_news_2005",
+  "title": "A News",
+  "start_year": 2005,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4658558"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "news"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

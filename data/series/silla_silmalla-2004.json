@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_silla_silmalla_2004",
+  "title": "Sillä silmällä",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q27302206",
+    "imdb": "tt0460380"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

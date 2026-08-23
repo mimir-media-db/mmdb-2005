@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_erotas_2005",
+  "title": "Erotas",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5395398",
+    "imdb": "tt0483968",
+    "tmdb": 3979
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 300,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

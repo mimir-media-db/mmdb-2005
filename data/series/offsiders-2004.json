@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_offsiders_2004",
+  "title": "Offsiders",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7079707"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "countries": [
+    "AU"
+  ]
+}

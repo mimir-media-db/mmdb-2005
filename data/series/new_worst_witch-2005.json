@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_new_worst_witch_2005",
+  "title": "The New Worst Witch",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7753791",
+    "imdb": "tt0442642",
+    "tmdb": 29113
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "GB"
+  ]
+}

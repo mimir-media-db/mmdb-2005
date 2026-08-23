@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kalakka_povathu_yaaru_2004",
+  "title": "Kalakka Povathu Yaaru?",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28183224",
+    "imdb": "tt10195632",
+    "tmdb": 74672
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 54,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

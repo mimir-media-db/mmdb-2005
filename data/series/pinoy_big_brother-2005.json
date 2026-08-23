@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_pinoy_big_brother_2005",
+  "title": "Pinoy Big Brother",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2423094",
+    "imdb": "tt0479336",
+    "tmdb": 8892
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 18,
+  "total_episodes": 1119,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

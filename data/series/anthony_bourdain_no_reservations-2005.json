@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_anthony_bourdain_no_reservations_2005",
+  "title": "Anthony Bourdain: No Reservations",
+  "start_year": 2005,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q572914",
+    "imdb": "tt0475900",
+    "tmdb": 4533
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 142,
+  "genres": [
+    "Adventure",
+    "Documentary",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

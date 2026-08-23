@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ballad_of_seodong_2005",
+  "title": "Ballad of Seodong",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q483293",
+    "tmdb": 60144
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 55,
+  "genres": [
+    "historical fiction",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

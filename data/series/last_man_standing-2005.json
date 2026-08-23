@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_last_man_standing_2005",
+  "title": "Last Man Standing",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6494468",
+    "imdb": "tt0423685",
+    "tmdb": 3686
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

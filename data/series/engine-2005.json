@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_engine_2005",
+  "title": "Engine",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2700246",
+    "imdb": "tt0929662",
+    "tmdb": 1382
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

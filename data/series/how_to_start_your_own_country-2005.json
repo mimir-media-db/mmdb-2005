@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_how_to_start_your_own_country_2005",
+  "title": "How to Start Your Own Country",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q840837",
+    "imdb": "tt0475195",
+    "tmdb": 2916
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_der_dicke_2005",
+  "title": "Der Dicke",
+  "start_year": 2005,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1192915",
+    "imdb": "tt0403755",
+    "tmdb": 41119
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 52,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

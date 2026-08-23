@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood_411_2005",
+  "title": "Hollywood 411",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5882574"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

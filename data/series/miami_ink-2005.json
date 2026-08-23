@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_miami_ink_2005",
+  "title": "Miami Ink",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q325084",
+    "imdb": "tt0472014",
+    "tmdb": 10982
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 87,
+  "genres": [
+    "Documentary",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

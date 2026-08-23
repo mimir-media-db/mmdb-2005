@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_grandi_domani_2005",
+  "title": "Grandi domani",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3375352",
+    "imdb": "tt0449499",
+    "tmdb": 41563
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 24,
+  "genres": [
+    "Musical",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

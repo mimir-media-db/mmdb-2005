@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_dantes_cove_2005",
+  "title": "Dante's Cove",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q266323",
+    "imdb": "tt0414731",
+    "tmdb": 1734
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

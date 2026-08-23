@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_suenos_y_caramelos_2005",
+  "title": "Sueños y caramelos",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q9080428",
+    "imdb": "tt0439092",
+    "tmdb": 37613
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 135,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

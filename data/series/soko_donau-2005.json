@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_soko_donau_2005",
+  "title": "SOKO Donau",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q873220",
+    "imdb": "tt0461004",
+    "tmdb": 41349
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 18,
+  "total_episodes": 257,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AT"
+  ]
+}

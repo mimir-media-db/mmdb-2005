@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_os_amadores_2005",
+  "title": "Os Amadores",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q10341862",
+    "imdb": "tt2271286",
+    "tmdb": 98938
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 3,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

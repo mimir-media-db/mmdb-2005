@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_hoje_e_dia_de_maria_2005",
+  "title": "Hoje É Dia de Maria",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q10297777",
+    "imdb": "tt0447589",
+    "tmdb": 67576
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

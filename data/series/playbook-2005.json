@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_playbook_2005",
+  "title": "The Playbook",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7757441",
+    "imdb": "tt0445894",
+    "tmdb": 16437
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

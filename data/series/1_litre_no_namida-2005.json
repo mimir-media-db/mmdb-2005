@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_1_litre_no_namida_2005",
+  "title": "1 Litre no Namida",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q618755",
+    "imdb": "tt1370332",
+    "tmdb": 6484
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

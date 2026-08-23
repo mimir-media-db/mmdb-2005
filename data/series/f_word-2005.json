@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_f_word_2005",
+  "title": "The F Word",
+  "start_year": 2005,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2001073",
+    "imdb": "tt0490035",
+    "tmdb": 1478
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 51,
+  "genres": [
+    "Documentary",
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

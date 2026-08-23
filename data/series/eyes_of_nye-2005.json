@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_eyes_of_nye_2005",
+  "title": "The Eyes of Nye",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7732941",
+    "imdb": "tt0437715",
+    "tmdb": 12376
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

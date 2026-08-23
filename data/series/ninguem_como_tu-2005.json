@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ninguem_como_tu_2005",
+  "title": "Ninguém como Tu",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10336971",
+    "imdb": "tt0473590",
+    "tmdb": 35707
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 199,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

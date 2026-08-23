@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_iron_chef_america_2005",
+  "title": "Iron Chef America",
+  "start_year": 2005,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q6072379",
+    "imdb": "tt0441718",
+    "tmdb": 4360
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 11,
+  "total_episodes": 205,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

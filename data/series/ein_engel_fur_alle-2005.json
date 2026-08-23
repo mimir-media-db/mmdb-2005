@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ein_engel_fur_alle_2005",
+  "title": "Ein Engel für alle",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1304439",
+    "imdb": "tt0428107",
+    "tmdb": 64385
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

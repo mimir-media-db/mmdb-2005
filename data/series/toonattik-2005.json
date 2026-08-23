@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_toonattik_2005",
+  "title": "Toonattik",
+  "start_year": 2005,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7824165",
+    "imdb": "tt0887243"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

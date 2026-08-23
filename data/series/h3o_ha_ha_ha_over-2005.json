@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_h3o_ha_ha_ha_over_2005",
+  "title": "H3O: Ha Ha Ha Over",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5628848",
+    "tmdb": 4450
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 88,
+  "countries": [
+    "PH"
+  ]
+}

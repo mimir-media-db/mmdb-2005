@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_infieles_2005",
+  "title": "Infieles",
+  "start_year": 2005,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5915708",
+    "imdb": "tt1134722",
+    "tmdb": 98430
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 87,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

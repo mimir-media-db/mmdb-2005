@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_joseph_rosendos_travelscope_2005",
+  "title": "Joseph Rosendo's Travelscope",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107218358",
+    "imdb": "tt1430047",
+    "tmdb": 45068
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Documentary",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_jades_salon_2005",
+  "title": "Jade's Salon",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6121230",
+    "imdb": "tt0479614"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

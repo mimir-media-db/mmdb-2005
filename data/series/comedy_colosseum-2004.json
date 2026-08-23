@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_colosseum_2004",
+  "title": "Comedy Colosseum",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11289383"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "variety show",
+    "owarai bangumi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

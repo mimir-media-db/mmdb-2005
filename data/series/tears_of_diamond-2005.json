@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tears_of_diamond_2005",
+  "title": "Tears of Diamond",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12590868",
+    "imdb": "tt5621918",
+    "tmdb": 204179
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 21,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

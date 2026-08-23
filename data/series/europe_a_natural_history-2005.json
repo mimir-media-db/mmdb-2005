@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_europe_a_natural_history_2005",
+  "title": "Europe: A Natural History",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q993043",
+    "imdb": "tt0449012",
+    "tmdb": 20964
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

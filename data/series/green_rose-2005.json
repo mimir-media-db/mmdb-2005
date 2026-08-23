@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_green_rose_2005",
+  "title": "Green Rose",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q491345",
+    "imdb": "tt0866597",
+    "tmdb": 14057
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 22,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

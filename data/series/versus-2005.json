@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_versus_2005",
+  "title": "Versus",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6160690",
+    "imdb": "tt0470179"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 90,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

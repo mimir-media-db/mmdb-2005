@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_scope_2004",
+  "title": "Scope",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7434432",
+    "imdb": "tt4028430",
+    "tmdb": 44204
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

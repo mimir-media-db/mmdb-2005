@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_vice_cache_2005",
+  "title": "Vice caché",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3556903",
+    "imdb": "tt0414784",
+    "tmdb": 127957
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

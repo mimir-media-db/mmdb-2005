@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_se_dice_amor_2005",
+  "title": "Se dice amor",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1975714",
+    "imdb": "tt0451499"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 260,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

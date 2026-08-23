@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_life_with_derek_2005",
+  "title": "Life with Derek",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q582411",
+    "imdb": "tt0438719",
+    "tmdb": 4635
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 70,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

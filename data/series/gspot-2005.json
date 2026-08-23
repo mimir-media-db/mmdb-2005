@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_gspot_2005",
+  "title": "G-Spot",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5511923",
+    "imdb": "tt0456778",
+    "tmdb": 12622
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

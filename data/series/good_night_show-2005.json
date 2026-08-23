@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_good_night_show_2005",
+  "title": "The Good Night Show",
+  "start_year": 2005,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q5582863",
+    "imdb": "tt0808054",
+    "tmdb": 202430
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 3876,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

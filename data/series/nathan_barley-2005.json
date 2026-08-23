@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_nathan_barley_2005",
+  "title": "Nathan Barley",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6968889",
+    "imdb": "tt0426654",
+    "tmdb": 114
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

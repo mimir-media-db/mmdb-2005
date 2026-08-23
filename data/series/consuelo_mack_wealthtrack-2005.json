@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_consuelo_mack_wealthtrack_2005",
+  "title": "Consuelo Mack WealthTrack",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106504778",
+    "imdb": "tt11985800"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

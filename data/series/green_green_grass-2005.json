@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_green_green_grass_2005",
+  "title": "The Green Green Grass",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7738159",
+    "imdb": "tt0469869",
+    "tmdb": 1604
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 32,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

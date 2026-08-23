@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_brezhnev_2005",
+  "title": "Brezhnev",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4096230",
+    "imdb": "tt0456862",
+    "tmdb": 275832
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ideal_2005",
+  "title": "Ideal",
+  "start_year": 2005,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1765783",
+    "imdb": "tt0417332",
+    "tmdb": 1467
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 39,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

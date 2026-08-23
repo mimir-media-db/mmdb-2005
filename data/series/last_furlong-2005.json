@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_last_furlong_2005",
+  "title": "The Last Furlong",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7745777",
+    "imdb": "tt0490539",
+    "tmdb": 7611
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_gatas_y_tuercas_2005",
+  "title": "Gatas y tuercas",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5876291",
+    "imdb": "tt0470176",
+    "tmdb": 99656
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 125,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

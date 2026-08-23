@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_seven_periods_with_mr_gormsby_2004",
+  "title": "Seven Periods with Mr Gormsby",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7457377",
+    "imdb": "tt0471059",
+    "tmdb": 3118
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NZ"
+  ]
+}

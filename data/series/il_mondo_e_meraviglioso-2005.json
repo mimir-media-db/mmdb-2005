@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_il_mondo_e_meraviglioso_2005",
+  "title": "Il mondo è meraviglioso",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3794880",
+    "imdb": "tt0816586"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 1,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

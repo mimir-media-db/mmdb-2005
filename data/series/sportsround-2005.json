@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_sportsround_2005",
+  "title": "Sportsround",
+  "start_year": 2005,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q16950998",
+    "imdb": "tt2212556"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

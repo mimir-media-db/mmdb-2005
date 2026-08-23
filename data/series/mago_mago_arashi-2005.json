@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_mago_mago_arashi_2005",
+  "title": "Mago Mago Arashi",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6732271"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 125,
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

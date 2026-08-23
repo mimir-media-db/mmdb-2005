@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_days_of_protest_2004",
+  "title": "Days of Protest",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31070367",
+    "imdb": "tt29431492"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

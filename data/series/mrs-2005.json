@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_mrs_2005",
+  "title": "M.R.S.",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q16949735",
+    "imdb": "tt0445124",
+    "tmdb": 50056
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

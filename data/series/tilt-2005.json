@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_tilt_2005",
+  "title": "Tilt",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7802994",
+    "imdb": "tt0428174",
+    "tmdb": 11156
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

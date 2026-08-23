@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_dont_worry_2005",
+  "title": "Don't Worry",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12583373"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 156,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

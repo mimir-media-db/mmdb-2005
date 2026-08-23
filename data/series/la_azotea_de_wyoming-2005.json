@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_azotea_de_wyoming_2005",
+  "title": "La azotea de Wyoming",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5965763",
+    "imdb": "tt0442867"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

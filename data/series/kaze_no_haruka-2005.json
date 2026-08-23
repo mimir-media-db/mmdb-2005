@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kaze_no_haruka_2005",
+  "title": "Kaze no Haruka",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11665301",
+    "imdb": "tt0978538",
+    "tmdb": 84564
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 151,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

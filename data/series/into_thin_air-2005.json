@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_into_thin_air_2005",
+  "title": "Into Thin Air",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6057880"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

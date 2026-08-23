@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sirasa_superstar_2004",
+  "title": "Sirasa Superstar",
+  "start_year": 2004,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7529980"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "countries": [
+    "LK"
+  ]
+}

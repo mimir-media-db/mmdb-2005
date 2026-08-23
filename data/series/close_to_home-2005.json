@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_close_to_home_2005",
+  "title": "Close to Home",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q700733",
+    "imdb": "tt0460631",
+    "tmdb": 4662
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 44,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

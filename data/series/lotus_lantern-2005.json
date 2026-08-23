@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_lotus_lantern_2005",
+  "title": "Lotus Lantern",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10949492",
+    "imdb": "tt4776994",
+    "tmdb": 95381
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 35,
+  "genres": [
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": []
+}

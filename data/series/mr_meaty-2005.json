@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_meaty_2005",
+  "title": "Mr. Meaty",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3234203",
+    "imdb": "tt0849236",
+    "tmdb": 682
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

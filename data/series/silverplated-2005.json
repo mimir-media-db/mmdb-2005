@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_silverplated_2005",
+  "title": "The Silverplated",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1249036",
+    "imdb": "tt0451565",
+    "tmdb": 107085
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 148,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

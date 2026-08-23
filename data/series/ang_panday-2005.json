@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ang_panday_2005",
+  "title": "Ang Panday",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4761869",
+    "imdb": "tt0441940",
+    "tmdb": 4257
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 133,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

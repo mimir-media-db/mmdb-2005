@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_17_2005",
+  "title": "17",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5650972",
+    "imdb": "tt0445069",
+    "tmdb": 114935
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 93,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

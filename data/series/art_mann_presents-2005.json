@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_art_mann_presents_2005",
+  "title": "Art Mann Presents",
+  "start_year": 2005,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4796957",
+    "imdb": "tt0449452",
+    "tmdb": 41468
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 188,
+  "genres": [
+    "Adventure",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

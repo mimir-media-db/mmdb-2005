@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dubplate_drama_2005",
+  "title": "Dubplate Drama",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q16836120",
+    "imdb": "tt0499386",
+    "tmdb": 33032
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 14,
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

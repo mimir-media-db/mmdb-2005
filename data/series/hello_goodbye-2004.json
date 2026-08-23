@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_goodbye_2004",
+  "title": "Hello Goodbye",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2528079"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 31,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": []
+}

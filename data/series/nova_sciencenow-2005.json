@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_nova_sciencenow_2005",
+  "title": "Nova ScienceNow",
+  "start_year": 2005,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7064098",
+    "imdb": "tt0449461",
+    "tmdb": 3864
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 30,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

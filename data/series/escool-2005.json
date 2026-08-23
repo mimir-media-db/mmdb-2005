@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_escool_2005",
+  "title": "EsCool",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3057612",
+    "imdb": "tt0456775",
+    "tmdb": 290588
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 79,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}
