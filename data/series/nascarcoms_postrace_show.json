@@ -8,5 +8,9 @@
     "wikidata": "Q6952459",
     "imdb": "tt7136946"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false
 }

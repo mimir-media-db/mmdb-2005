@@ -9,6 +9,10 @@
     "imdb": "tt0442718",
     "tmdb": 1176
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 52
+  "last_updated": "2026-08-23",
+  "total_episodes": 52,
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false
 }

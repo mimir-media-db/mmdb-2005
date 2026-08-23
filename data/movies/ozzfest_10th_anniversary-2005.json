@@ -9,7 +9,11 @@
     "imdb": "tt0897434",
     "tmdb": 45547
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-11-22",
-  "runtime_minutes": 150
+  "runtime_minutes": 150,
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false
 }

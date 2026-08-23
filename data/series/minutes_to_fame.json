@@ -8,5 +8,9 @@
     "wikidata": "Q6871181",
     "tmdb": 13449
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt0479573",
     "tmdb": 27787
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 4,
-  "total_episodes": 81
+  "total_episodes": 81,
+  "genres": [
+    "Documentary",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false
 }

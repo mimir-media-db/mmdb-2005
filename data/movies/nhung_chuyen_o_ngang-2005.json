@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q136695482"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-01-12"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-01-12",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

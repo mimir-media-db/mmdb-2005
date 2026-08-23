@@ -8,5 +8,9 @@
     "wikidata": "Q5893357",
     "imdb": "tt0455962"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

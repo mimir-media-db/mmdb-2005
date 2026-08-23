@@ -9,7 +9,12 @@
     "imdb": "tt0469223",
     "tmdb": 368774
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-02-05",
-  "runtime_minutes": 96
+  "runtime_minutes": 96,
+  "genres": [
+    "Documentary",
+    "War"
+  ],
+  "is_adult": false
 }

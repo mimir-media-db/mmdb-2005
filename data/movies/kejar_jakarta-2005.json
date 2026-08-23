@@ -8,7 +8,11 @@
     "wikidata": "Q12490464",
     "tmdb": 670350
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-12-20",
-  "runtime_minutes": 127
+  "runtime_minutes": 127,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

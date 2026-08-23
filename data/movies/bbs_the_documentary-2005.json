@@ -8,7 +8,11 @@
     "wikidata": "Q4835081",
     "imdb": "tt0460402"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-05-01",
-  "runtime_minutes": 296
+  "runtime_minutes": 296,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

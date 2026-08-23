@@ -8,7 +8,13 @@
     "wikidata": "Q7728656",
     "imdb": "tt0486066"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 7,
-  "total_episodes": 960
+  "total_episodes": 960,
+  "genres": [
+    "Music",
+    "Sport",
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,11 @@
     "imdb": "tt0810558",
     "tmdb": 9049
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 219
+  "total_episodes": 219,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false
 }

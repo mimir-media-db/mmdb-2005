@@ -9,6 +9,12 @@
     "imdb": "tt0466406",
     "tmdb": 36589
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-05-13"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-05-13",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false
 }

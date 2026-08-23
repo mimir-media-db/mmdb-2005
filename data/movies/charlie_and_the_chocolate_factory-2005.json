@@ -9,7 +9,13 @@
     "imdb": "tt0367594",
     "tmdb": 118
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-07-10",
-  "runtime_minutes": 115
+  "runtime_minutes": 115,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt0322420",
     "tmdb": 20128
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-06-16",
-  "runtime_minutes": 154
+  "runtime_minutes": 154,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false
 }

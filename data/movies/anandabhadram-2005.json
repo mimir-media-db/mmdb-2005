@@ -9,6 +9,12 @@
     "imdb": "tt0487011",
     "tmdb": 194809
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-11-04"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-11-04",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "is_adult": false
 }

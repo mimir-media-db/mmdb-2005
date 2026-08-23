@@ -9,6 +9,10 @@
     "imdb": "tt0475201",
     "tmdb": 12175
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 11
+  "last_updated": "2026-08-23",
+  "total_seasons": 11,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

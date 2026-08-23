@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q5579134"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 30
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "genres": [
+    "Spy",
+    "drama television series"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt0763328",
     "tmdb": 316316
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-10-17",
-  "runtime_minutes": 417
+  "runtime_minutes": 417,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

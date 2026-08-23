@@ -7,7 +7,15 @@
   "external_ids": {
     "wikidata": "Q7617055"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-10-31",
-  "runtime_minutes": 216
+  "runtime_minutes": 216,
+  "genres": [
+    "pop music",
+    "progressive rock",
+    "world music",
+    "art rock",
+    "concert film"
+  ],
+  "is_adult": false
 }

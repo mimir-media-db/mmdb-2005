@@ -8,5 +8,9 @@
     "wikidata": "Q11303613",
     "tmdb": 113763
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false
 }

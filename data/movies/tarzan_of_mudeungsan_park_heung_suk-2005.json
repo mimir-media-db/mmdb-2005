@@ -8,6 +8,11 @@
     "wikidata": "Q18013364",
     "tmdb": 416319
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-10-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-10-01",
+  "genres": [
+    "Drama",
+    "Action"
+  ],
+  "is_adult": false
 }

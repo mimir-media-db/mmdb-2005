@@ -7,5 +7,9 @@
   "external_ids": {
     "wikidata": "Q4989464"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "regional soap opera"
+  ],
+  "is_adult": false
 }

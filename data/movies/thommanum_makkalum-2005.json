@@ -9,6 +9,12 @@
     "imdb": "tt0441902",
     "tmdb": 278140
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-03-18"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-03-18",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false
 }
