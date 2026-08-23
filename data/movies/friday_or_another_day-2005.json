@@ -15,5 +15,12 @@
   "genres": [
     "Adventure"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "CZ",
+    "FR",
+    "IT",
+    "SK"
+  ]
 }

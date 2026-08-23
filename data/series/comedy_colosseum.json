@@ -12,5 +12,8 @@
     "variety show",
     "owarai bangumi"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
 }
