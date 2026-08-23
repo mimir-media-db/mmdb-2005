@@ -17,5 +17,12 @@
     "Adventure",
     "Horror"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "CZ",
+    "DE",
+    "GB",
+    "US"
+  ]
 }

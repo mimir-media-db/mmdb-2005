@@ -16,5 +16,8 @@
     "Action",
     "Adult"
   ],
-  "is_adult": true
+  "is_adult": true,
+  "countries": [
+    "SE"
+  ]
 }

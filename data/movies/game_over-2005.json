@@ -17,5 +17,11 @@
     "Drama",
     "Horror"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "ES",
+    "FI",
+    "GB",
+    "SE"
+  ]
 }

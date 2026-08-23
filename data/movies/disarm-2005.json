@@ -17,5 +17,14 @@
     "History",
     "War"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AF",
+    "BA",
+    "BY",
+    "CO",
+    "IQ",
+    "MM",
+    "US"
+  ]
 }

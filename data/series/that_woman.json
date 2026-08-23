@@ -14,5 +14,8 @@
     "drama television series",
     "romantic fiction"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
 }

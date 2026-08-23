@@ -8,7 +8,10 @@
     "wikidata": "Q12494980",
     "tmdb": 49935
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 203
+  "total_episodes": 203,
+  "countries": [
+    "ID"
+  ]
 }
