@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_unscripted_2005",
+  "title": "Unscripted",
+  "start_year": 2005,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q4006071",
+    "imdb": "tt0413616",
+    "tmdb": 15025
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

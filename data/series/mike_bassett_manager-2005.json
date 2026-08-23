@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mike_bassett_manager_2005",
+  "title": "Mike Bassett: Manager",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6845984",
+    "imdb": "tt0482414",
+    "tmdb": 12151
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

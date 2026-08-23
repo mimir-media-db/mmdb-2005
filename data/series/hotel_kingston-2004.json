@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_kingston_2004",
+  "title": "Hotel Kingston",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5911658"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 51,
+  "countries": [
+    "IN"
+  ]
+}

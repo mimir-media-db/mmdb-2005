@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_who_confidential_2005",
+  "title": "Doctor Who Confidential",
+  "start_year": 2005,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q719920",
+    "imdb": "tt0453422",
+    "tmdb": 1056
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 87,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_girls_will_be_girls_2005",
+  "title": "Girls Will Be Girls",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5564679",
+    "imdb": "tt1015682"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": []
+}

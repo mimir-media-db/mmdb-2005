@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_obsesion_2005",
+  "title": "Obsesión",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6048315",
+    "imdb": "tt0444744"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 167,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

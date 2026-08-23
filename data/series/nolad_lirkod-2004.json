@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_nolad_lirkod_2004",
+  "title": "Nolad Lirkod",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7030449",
+    "imdb": "tt0875099",
+    "tmdb": 51148
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 51,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

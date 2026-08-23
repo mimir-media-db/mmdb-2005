@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_lo_que_la_gente_cuenta_2004",
+  "title": "Lo que la gente cuenta",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5978068",
+    "imdb": "tt0499394",
+    "tmdb": 116259
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 250,
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

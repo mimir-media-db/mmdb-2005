@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_el_amor_no_tiene_precio_2005",
+  "title": "El amor no tiene precio",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1532846",
+    "imdb": "tt0443790",
+    "tmdb": 1164
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 280,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

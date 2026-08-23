@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_tha_vreis_to_daskalo_sou_2004",
+  "title": "Tha vreis to daskalo sou",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q12877801",
+    "imdb": "tt0860885",
+    "tmdb": 102128
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_docuceleb_2004",
+  "title": "DocuCeleb",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7057357"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 50,
+  "genres": [
+    "entertainment"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

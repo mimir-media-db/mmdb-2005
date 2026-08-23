@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_goddotan_2005",
+  "title": "Goddotan",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11303613",
+    "tmdb": 113763
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

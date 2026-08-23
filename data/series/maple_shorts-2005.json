@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_maple_shorts_2005",
+  "title": "Maple Shorts",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q17033624",
+    "imdb": "tt0476435"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ordinace_v_ruzove_zahrade_2005",
+  "title": "Ordinace v růžové zahradě",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11740140",
+    "imdb": "tt0924182",
+    "tmdb": 50895
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 18,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

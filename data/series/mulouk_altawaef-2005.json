@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mulouk_altawaef_2005",
+  "title": "Mulouk Al-Tawa'ef",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q12245001",
+    "imdb": "tt3109670",
+    "tmdb": 52550
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SY"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_resurrection_2005",
+  "title": "Resurrection",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q624777",
+    "imdb": "tt0499170",
+    "tmdb": 46569
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

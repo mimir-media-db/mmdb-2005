@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_el_programa_de_ana_rosa_2005",
+  "title": "El programa de Ana Rosa",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q557186",
+    "imdb": "tt0444746"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 21,
+  "total_episodes": 4800,
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

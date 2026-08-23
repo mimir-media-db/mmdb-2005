@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_makuha_ka_sa_tikim_2005",
+  "title": "Makuha Ka sa Tikim",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6740438",
+    "tmdb": 5387
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 50,
+  "countries": [
+    "PH"
+  ]
+}

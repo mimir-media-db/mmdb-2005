@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_firehouse_usa_boston_2005",
+  "title": "Firehouse USA: Boston",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5451874"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

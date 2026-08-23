@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_eighteen_twentynine_2005",
+  "title": "Eighteen, Twenty-Nine",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q492015",
+    "imdb": "tt5985540",
+    "tmdb": 11866
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

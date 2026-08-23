@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_jikji_2005",
+  "title": "Jikji",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12618145"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 1,
+  "genres": [
+    "drama television series",
+    "historical play"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

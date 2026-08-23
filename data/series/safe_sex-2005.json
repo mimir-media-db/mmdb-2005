@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_safe_sex_2005",
+  "title": "Safe Sex",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q138426131",
+    "imdb": "tt1572952",
+    "tmdb": 54140
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 58,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

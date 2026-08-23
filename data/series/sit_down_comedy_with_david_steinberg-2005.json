@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sit_down_comedy_with_david_steinberg_2005",
+  "title": "Sit Down Comedy with David Steinberg",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7531549",
+    "imdb": "tt0493332",
+    "tmdb": 11977
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

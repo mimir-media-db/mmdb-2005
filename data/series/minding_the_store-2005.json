@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_minding_the_store_2005",
+  "title": "Minding the Store",
+  "start_year": 2005,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6863841"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television",
+    "comedy television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

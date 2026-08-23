@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_heartland_2005",
+  "title": "America's Heartland",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4742553",
+    "imdb": "tt0802425",
+    "tmdb": 41616
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_mantora_manga_tora_no_ana_2005",
+  "title": "Mantora ~Manga Tora no Ana~",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11278719"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "talk show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

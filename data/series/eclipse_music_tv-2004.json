@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eclipse_music_tv_2004",
+  "title": "Eclipse Music TV",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5333018"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 9,
+  "countries": [
+    "AU"
+  ]
+}

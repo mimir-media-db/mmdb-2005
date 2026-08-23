@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_wars_of_inlaws_2005",
+  "title": "Wars of In-laws",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7970867",
+    "imdb": "tt0845326",
+    "tmdb": 93117
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

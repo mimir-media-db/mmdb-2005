@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_autoindefinits_2005",
+  "title": "Autoindefinits",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q948962",
+    "imdb": "tt0465113"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

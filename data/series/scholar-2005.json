@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_scholar_2005",
+  "title": "The Scholar",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7762507",
+    "imdb": "tt0461632",
+    "tmdb": 8672
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

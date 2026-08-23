@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_bora_2005",
+  "title": "Bora",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4944245",
+    "tmdb": 11017
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 61,
+  "countries": [
+    "PH"
+  ]
+}

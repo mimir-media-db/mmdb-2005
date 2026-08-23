@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dragons_den_2005",
+  "title": "Dragons' Den",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5305406",
+    "imdb": "tt0443370",
+    "tmdb": 13678
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 14,
+  "total_episodes": 120,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jack_osbourne_adrenaline_junkie_2005",
+  "title": "Jack Osbourne: Adrenaline Junkie",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6114469",
+    "imdb": "tt0818017",
+    "tmdb": 2446
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 29,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

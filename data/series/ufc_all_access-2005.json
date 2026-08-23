@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ufc_all_access_2005",
+  "title": "UFC All Access",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q580715",
+    "imdb": "tt0922304",
+    "tmdb": 34817
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

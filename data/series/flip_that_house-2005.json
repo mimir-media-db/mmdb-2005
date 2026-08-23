@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_flip_that_house_2005",
+  "title": "Flip That House",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5459673",
+    "imdb": "tt0476040",
+    "tmdb": 11748
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

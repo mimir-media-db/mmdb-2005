@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_egzamin_z_zycia_2004",
+  "title": "Egzamin z zycia",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9251604",
+    "imdb": "tt0461867",
+    "tmdb": 49108
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 112,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

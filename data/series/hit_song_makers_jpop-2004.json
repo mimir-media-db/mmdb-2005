@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_hit_song_makers_jpop_2004",
+  "title": "HIT SONG MAKERS 〜栄光のJ-POP伝説〜",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11222693"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

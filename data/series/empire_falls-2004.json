@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_empire_falls_2004",
+  "title": "Empire Falls",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1339323",
+    "imdb": "tt0376591",
+    "tmdb": 14968
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

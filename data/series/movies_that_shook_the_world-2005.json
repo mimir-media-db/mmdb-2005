@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_movies_that_shook_the_world_2005",
+  "title": "Movies That Shook the World",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6926913",
+    "imdb": "tt0489613",
+    "tmdb": 28026
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

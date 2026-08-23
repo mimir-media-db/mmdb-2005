@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_distant_shores_2005",
+  "title": "Distant Shores",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5282908",
+    "imdb": "tt0416363",
+    "tmdb": 1761
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

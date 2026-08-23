@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_skating_on_thin_ice_2005",
+  "title": "Skating on Thin Ice",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7534171",
+    "imdb": "tt0488466"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

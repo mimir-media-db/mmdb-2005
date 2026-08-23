@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_brdrene_dal_og_mysteriet_med_karl_xiis_gamasjer_2005",
+  "title": "Brødrene Dal og mysteriet med Karl XIIs gamasjer",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q11962481",
+    "imdb": "tt0407369",
+    "tmdb": 38661
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

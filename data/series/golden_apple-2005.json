@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_apple_2005",
+  "title": "Golden Apple",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5579134"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "genres": [
+    "Spy",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

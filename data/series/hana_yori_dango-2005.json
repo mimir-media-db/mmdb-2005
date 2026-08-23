@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_hana_yori_dango_2005",
+  "title": "Hana Yori Dango",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q703107",
+    "imdb": "tt0489597",
+    "tmdb": 17438
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

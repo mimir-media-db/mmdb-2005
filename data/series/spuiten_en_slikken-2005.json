@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_spuiten_en_slikken_2005",
+  "title": "Spuiten en Slikken",
+  "start_year": 2005,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q839386",
+    "imdb": "tt0809309",
+    "tmdb": 8997
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "genres": [
+    "Documentary",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": []
+}

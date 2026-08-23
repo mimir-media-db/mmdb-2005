@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_judge_alex_2005",
+  "title": "Judge Alex",
+  "start_year": 2005,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6302478",
+    "imdb": "tt0445120",
+    "tmdb": 13543
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 9,
+  "total_episodes": 1350,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

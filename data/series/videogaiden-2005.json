@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_videogaiden_2005",
+  "title": "VideoGaiden",
+  "start_year": 2005,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7927782",
+    "imdb": "tt0880433",
+    "tmdb": 14162
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 41,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

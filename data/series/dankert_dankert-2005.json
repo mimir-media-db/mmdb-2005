@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_dankert_dankert_2005",
+  "title": "Dankert & Dankert",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1827042",
+    "imdb": "tt0929655"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

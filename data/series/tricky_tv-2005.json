@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tricky_tv_2005",
+  "title": "Tricky TV",
+  "start_year": 2005,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1585951",
+    "imdb": "tt0840211",
+    "tmdb": 2520
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 43,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

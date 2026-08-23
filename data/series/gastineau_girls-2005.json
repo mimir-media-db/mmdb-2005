@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_gastineau_girls_2005",
+  "title": "The Gastineau Girls",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7735900",
+    "imdb": "tt0446621",
+    "tmdb": 10449
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

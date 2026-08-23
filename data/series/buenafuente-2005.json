@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_buenafuente_2005",
+  "title": "Buenafuente",
+  "start_year": 2005,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q8253427",
+    "imdb": "tt0442870",
+    "tmdb": 112289
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 964,
+  "genres": [
+    "Comedy",
+    "Music",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

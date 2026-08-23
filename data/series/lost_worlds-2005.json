@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_worlds_2005",
+  "title": "Lost Worlds",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3283836",
+    "imdb": "tt0962966",
+    "tmdb": 7634
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 32,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

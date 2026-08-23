@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_george_stroumboulopoulos_tonight_2005",
+  "title": "George Stroumboulopoulos Tonight",
+  "start_year": 2005,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5544925",
+    "imdb": "tt0456031",
+    "tmdb": 12649
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "genres": [
+    "Comedy",
+    "Music",
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

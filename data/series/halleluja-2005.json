@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_halleluja_2005",
+  "title": "Halleluja!",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2207822",
+    "imdb": "tt0443303"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

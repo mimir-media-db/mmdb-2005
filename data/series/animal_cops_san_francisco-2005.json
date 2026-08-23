@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_cops_san_francisco_2005",
+  "title": "Animal Cops: San Francisco",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4764782",
+    "imdb": "tt0770463",
+    "tmdb": 669
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_love_inc_2005",
+  "title": "Love, Inc.",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2061961",
+    "imdb": "tt0460656",
+    "tmdb": 3311
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

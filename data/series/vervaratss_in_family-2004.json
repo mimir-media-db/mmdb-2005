@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_vervaratss_in_family_2004",
+  "title": "Vervaratss In Family",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4350119"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 770,
+  "genres": [
+    "sitcom",
+    "comedy television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AM"
+  ]
+}

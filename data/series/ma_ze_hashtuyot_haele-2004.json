@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ma_ze_hashtuyot_haele_2004",
+  "title": "Ma Ze Ha-Shtuyot Ha-Ele",
+  "start_year": 2004,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q6846852",
+    "imdb": "tt0498438",
+    "tmdb": 311738
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 53,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

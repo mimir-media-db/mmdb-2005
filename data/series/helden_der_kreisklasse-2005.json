@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_helden_der_kreisklasse_2005",
+  "title": "Helden der Kreisklasse",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1601713",
+    "imdb": "tt0806432"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

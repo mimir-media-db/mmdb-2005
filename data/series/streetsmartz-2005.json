@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_streetsmartz_2005",
+  "title": "Streetsmartz",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2355387",
+    "imdb": "tt0454584",
+    "tmdb": 19723
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 39,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ice_girl_2005",
+  "title": "Ice Girl",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6824943",
+    "imdb": "tt2928696",
+    "tmdb": 222961
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

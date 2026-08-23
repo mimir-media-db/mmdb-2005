@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_granja_vip_2005",
+  "title": "La Granja VIP",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6462912",
+    "imdb": "tt13784712"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

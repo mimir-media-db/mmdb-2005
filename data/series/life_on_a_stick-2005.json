@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_life_on_a_stick_2005",
+  "title": "Life on a Stick",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3141077",
+    "imdb": "tt0412221",
+    "tmdb": 639
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

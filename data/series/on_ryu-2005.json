@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_on_ryu_2005",
+  "title": "音流〜On Ryu〜",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11664297"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "music program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

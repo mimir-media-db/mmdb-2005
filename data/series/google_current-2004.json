@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_google_current_2004",
+  "title": "Google Current",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5583824",
+    "imdb": "tt0479831",
+    "tmdb": 21250
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

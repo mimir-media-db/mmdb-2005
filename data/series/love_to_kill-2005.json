@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_love_to_kill_2005",
+  "title": "A Love to Kill",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4657986",
+    "imdb": "tt0499280",
+    "tmdb": 2619
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

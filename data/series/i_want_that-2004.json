@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_i_want_that_2004",
+  "title": "I Want That!",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5979473"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

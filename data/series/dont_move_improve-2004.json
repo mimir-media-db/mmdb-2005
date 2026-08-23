@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dont_move_improve_2004",
+  "title": "Don't Move, Improve",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5291833",
+    "imdb": "tt0812120"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 31,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

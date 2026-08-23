@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fashion_70s_2005",
+  "title": "Fashion 70's",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q625562",
+    "imdb": "tt4425008",
+    "tmdb": 36741
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 28,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

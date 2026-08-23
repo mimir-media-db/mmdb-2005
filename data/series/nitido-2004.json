@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_nitido_2004",
+  "title": "Nitido",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7041288",
+    "imdb": "tt1244654"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

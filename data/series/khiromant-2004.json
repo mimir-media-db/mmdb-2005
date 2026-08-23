@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_khiromant_2004",
+  "title": "Khiromant",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4497877",
+    "imdb": "tt4353394",
+    "tmdb": 132973
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

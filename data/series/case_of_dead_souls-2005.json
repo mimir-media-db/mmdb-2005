@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_case_of_dead_souls_2005",
+  "title": "The Case of \"Dead Souls\"",
+  "start_year": 2005,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4157190",
+    "imdb": "tt0456769",
+    "tmdb": 156895
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

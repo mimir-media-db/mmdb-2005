@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_but_can_they_sing_2005",
+  "title": "But Can They Sing?",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5002310",
+    "imdb": "tt0487237",
+    "tmdb": 10383
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

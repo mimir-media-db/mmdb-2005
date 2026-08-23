@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_neveneffecten_2004",
+  "title": "Neveneffecten",
+  "start_year": 2004,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2092477",
+    "imdb": "tt0756272",
+    "tmdb": 14067
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

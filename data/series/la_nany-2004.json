@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_nany_2004",
+  "title": "La Nany",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6464087",
+    "imdb": "tt0472607",
+    "tmdb": 33140
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 106,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

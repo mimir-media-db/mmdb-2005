@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_caterina_e_le_sue_figlie_2005",
+  "title": "Caterina e le sue figlie",
+  "start_year": 2005,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2941764",
+    "imdb": "tt0452757",
+    "tmdb": 17809
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

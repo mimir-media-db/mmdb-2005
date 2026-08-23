@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_picture_of_britain_2005",
+  "title": "A Picture of Britain",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4658810",
+    "imdb": "tt0465346",
+    "tmdb": 8903
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_etheria_2005",
+  "title": "Etheria",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5403319",
+    "imdb": "tt0494597",
+    "tmdb": 4443
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

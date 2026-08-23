@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fire_meplease_2005",
+  "title": "Fire Me...Please",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5451393",
+    "imdb": "tt0419324"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

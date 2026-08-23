@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_liontin_2005",
+  "title": "Liontin",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q12494980",
+    "tmdb": 49935
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 203,
+  "countries": [
+    "ID"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_campbell_live_2005",
+  "title": "Campbell Live",
+  "start_year": 2005,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q74161",
+    "imdb": "tt1400602"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NZ"
+  ]
+}

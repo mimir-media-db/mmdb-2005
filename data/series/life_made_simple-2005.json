@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_life_made_simple_2005",
+  "title": "Life Made Simple",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6544930",
+    "imdb": "tt0936452",
+    "tmdb": 2949
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 32,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN",
+    "HK"
+  ]
+}

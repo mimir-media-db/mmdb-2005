@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_gumus_2005",
+  "title": "Gümüş",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1262654",
+    "imdb": "tt0441924",
+    "tmdb": 70926
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 100,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

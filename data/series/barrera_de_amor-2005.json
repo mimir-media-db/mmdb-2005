@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_barrera_de_amor_2005",
+  "title": "Barrera de amor",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q590426",
+    "imdb": "tt0459677",
+    "tmdb": 13086
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 135,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

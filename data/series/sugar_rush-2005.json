@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sugar_rush_2005",
+  "title": "Sugar Rush",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2476852",
+    "imdb": "tt0452568",
+    "tmdb": 407
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_reunion_2005",
+  "title": "Reunion",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q973173",
+    "imdb": "tt0460672",
+    "tmdb": 2366
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

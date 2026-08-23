@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_rock_star_inxs_2005",
+  "title": "Rock Star: INXS",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7354697",
+    "imdb": "tt0460673",
+    "tmdb": 4370
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

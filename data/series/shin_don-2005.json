@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_shin_don_2005",
+  "title": "Shin Don",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q625950",
+    "imdb": "tt6289520",
+    "tmdb": 23410
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 63,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

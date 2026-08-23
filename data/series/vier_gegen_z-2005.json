@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_vier_gegen_z_2005",
+  "title": "Vier gegen Z",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q238284",
+    "imdb": "tt0457220",
+    "tmdb": 60722
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 39,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

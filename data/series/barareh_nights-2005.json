@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_barareh_nights_2005",
+  "title": "Barareh Nights",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3481141",
+    "imdb": "tt0493331",
+    "tmdb": 1701
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 92,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_nascarcoms_postrace_show_2005",
+  "title": "NASCAR.COM's Post-Race Show",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6952459",
+    "imdb": "tt7136946"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

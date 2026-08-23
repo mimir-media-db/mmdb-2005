@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_trois_hommes_un_village_2004",
+  "title": "Trois hommes, un village",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65323692"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BF"
+  ]
+}

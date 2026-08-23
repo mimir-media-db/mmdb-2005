@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sad_love_story_2005",
+  "title": "Sad Love Story",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q488730",
+    "imdb": "tt0460379",
+    "tmdb": 14012
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

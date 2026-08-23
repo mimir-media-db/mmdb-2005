@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_el_baile_de_la_vida_2005",
+  "title": "El baile de la vida",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5823980",
+    "imdb": "tt0495923",
+    "tmdb": 137230
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 125,
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

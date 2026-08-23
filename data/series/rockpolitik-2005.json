@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_rockpolitik_2005",
+  "title": "Rockpolitik",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3939815",
+    "imdb": "tt0488190",
+    "tmdb": 58215
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Music",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

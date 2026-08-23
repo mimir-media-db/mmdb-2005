@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_walter_and_tandoori_2004",
+  "title": "Walter and Tandoori",
+  "start_year": 2004,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3565670",
+    "imdb": "tt4460990"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 65,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "FR"
+  ]
+}

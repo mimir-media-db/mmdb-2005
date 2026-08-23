@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dangerous_encounters_with_brady_barr_2005",
+  "title": "Dangerous Encounters with Brady Barr",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5216091",
+    "imdb": "tt0924555",
+    "tmdb": 23617
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

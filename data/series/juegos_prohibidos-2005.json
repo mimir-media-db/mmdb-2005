@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_juegos_prohibidos_2005",
+  "title": "Juegos prohibidos",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5954435",
+    "imdb": "tt0491733",
+    "tmdb": 219167
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 121,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

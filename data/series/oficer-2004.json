@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_oficer_2004",
+  "title": "Oficer",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11796555",
+    "imdb": "tt0832328",
+    "tmdb": 36761
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

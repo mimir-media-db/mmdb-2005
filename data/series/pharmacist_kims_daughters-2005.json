@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_pharmacist_kims_daughters_2005",
+  "title": "Pharmacist Kim's Daughters",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12587944"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 174,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

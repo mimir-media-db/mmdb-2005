@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ulice_2005",
+  "title": "Ulice",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q14902292",
+    "imdb": "tt0484918",
+    "tmdb": 36361
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 15,
+  "total_episodes": 4393,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

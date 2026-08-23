@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pixcodelics_2005",
+  "title": "Pixcodelics",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7199694",
+    "imdb": "tt4971768"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 65,
+  "genres": [
+    "Animation",
+    "Family",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

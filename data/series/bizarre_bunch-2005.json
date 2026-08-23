@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_bizarre_bunch_2005",
+  "title": "Bizarre Bunch",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4919363",
+    "tmdb": 21327
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 170,
+  "genres": [
+    "drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_brainiac_history_abuse_2005",
+  "title": "Brainiac: History Abuse",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4955899",
+    "imdb": "tt0479826",
+    "tmdb": 5445
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

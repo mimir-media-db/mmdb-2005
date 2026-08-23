@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sos_stories_of_survival_2005",
+  "title": "S.O.S.: Stories of Survival",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12970250"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "PH"
+  ]
+}

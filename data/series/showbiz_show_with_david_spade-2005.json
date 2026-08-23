@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_showbiz_show_with_david_spade_2005",
+  "title": "The Showbiz Show with David Spade",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q16167344",
+    "imdb": "tt0466622",
+    "tmdb": 2067
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 39,
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

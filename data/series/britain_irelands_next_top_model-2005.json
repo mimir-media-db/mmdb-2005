@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_britain_irelands_next_top_model_2005",
+  "title": "Britain & Ireland's Next Top Model",
+  "start_year": 2005,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q2629355",
+    "imdb": "tt0481440",
+    "tmdb": 2819
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 82,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

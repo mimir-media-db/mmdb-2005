@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_hauskat_kotivideot_2005",
+  "title": "Hauskat kotivideot",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11861742",
+    "imdb": "tt0835008"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

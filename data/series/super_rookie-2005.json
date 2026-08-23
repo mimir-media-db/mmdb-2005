@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_super_rookie_2005",
+  "title": "Super Rookie",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q489061",
+    "imdb": "tt0883870",
+    "tmdb": 14611
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

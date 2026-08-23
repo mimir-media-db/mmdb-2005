@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_sad_goodbye_2005",
+  "title": "Sad Goodbye",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12603824"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 60,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

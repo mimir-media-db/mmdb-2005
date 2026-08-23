@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_yume_de_aimashou_2005",
+  "title": "Yume de Aimashou",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4185856",
+    "tmdb": 35296
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

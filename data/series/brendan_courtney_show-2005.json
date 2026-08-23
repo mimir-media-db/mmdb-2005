@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_brendan_courtney_show_2005",
+  "title": "The Brendan Courtney Show",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7719963",
+    "imdb": "tt0490528",
+    "tmdb": 40383
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IE"
+  ]
+}
