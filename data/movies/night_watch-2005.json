@@ -9,7 +9,13 @@
     "imdb": "tt0403358",
     "tmdb": 3040
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-09-01",
-  "runtime_minutes": 115
+  "runtime_minutes": 115,
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Horror"
+  ],
+  "is_adult": false
 }

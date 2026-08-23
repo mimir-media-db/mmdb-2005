@@ -9,6 +9,12 @@
     "imdb": "tt0295179",
     "tmdb": 326970
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-04-14"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-04-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "War"
+  ],
+  "is_adult": false
 }

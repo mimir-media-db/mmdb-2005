@@ -9,6 +9,11 @@
     "imdb": "tt0428107",
     "tmdb": 64385
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 4
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

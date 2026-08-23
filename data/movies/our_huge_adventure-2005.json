@@ -9,6 +9,12 @@
     "imdb": "tt2333658",
     "tmdb": 224203
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-08-23"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-08-23",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+  ],
+  "is_adult": false
 }

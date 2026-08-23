@@ -9,6 +9,11 @@
     "imdb": "tt1579754",
     "tmdb": 258352
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-02-12"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-02-12",
+  "genres": [
+    "Action",
+    "Romance"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,10 @@
     "imdb": "tt2111262",
     "tmdb": 187161
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-11-25"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-11-25",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

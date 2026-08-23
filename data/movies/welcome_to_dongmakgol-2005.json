@@ -9,7 +9,13 @@
     "imdb": "tt0475783",
     "tmdb": 14968
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-01-01",
-  "runtime_minutes": 133
+  "runtime_minutes": 133,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "is_adult": false
 }

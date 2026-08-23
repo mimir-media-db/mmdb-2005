@@ -9,6 +9,11 @@
     "imdb": "tt0784994",
     "tmdb": 72383
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-12-03"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-12-03",
+  "genres": [
+    "Documentary",
+    "Romance"
+  ],
+  "is_adult": false
 }

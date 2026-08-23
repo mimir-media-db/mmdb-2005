@@ -8,6 +8,12 @@
     "wikidata": "Q25136770",
     "imdb": "tt2111288"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-01-01",
+  "genres": [
+    "Biography",
+    "History",
+    "Short"
+  ],
+  "is_adult": false
 }

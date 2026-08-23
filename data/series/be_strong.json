@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q491408"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 163
+  "last_updated": "2026-08-23",
+  "total_episodes": 163,
+  "genres": [
+    "drama television series",
+    "Sport"
+  ],
+  "is_adult": false
 }

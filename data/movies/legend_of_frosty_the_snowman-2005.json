@@ -9,6 +9,12 @@
     "imdb": "tt0488147",
     "tmdb": 27933
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-10-18"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-10-18",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false
 }

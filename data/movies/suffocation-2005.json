@@ -9,6 +9,12 @@
     "imdb": "tt0470621",
     "tmdb": 121752
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-03-05"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-03-05",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false
 }

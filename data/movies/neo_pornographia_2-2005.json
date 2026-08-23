@@ -9,7 +9,11 @@
     "imdb": "tt0468054",
     "tmdb": 642321
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-08-01",
-  "runtime_minutes": 240
+  "runtime_minutes": 240,
+  "genres": [
+    "Adult"
+  ],
+  "is_adult": true
 }

@@ -8,7 +8,13 @@
     "wikidata": "Q59659728",
     "imdb": "tt0758429"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-01-01",
-  "runtime_minutes": 7
+  "runtime_minutes": 7,
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Short"
+  ],
+  "is_adult": false
 }

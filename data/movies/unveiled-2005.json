@@ -9,7 +9,11 @@
     "imdb": "tt0428672",
     "tmdb": 56823
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-07-04",
-  "runtime_minutes": 97
+  "runtime_minutes": 97,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

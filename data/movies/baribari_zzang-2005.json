@@ -8,6 +8,11 @@
     "wikidata": "Q20651747",
     "tmdb": 491302
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-08-19"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-08-19",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "is_adult": false
 }

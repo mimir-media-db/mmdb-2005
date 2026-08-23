@@ -7,7 +7,13 @@
   "external_ids": {
     "wikidata": "Q105939990"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 26
+  "total_episodes": 26,
+  "genres": [
+    "soap opera",
+    "Drama",
+    "Spy"
+  ],
+  "is_adult": false
 }

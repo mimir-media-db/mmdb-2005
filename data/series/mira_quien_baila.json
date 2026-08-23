@@ -7,7 +7,12 @@
   "external_ids": {
     "wikidata": "Q6872231"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 9,
-  "total_episodes": 137
+  "total_episodes": 137,
+  "genres": [
+    "game show",
+    "music television"
+  ],
+  "is_adult": false
 }

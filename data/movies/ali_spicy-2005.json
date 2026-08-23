@@ -9,6 +9,11 @@
     "imdb": "tt1807918",
     "tmdb": 454321
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-02-28"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-02-28",
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "is_adult": false
 }

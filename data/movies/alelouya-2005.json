@@ -9,6 +9,10 @@
     "imdb": "tt1667884",
     "tmdb": 1745585
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-07-22"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-07-22",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt0393162",
     "tmdb": 7214
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-01-14",
-  "runtime_minutes": 136
+  "runtime_minutes": 136,
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false
 }

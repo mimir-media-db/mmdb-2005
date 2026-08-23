@@ -9,6 +9,7 @@
     "imdb": "tt28313143",
     "tmdb": 1707401
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-01-01",
+  "is_adult": false
 }

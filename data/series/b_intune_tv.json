@@ -8,7 +8,12 @@
     "wikidata": "Q4836959",
     "imdb": "tt1863524"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 8,
-  "total_episodes": 208
+  "total_episodes": 208,
+  "genres": [
+    "Family",
+    "Music"
+  ],
+  "is_adult": false
 }

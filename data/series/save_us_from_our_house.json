@@ -8,5 +8,10 @@
     "wikidata": "Q17125798",
     "imdb": "tt1030463"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,12 @@
     "imdb": "tt0762124",
     "tmdb": 193449
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-01-05"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-01-05",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false
 }

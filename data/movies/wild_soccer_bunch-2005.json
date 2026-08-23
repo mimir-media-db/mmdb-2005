@@ -9,7 +9,13 @@
     "imdb": "tt0418325",
     "tmdb": 8344
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-02-17",
-  "runtime_minutes": 89
+  "runtime_minutes": 89,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Sport"
+  ],
+  "is_adult": false
 }

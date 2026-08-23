@@ -9,7 +9,12 @@
     "imdb": "tt0847899",
     "tmdb": 65415
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-08-15",
-  "runtime_minutes": 117
+  "runtime_minutes": 117,
+  "genres": [
+    "History",
+    "War"
+  ],
+  "is_adult": false
 }

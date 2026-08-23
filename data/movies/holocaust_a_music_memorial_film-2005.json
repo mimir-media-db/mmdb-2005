@@ -8,7 +8,12 @@
     "wikidata": "Q48877217",
     "imdb": "tt0443534"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-01-01",
-  "runtime_minutes": 88
+  "runtime_minutes": 88,
+  "genres": [
+    "Music",
+    "War"
+  ],
+  "is_adult": false
 }

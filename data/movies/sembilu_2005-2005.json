@@ -8,6 +8,11 @@
     "wikidata": "Q12708742",
     "imdb": "tt32375364"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2005-03-24"
+  "last_updated": "2026-08-23",
+  "release_date": "2005-03-24",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false
 }

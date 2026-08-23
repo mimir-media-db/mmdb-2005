@@ -9,7 +9,11 @@
     "imdb": "tt0372784",
     "tmdb": 272
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2005-06-15",
-  "runtime_minutes": 140
+  "runtime_minutes": 140,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false
 }
